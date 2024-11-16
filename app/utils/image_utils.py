@@ -7,6 +7,9 @@ import cv2
 
 def preprocess_image(base64_image):
     
+    if base64_image.startswith("data:image"):
+        base64_image = base64_image.split(",")[1]
+        
     image_data = base64.b64decode(base64_image)
     
     # Remove o fundo com segmentação
@@ -50,10 +53,10 @@ def preprocess_image(base64_image):
     final_image_pil = brightness_enhancer.enhance(1.1)
     sharpness_enhancer = ImageEnhance.Sharpness(final_image_pil)
     final_image_pil = sharpness_enhancer.enhance(1.2)
-
+    
     # Converte a imagem processada de volta para Base64
     buffered = io.BytesIO()
     final_image_pil.save(buffered, format="JPEG")
-    processed_image_base64 = base64.b64encode(buffered.getvalue()).decode('utf-8')
-
-    return processed_image_base64
+    #processed_image_base64 = base64.b64encode(buffered.getvalue()).decode('utf-8')
+    image_binary = buffered.getvalue()
+    return image_binary#processed_image_base64
