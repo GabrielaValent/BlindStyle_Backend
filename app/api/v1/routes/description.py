@@ -13,7 +13,7 @@ import pickle
 import os
 
 
-from app.api.v1.schemas.description import DescriptionSchema
+from app.api.v1.schemas.description import DescriptionRequestSchema, DescriptionSchema
 from app.utils.image_utils import preprocess_image
 
 router = APIRouter()
@@ -62,9 +62,9 @@ def format_predictions(prediction):
 
 
 @router.post("/description")
-async def predict(input: str):
+async def predict(request: DescriptionRequestSchema):
     try:
-        preprocessed_image = preprocess_image(input)
+        preprocessed_image = preprocess_image(request.input)
 
         image = Image.open(io.BytesIO(preprocessed_image))
         np_array = np.array(image)
