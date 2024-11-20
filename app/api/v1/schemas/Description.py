@@ -35,6 +35,5 @@ class DescriptionReturnSchema(BaseModel):
         from_attributes = True
         
 
-
 class DescriptionRequestSchema(BaseModel):
     input: str
