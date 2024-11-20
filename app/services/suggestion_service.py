@@ -45,16 +45,12 @@ def post_single_clothing_analysis(db: Session, user_id: int, clothing_id1: int):
     response = model.generate_content(prompt)
     analysis_description = response.text
 
-    print(analysis_description)
-    print("creating analysis")
-
     analysis = AnalysisEntity(
         analysis = analysis_description
     )
     db.add(analysis)
     db.flush()
-    print("created analysis")
-    print("creating ClothingAnalysis")
+
     clothing_analysis = ClothingAnalysisEntity (
         clothing_id1 = clothing_id1,
         clothing_id2 = None,
@@ -62,8 +58,6 @@ def post_single_clothing_analysis(db: Session, user_id: int, clothing_id1: int):
     )
     db.add(clothing_analysis)
     db.commit()
-    print("created ClothingAnalysis")
     db.refresh(clothing_analysis)   
-    print("created refresh")
-    print(clothing_analysis)
+
     return clothing_analysis
