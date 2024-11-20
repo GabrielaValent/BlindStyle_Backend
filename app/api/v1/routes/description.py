@@ -1,19 +1,14 @@
-import base64
 import io
 import cv2
 import numpy as np
 import pandas as pd
-from fastapi import APIRouter, HTTPException, File, UploadFile
-from pydantic import BaseModel
-from rembg import remove
-from PIL import Image, ImageEnhance
+from fastapi import APIRouter, HTTPException
+from PIL import Image
 from tensorflow.keras.models import load_model 
-from sklearn.preprocessing import LabelBinarizer
 import pickle
-import os
 
 
-from app.api.v1.schemas.description import DescriptionSchema
+from app.api.v1.schemas.description import DescriptionRequestSchema, DescriptionSchema
 from app.utils.image_utils import preprocess_image
 
 router = APIRouter()
@@ -22,7 +17,7 @@ def load_encoders():
     with open('app/encoders.pkl', 'rb') as f:
         return pickle.load(f)
 
-MODEL_PATH = "app/model.keras"
+MODEL_PATH = "app\model.keras"
 model = load_model(MODEL_PATH, safe_mode=False)
 encoders = load_encoders()
 
@@ -62,9 +57,9 @@ def format_predictions(prediction):
 
 
 @router.post("/description")
-async def predict(input: str):
+async def predict(request: DescriptionRequestSchema):
     try:
-        preprocessed_image = preprocess_image(input)
+        preprocessed_image = preprocess_image(request.input)
 
         image = Image.open(io.BytesIO(preprocessed_image))
         np_array = np.array(image)

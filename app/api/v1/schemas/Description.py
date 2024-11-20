@@ -1,6 +1,5 @@
-from sqlite3 import Timestamp
-from pydantic import BaseModel, Field
-from typing import List, Optional
+from pydantic import BaseModel
+from typing import List
 
 
 class DescriptionSchema(BaseModel):
@@ -34,3 +33,8 @@ class DescriptionReturnSchema(BaseModel):
     
     class Config:
         from_attributes = True
+        
+
+
+class DescriptionRequestSchema(BaseModel):
+    input: str
