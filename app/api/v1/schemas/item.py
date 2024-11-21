@@ -8,7 +8,7 @@ class ClothingItemUpdateSchema(BaseModel):
 
 
 class ClothingItemSchema(BaseModel):
-    name: str
+    name: Optional[str] = None
     description: Optional[str] = None
     ownership: Optional[bool] = True
     image_url: Optional[str] = None
