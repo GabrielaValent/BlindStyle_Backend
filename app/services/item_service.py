@@ -69,7 +69,6 @@ def create_clothing_item(db: Session, item: ClothingItemSchema, user_id: int):
         description=item.description,
         ownership=item.ownership,
         image_url=image_url,
-        created_at=datetime.now(),
         status = True
     )
     db.add(new_item)
