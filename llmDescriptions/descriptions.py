@@ -6,7 +6,7 @@ import google.generativeai as genai
 import re
 
 # Configurar a API Gemini
-genai.configure(api_key="AIzaSyCiHIAFGQCmMHlpFouxWCWWUTiRmF52CSI")
+genai.configure(api_key="CAHVE")
 model = genai.GenerativeModel("gemini-1.5-flash")
 
 # Prompt fornecido
