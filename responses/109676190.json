@@ -1,0 +1,58 @@
+{
+  "0.jpg": {
+    "category": "others",
+    "item_type": "dress and shoes",
+    "primary_color": "beige and dark brown",
+    "usage": "party",
+    "texture": "others",
+    "print_category": "plain"
+  },
+  "1.jpg": {
+    "category": "others",
+    "item_type": "nail polish",
+    "primary_color": "gold",
+    "usage": "others",
+    "texture": "others",
+    "print_category": "plain"
+  },
+  "2.jpg": {
+    "category": "others",
+    "item_type": "earrings",
+    "primary_color": "clear",
+    "usage": "party",
+    "texture": "others",
+    "print_category": "plain"
+  },
+  "3.jpg": {
+    "category": "others",
+    "item_type": "necklace",
+    "primary_color": "silver",
+    "usage": "party",
+    "texture": "others",
+    "print_category": "plain"
+  },
+  "4.jpg": {
+    "category": "tops",
+    "item_type": "dress",
+    "primary_color": "beige and dark brown",
+    "usage": "party",
+    "texture": "others",
+    "print_category": "plain"
+  },
+  "5.jpg": {
+    "category": "shoes",
+    "item_type": "high heels",
+    "primary_color": "beige",
+    "usage": "party",
+    "texture": "leather",
+    "print_category": "plain"
+  },
+  "6.jpg": {
+    "category": "others",
+    "item_type": "hairstyle",
+    "primary_color": "brown",
+    "usage": "others",
+    "texture": "others",
+    "print_category": "plain"
+  }
+}

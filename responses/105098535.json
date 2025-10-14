@@ -1,0 +1,58 @@
+{
+  "0.jpg": {
+    "category": "others",
+    "item_type": "multiple items",
+    "primary_color": "green",
+    "usage": "party",
+    "texture": "others",
+    "print_category": "animal"
+  },
+  "1.jpg": {
+    "category": "tops",
+    "item_type": "dress",
+    "primary_color": "green",
+    "usage": "party",
+    "texture": "mesh",
+    "print_category": "animal"
+  },
+  "2.jpg": {
+    "category": "shoes",
+    "item_type": "sandals",
+    "primary_color": "green",
+    "usage": "party",
+    "texture": "suede",
+    "print_category": "plain"
+  },
+  "3.jpg": {
+    "category": "others",
+    "item_type": "bracelet",
+    "primary_color": "green",
+    "usage": "party",
+    "texture": "others",
+    "print_category": "plain"
+  },
+  "4.jpg": {
+    "category": "others",
+    "item_type": "earrings",
+    "primary_color": "green",
+    "usage": "party",
+    "texture": "others",
+    "print_category": "plain"
+  },
+  "5.jpg": {
+    "category": "others",
+    "item_type": "phone",
+    "primary_color": "green",
+    "usage": "others",
+    "texture": "others",
+    "print_category": "plain"
+  },
+  "6.jpg": {
+    "category": "others",
+    "item_type": "person",
+    "primary_color": "brown",
+    "usage": "others",
+    "texture": "others",
+    "print_category": "plain"
+  }
+}

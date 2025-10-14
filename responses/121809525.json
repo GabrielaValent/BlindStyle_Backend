@@ -1,0 +1,42 @@
+{
+  "0.jpg": {
+    "category": "others",
+    "item_type": "multiple items",
+    "primary_color": "multicolored",
+    "usage": "casual",
+    "texture": "others",
+    "print_category": "abstract"
+  },
+  "1.jpg": {
+    "category": "tops",
+    "item_type": "dress",
+    "primary_color": "multicolored",
+    "usage": "casual",
+    "texture": "others",
+    "print_category": "abstract"
+  },
+  "2.jpg": {
+    "category": "tops",
+    "item_type": "jacket",
+    "primary_color": "blue",
+    "usage": "casual",
+    "texture": "denim",
+    "print_category": "plain"
+  },
+  "3.jpg": {
+    "category": "shoes",
+    "item_type": "wedges",
+    "primary_color": "black",
+    "usage": "casual",
+    "texture": "others",
+    "print_category": "plain"
+  },
+  "4.jpg": {
+    "category": "others",
+    "item_type": "bag",
+    "primary_color": "orange",
+    "usage": "casual",
+    "texture": "others",
+    "print_category": "plain"
+  }
+}

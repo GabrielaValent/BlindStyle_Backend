@@ -1,0 +1,35 @@
+{
+  "0.jpg": {
+    "category": "others"
+  },
+  "1.jpg": {
+    "category": "tops",
+    "item_type": "baseball shirt",
+    "primary_color": "white",
+    "usage": "casual",
+    "texture": "silk",
+    "print_category": "plain"
+  },
+  "2.jpg": {
+    "category": "bottoms",
+    "item_type": "leather pants",
+    "primary_color": "black",
+    "usage": "casual",
+    "texture": "leather",
+    "print_category": "plain"
+  },
+  "3.jpg": {
+    "category": "shoes",
+    "item_type": "boots",
+    "primary_color": "pink",
+    "usage": "casual",
+    "texture": "leather",
+    "print_category": "plain"
+  },
+  "4.jpg": {
+    "category": "others"
+  },
+  "5.jpg": {
+    "category": "others"
+  }
+}

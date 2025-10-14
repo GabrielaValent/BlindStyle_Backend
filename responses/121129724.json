@@ -1,0 +1,138 @@
+{
+  "0.jpg": {
+    "category": "others",
+    "item_type": null,
+    "primary_color": null,
+    "usage": null,
+    "texture": null,
+    "print_category": null
+  },
+  "1.jpg": {
+    "category": "others",
+    "item_type": null,
+    "primary_color": null,
+    "usage": null,
+    "texture": null,
+    "print_category": null
+  },
+  "2.jpg": {
+    "category": "others",
+    "item_type": null,
+    "primary_color": null,
+    "usage": null,
+    "texture": null,
+    "print_category": null
+  },
+  "3.jpg": {
+    "category": "others",
+    "item_type": null,
+    "primary_color": null,
+    "usage": null,
+    "texture": null,
+    "print_category": null
+  },
+  "4.jpg": {
+    "category": "others",
+    "item_type": null,
+    "primary_color": null,
+    "usage": null,
+    "texture": null,
+    "print_category": null
+  },
+  "5.jpg": {
+    "category": "others",
+    "item_type": "bedspread",
+    "primary_color": "green",
+    "usage": "sleepwear",
+    "texture": "velvet",
+    "print_category": "plaid"
+  },
+  "6.jpg": {
+    "category": "others",
+    "item_type": "pillows",
+    "primary_color": "green",
+    "usage": "sleepwear",
+    "texture": "velvet",
+    "print_category": "plaid"
+  },
+  "7.jpg": {
+    "category": "others",
+    "item_type": null,
+    "primary_color": null,
+    "usage": null,
+    "texture": null,
+    "print_category": null
+  },
+  "8.jpg": {
+    "category": "others",
+    "item_type": null,
+    "primary_color": null,
+    "usage": null,
+    "texture": null,
+    "print_category": null
+  },
+  "9.jpg": {
+    "category": "others",
+    "item_type": null,
+    "primary_color": null,
+    "usage": null,
+    "texture": null,
+    "print_category": null
+  },
+  "10.jpg": {
+    "category": "others",
+    "item_type": "curtains",
+    "primary_color": "green",
+    "usage": "others",
+    "texture": "velvet",
+    "print_category": "floral"
+  },
+  "11.jpg": {
+    "category": "others",
+    "item_type": null,
+    "primary_color": null,
+    "usage": null,
+    "texture": null,
+    "print_category": null
+  },
+  "12.jpg": {
+    "category": "others",
+    "item_type": null,
+    "primary_color": null,
+    "usage": null,
+    "texture": null,
+    "print_category": null
+  },
+  "13.jpg": {
+    "category": "others",
+    "item_type": null,
+    "primary_color": null,
+    "usage": null,
+    "texture": null,
+    "print_category": null
+  },
+  "14.jpg": {
+    "category": "others",
+    "item_type": "duvet cover",
+    "primary_color": "green",
+    "usage": "sleepwear",
+    "texture": "cotton",
+    "print_category": "floral"
+  },
+  "15.jpg": {
+    "category": "others",
+    "item_type": null,
+    "primary_color": null,
+    "usage": null,
+    "texture": null,
+    "print_category": null
+  },
+  "16.jpg": {
+    "category": "others",
+    "item_type": "pillowcases",
+    "primary_color": "green",
+    "usage": "sleepwear",
+    "texture": "cotton",
+    "print_category": "floral"
+  }
+}

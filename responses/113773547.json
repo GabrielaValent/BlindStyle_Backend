@@ -1,0 +1,154 @@
+{
+  "0.jpg": {
+    "category": "others",
+    "item_type": "collage",
+    "primary_color": "null",
+    "usage": "null",
+    "texture": "null",
+    "print_category": "null"
+  },
+  "1.jpg": {
+    "category": "tops",
+    "item_type": "dress",
+    "primary_color": "blue",
+    "usage": "casual",
+    "texture": "denim",
+    "print_category": "plain"
+  },
+  "2.jpg": {
+    "category": "tops",
+    "item_type": "shirt",
+    "primary_color": "blue",
+    "usage": "casual",
+    "texture": "cotton",
+    "print_category": "plaid"
+  },
+  "3.jpg": {
+    "category": "tops",
+    "item_type": "camisole",
+    "primary_color": "white",
+    "usage": "sleepwear",
+    "texture": "silk",
+    "print_category": "plain"
+  },
+  "4.jpg": {
+    "category": "shoes",
+    "item_type": "boots",
+    "primary_color": "blue",
+    "usage": "casual",
+    "texture": "leather",
+    "print_category": "graphic"
+  },
+  "5.jpg": {
+    "category": "others",
+    "item_type": "tote bag",
+    "primary_color": "blue",
+    "usage": "casual",
+    "texture": "cotton",
+    "print_category": "graphic"
+  },
+  "6.jpg": {
+    "category": "others",
+    "item_type": "bracelet",
+    "primary_color": "silver",
+    "usage": "null",
+    "texture": "leather",
+    "print_category": "plain"
+  },
+  "7.jpg": {
+    "category": "others",
+    "item_type": "necklace",
+    "primary_color": "gold",
+    "usage": "null",
+    "texture": "metal",
+    "print_category": "abstract"
+  },
+  "8.jpg": {
+    "category": "others",
+    "item_type": "necklace",
+    "primary_color": "silver",
+    "usage": "null",
+    "texture": "metal",
+    "print_category": "plain"
+  },
+  "9.jpg": {
+    "category": "others",
+    "item_type": "painting",
+    "primary_color": "beige",
+    "usage": "null",
+    "texture": "null",
+    "print_category": "abstract"
+  },
+  "10.jpg": {
+    "category": "others",
+    "item_type": "tile",
+    "primary_color": "beige",
+    "usage": "null",
+    "texture": "stone",
+    "print_category": "plain"
+  },
+  "11.jpg": {
+    "category": "others",
+    "item_type": "collage",
+    "primary_color": "null",
+    "usage": "null",
+    "texture": "null",
+    "print_category": "null"
+  },
+  "12.jpg": {
+    "category": "others",
+    "item_type": "pets",
+    "primary_color": "null",
+    "usage": "null",
+    "texture": "null",
+    "print_category": "null"
+  },
+  "13.jpg": {
+    "category": "others",
+    "item_type": "basket",
+    "primary_color": "beige",
+    "usage": "null",
+    "texture": "wood",
+    "print_category": "plain"
+  },
+  "14.jpg": {
+    "category": "others",
+    "item_type": "leaves",
+    "primary_color": "beige",
+    "usage": "null",
+    "texture": "null",
+    "print_category": "plain"
+  },
+  "15.jpg": {
+    "category": "others",
+    "item_type": "artwork",
+    "primary_color": "beige",
+    "usage": "null",
+    "texture": "paper",
+    "print_category": "graphic"
+  },
+  "16.jpg": {
+    "category": "others",
+    "item_type": "tag",
+    "primary_color": "brown",
+    "usage": "null",
+    "texture": "paper",
+    "print_category": "plain"
+  },
+  "17.jpg": {
+    "category": "others",
+    "item_type": "leaves",
+    "primary_color": "beige",
+    "usage": "null",
+    "texture": "null",
+    "print_category": "plain"
+  },
+  "18.jpg": {
+    "category": "others",
+    "item_type": "grass",
+    "primary_color": "beige",
+    "usage": "null",
+    "texture": "null",
+    "print_category": "plain"
+  }
+}

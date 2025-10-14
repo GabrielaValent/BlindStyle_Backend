@@ -1,0 +1,58 @@
+{
+  "0.jpg": {
+    "category": "shoes",
+    "item_type": "collage of different shoes",
+    "primary_color": "multi",
+    "usage": "casual",
+    "texture": "others",
+    "print_category": "plain"
+  },
+  "1.jpg": {
+    "category": "shoes",
+    "item_type": "high top sneakers",
+    "primary_color": "teal",
+    "usage": "casual",
+    "texture": "cotton",
+    "print_category": "plain"
+  },
+  "2.jpg": {
+    "category": "shoes",
+    "item_type": "slip on shoes",
+    "primary_color": "grey",
+    "usage": "casual",
+    "texture": "linen",
+    "print_category": "plain"
+  },
+  "3.jpg": {
+    "category": "shoes",
+    "item_type": "lace-up boots",
+    "primary_color": "brown",
+    "usage": "casual",
+    "texture": "leather",
+    "print_category": "plain"
+  },
+  "4.jpg": {
+    "category": "shoes",
+    "item_type": "oxford shoes",
+    "primary_color": "gold",
+    "usage": "party",
+    "texture": "others",
+    "print_category": "plain"
+  },
+  "5.jpg": {
+    "category": "shoes",
+    "item_type": "low top sneakers",
+    "primary_color": "white",
+    "usage": "casual",
+    "texture": "leather",
+    "print_category": "plain"
+  },
+  "6.jpg": {
+    "category": "others",
+    "item_type": "group photo, multiple clothing items",
+    "primary_color": "null",
+    "usage": "null",
+    "texture": "null",
+    "print_category": "null"
+  }
+}

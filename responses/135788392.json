@@ -1,0 +1,47 @@
+{
+  "0.jpg": {
+    "category": "others"
+  },
+  "1.jpg": {
+    "category": "tops",
+    "item_type": "cropped shirt",
+    "primary_color": "white",
+    "usage": "casual",
+    "texture": "cotton",
+    "print_category": "plain"
+  },
+  "2.jpg": {
+    "category": "bottoms",
+    "item_type": "jeans",
+    "primary_color": "blue",
+    "usage": "casual",
+    "texture": "denim",
+    "print_category": "plain"
+  },
+  "3.jpg": {
+    "category": "shoes",
+    "item_type": "ballet flats",
+    "primary_color": "silver",
+    "usage": "casual",
+    "texture": "leather",
+    "print_category": "plain"
+  },
+  "4.jpg": {
+    "category": "others"
+  },
+  "5.jpg": {
+    "category": "others"
+  },
+  "6.jpg": {
+    "category": "others"
+  },
+  "7.jpg": {
+    "category": "others"
+  },
+  "8.jpg": {
+    "category": "others"
+  },
+  "9.jpg": {
+    "category": "others"
+  }
+}

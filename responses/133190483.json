@@ -1,0 +1,41 @@
+{
+  "0.jpg": {
+    "category": "others"
+  },
+  "1.jpg": {
+    "category": "bottoms",
+    "item_type": "shorts",
+    "primary_color": "black",
+    "usage": "sportswear",
+    "texture": "polyester",
+    "print_category": "plain"
+  },
+  "2.jpg": {
+    "category": "tops",
+    "item_type": "sports bra",
+    "primary_color": "black",
+    "usage": "sportswear",
+    "texture": "mesh",
+    "print_category": "plain"
+  },
+  "3.jpg": {
+    "category": "shoes",
+    "item_type": "sneakers",
+    "primary_color": "black",
+    "usage": "sportswear",
+    "texture": "leather",
+    "print_category": "logo"
+  },
+  "4.jpg": {
+    "category": "others"
+  },
+  "5.jpg": {
+    "category": "others"
+  },
+  "6.jpg": {
+    "category": "others"
+  },
+  "7.jpg": {
+    "category": "others"
+  }
+}

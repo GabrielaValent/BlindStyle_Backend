@@ -1,0 +1,67 @@
+{
+  "0.jpg": {
+    "category": "others"
+  },
+  "1.jpg": {
+    "category": "tops",
+    "item_type": "bustier top",
+    "primary_color": "grey",
+    "usage": "party",
+    "texture": "polyester",
+    "print_category": "plain"
+  },
+  "2.jpg": {
+    "category": "tops",
+    "item_type": "denim jacket",
+    "primary_color": "blue",
+    "usage": "casual",
+    "texture": "denim",
+    "print_category": "plain"
+  },
+  "3.jpg": {
+    "category": "bottoms",
+    "item_type": "leggings",
+    "primary_color": "black",
+    "usage": "casual",
+    "texture": "leather",
+    "print_category": "plain"
+  },
+  "4.jpg": {
+    "category": "shoes",
+    "item_type": "platform heels",
+    "primary_color": "black",
+    "usage": "party",
+    "texture": "leather",
+    "print_category": "plain"
+  },
+  "5.jpg": {
+    "category": "others"
+  },
+  "6.jpg": {
+    "category": "others"
+  },
+  "7.jpg": {
+    "category": "others"
+  },
+  "8.jpg": {
+    "category": "others"
+  },
+  "9.jpg": {
+    "category": "others"
+  },
+  "10.jpg": {
+    "category": "others"
+  },
+  "11.jpg": {
+    "category": "others"
+  },
+  "12.jpg": {
+    "category": "others"
+  },
+  "13.jpg": {
+    "category": "others"
+  },
+  "14.jpg": {
+    "category": "others"
+  }
+}

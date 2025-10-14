@@ -1,0 +1,142 @@
+{
+  "0.jpg": {
+    "category": "others",
+    "item_type": null,
+    "primary_color": null,
+    "usage": null,
+    "texture": null,
+    "print_category": null
+  },
+  "1.jpg": {
+    "category": "others",
+    "item_type": null,
+    "primary_color": null,
+    "usage": null,
+    "texture": null,
+    "print_category": null
+  },
+  "2.jpg": {
+    "category": "others",
+    "item_type": null,
+    "primary_color": null,
+    "usage": null,
+    "texture": null,
+    "print_category": null
+  },
+  "3.jpg": {
+    "category": "others",
+    "item_type": null,
+    "primary_color": null,
+    "usage": null,
+    "texture": null,
+    "print_category": null
+  },
+  "4.jpg": {
+    "category": "others",
+    "item_type": null,
+    "primary_color": null,
+    "usage": null,
+    "texture": null,
+    "print_category": null
+  },
+  "5.jpg": {
+    "category": "others",
+    "item_type": null,
+    "primary_color": null,
+    "usage": null,
+    "texture": null,
+    "print_category": null
+  },
+  "6.jpg": {
+    "category": "others",
+    "item_type": "blanket",
+    "primary_color": "mustard yellow",
+    "usage": "sleepwear",
+    "texture": "knit",
+    "print_category": "plain"
+  },
+  "7.jpg": {
+    "category": "others",
+    "item_type": null,
+    "primary_color": null,
+    "usage": null,
+    "texture": null,
+    "print_category": null
+  },
+  "8.jpg": {
+    "category": "others",
+    "item_type": "basket",
+    "primary_color": "brown",
+    "usage": null,
+    "texture": "wicker",
+    "print_category": "plain"
+  },
+  "9.jpg": {
+    "category": "others",
+    "item_type": "cushion",
+    "primary_color": "beige",
+    "usage": "casual",
+    "texture": "velvet",
+    "print_category": "plain"
+  },
+  "10.jpg": {
+    "category": "others",
+    "item_type": "suitcase",
+    "primary_color": "off-white",
+    "usage": null,
+    "texture": "leather",
+    "print_category": "plain"
+  },
+  "11.jpg": {
+    "category": "others",
+    "item_type": "rug",
+    "primary_color": "multicolored",
+    "usage": null,
+    "texture": "others",
+    "print_category": "abstract"
+  },
+  "12.jpg": {
+    "category": "shoes",
+    "item_type": "various shoes",
+    "primary_color": "multicolored",
+    "usage": [
+      "casual",
+      "formal",
+      "party"
+    ],
+    "texture": [
+      "leather",
+      "fabric",
+      "suede"
+    ],
+    "print_category": [
+      "plain",
+      "animal",
+      "striped"
+    ]
+  },
+  "13.jpg": {
+    "category": "others",
+    "item_type": null,
+    "primary_color": null,
+    "usage": null,
+    "texture": null,
+    "print_category": null
+  },
+  "14.jpg": {
+    "category": "others",
+    "item_type": null,
+    "primary_color": null,
+    "usage": null,
+    "texture": null,
+    "print_category": null
+  },
+  "15.jpg": {
+    "category": "others",
+    "item_type": null,
+    "primary_color": null,
+    "usage": null,
+    "texture": null,
+    "print_category": null
+  }
+}

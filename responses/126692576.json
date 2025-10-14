@@ -1,0 +1,49 @@
+{
+  "0.jpg": {
+    "category": "others"
+  },
+  "1.jpg": {
+    "category": "tops",
+    "item_type": "camisole",
+    "primary_color": "gold",
+    "usage": "party",
+    "texture": "silk",
+    "print_category": "plain"
+  },
+  "2.jpg": {
+    "category": "tops",
+    "item_type": "cape",
+    "primary_color": "black",
+    "usage": "casual",
+    "texture": "knit",
+    "print_category": "plain"
+  },
+  "3.jpg": {
+    "category": "bottoms",
+    "item_type": "leather pants",
+    "primary_color": "black",
+    "usage": "casual",
+    "texture": "leather",
+    "print_category": "plain"
+  },
+  "4.jpg": {
+    "category": "shoes",
+    "item_type": "ankle boots",
+    "primary_color": "black",
+    "usage": "party",
+    "texture": "suede",
+    "print_category": "plain"
+  },
+  "5.jpg": {
+    "category": "others"
+  },
+  "6.jpg": {
+    "category": "others"
+  },
+  "7.jpg": {
+    "category": "others"
+  },
+  "8.jpg": {
+    "category": "others"
+  }
+}

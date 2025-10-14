@@ -1,0 +1,82 @@
+{
+  "0.jpg": {
+    "category": "others"
+  },
+  "1.jpg": {
+    "category": "others"
+  },
+  "2.jpg": {
+    "category": "others"
+  },
+  "3.jpg": {
+    "category": "others"
+  },
+  "4.jpg": {
+    "category": "others"
+  },
+  "5.jpg": {
+    "category": "others"
+  },
+  "6.jpg": {
+    "category": "others"
+  },
+  "7.jpg": {
+    "category": "tops",
+    "item_type": "tank top",
+    "primary_color": "gray",
+    "usage": "casual",
+    "texture": "knit",
+    "print_category": "plain"
+  },
+  "8.jpg": {
+    "category": "tops",
+    "item_type": "blouse",
+    "primary_color": "white",
+    "usage": "formal",
+    "texture": "others",
+    "print_category": "plain"
+  },
+  "9.jpg": {
+    "category": "tops",
+    "item_type": "jacket",
+    "primary_color": "brown",
+    "usage": "casual",
+    "texture": "leather",
+    "print_category": "plain"
+  },
+  "10.jpg": {
+    "category": "tops",
+    "item_type": "dress",
+    "primary_color": "black",
+    "usage": "formal",
+    "texture": "others",
+    "print_category": "plain"
+  },
+  "11.jpg": {
+    "category": "tops",
+    "item_type": "dress",
+    "primary_color": "white",
+    "usage": "casual",
+    "texture": "others",
+    "print_category": "plain"
+  },
+  "12.jpg": {
+    "category": "tops",
+    "item_type": "shirt",
+    "primary_color": "black",
+    "usage": "casual",
+    "texture": "others",
+    "print_category": "plain"
+  },
+  "13.jpg": {
+    "category": "tops",
+    "item_type": "cardigan",
+    "primary_color": "light blue",
+    "usage": "casual",
+    "texture": "knit",
+    "print_category": "plain"
+  },
+  "14.jpg": {
+    "category": "others"
+  }
+}

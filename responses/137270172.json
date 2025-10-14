@@ -1,0 +1,41 @@
+{
+  "0.jpg": {
+    "category": "others"
+  },
+  "1.jpg": {
+    "category": "shoes",
+    "item_type": "sneakers",
+    "primary_color": "black",
+    "usage": "casual",
+    "texture": "suede",
+    "print_category": "plain"
+  },
+  "2.jpg": {
+    "category": "others"
+  },
+  "3.jpg": {
+    "category": "others"
+  },
+  "4.jpg": {
+    "category": "others"
+  },
+  "5.jpg": {
+    "category": "tops",
+    "item_type": "t-shirt",
+    "primary_color": "multi-color",
+    "usage": "casual",
+    "texture": "cotton",
+    "print_category": "graphic"
+  },
+  "6.jpg": {
+    "category": "others"
+  },
+  "7.jpg": {
+    "category": "bottoms",
+    "item_type": "shorts",
+    "primary_color": "multi-color",
+    "usage": "casual",
+    "texture": "cotton",
+    "print_category": "graphic"
+  }
+}

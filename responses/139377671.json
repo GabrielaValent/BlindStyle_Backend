@@ -1,0 +1,62 @@
+{
+  "0.jpg": {
+    "category": "others"
+  },
+  "1.jpg": {
+    "category": "tops",
+    "item_type": "dress",
+    "primary_color": "dark blue",
+    "usage": "party",
+    "texture": "others",
+    "print_category": "abstract"
+  },
+  "2.jpg": {
+    "category": "shoes",
+    "item_type": "high-heeled sandals",
+    "primary_color": "light blue",
+    "usage": "party",
+    "texture": "leather",
+    "print_category": "plain"
+  },
+  "3.jpg": {
+    "category": "bottoms",
+    "item_type": "jeans",
+    "primary_color": "black",
+    "usage": "casual",
+    "texture": "denim",
+    "print_category": "plain"
+  },
+  "4.jpg": {
+    "category": "tops",
+    "item_type": "shirt",
+    "primary_color": "white",
+    "usage": "business",
+    "texture": "cotton",
+    "print_category": "plain"
+  },
+  "5.jpg": {
+    "category": "shoes",
+    "item_type": "dress shoes",
+    "primary_color": "dark blue",
+    "usage": "formal",
+    "texture": "leather",
+    "print_category": "plain"
+  },
+  "6.jpg": {
+    "category": "tops",
+    "item_type": "vest",
+    "primary_color": "dark gray",
+    "usage": "formal",
+    "texture": "wool",
+    "print_category": "plain"
+  },
+  "7.jpg": {
+    "category": "others"
+  },
+  "8.jpg": {
+    "category": "others"
+  },
+  "9.jpg": {
+    "category": "others"
+  }
+}

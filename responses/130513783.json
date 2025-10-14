@@ -1,0 +1,48 @@
+{
+  "0.jpg": {
+    "category": "others"
+  },
+  "1.jpg": {
+    "category": "bottoms",
+    "item_type": "shorts",
+    "primary_color": "orange",
+    "usage": "casual",
+    "texture": "cotton",
+    "print_category": "plain"
+  },
+  "2.jpg": {
+    "category": "others"
+  },
+  "3.jpg": {
+    "category": "others"
+  },
+  "4.jpg": {
+    "category": "tops",
+    "item_type": "one-shoulder top",
+    "primary_color": "red",
+    "usage": "party",
+    "texture": "polyester",
+    "print_category": "plain"
+  },
+  "5.jpg": {
+    "category": "others"
+  },
+  "6.jpg": {
+    "category": "others"
+  },
+  "7.jpg": {
+    "category": "others"
+  },
+  "8.jpg": {
+    "category": "others"
+  },
+  "9.jpg": {
+    "category": "others"
+  },
+  "10.jpg": {
+    "category": "others"
+  },
+  "11.jpg": {
+    "category": "others"
+  }
+}

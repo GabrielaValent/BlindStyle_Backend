@@ -1,0 +1,67 @@
+{
+  "0.jpg": {
+    "category": "others"
+  },
+  "1.jpg": {
+    "category": "tops",
+    "item_type": "dress",
+    "primary_color": "red",
+    "usage": "party",
+    "texture": "cotton",
+    "print_category": "abstract"
+  },
+  "2.jpg": {
+    "category": "tops",
+    "item_type": "tank top",
+    "primary_color": "black",
+    "usage": "casual",
+    "texture": "knit",
+    "print_category": "graphic"
+  },
+  "3.jpg": {
+    "category": "bottoms",
+    "item_type": "shorts",
+    "primary_color": "multicolor",
+    "usage": "casual",
+    "texture": "denim",
+    "print_category": "abstract"
+  },
+  "4.jpg": {
+    "category": "shoes",
+    "item_type": "boots",
+    "primary_color": "black",
+    "usage": "casual",
+    "texture": "leather",
+    "print_category": "plain"
+  },
+  "5.jpg": {
+    "category": "shoes",
+    "item_type": "ankle boots",
+    "primary_color": "black",
+    "usage": "party",
+    "texture": "suede",
+    "print_category": "plain"
+  },
+  "6.jpg": {
+    "category": "shoes",
+    "item_type": "platform boots",
+    "primary_color": "black",
+    "usage": "party",
+    "texture": "velvet",
+    "print_category": "plain"
+  },
+  "7.jpg": {
+    "category": "shoes",
+    "item_type": "wedge sandals",
+    "primary_color": "white",
+    "usage": "casual",
+    "texture": "mesh",
+    "print_category": "plain"
+  },
+  "8.jpg": {
+    "category": "others"
+  },
+  "9.jpg": {
+    "category": "others"
+  }
+}

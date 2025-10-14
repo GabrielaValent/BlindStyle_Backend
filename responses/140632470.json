@@ -1,0 +1,89 @@
+{
+  "0.jpg": {
+    "category": "others"
+  },
+  "1.jpg": {
+    "category": "tops",
+    "item_type": "turtleneck sweater",
+    "primary_color": "green",
+    "usage": "casual",
+    "texture": "knit",
+    "print_category": "plain"
+  },
+  "2.jpg": {
+    "category": "tops",
+    "item_type": "jacket",
+    "primary_color": "pink",
+    "usage": "outerwear",
+    "texture": "others",
+    "print_category": "plain"
+  },
+  "3.jpg": {
+    "category": "bottoms",
+    "item_type": "leggings",
+    "primary_color": "black",
+    "usage": "casual",
+    "texture": "leather",
+    "print_category": "plain"
+  },
+  "4.jpg": {
+    "category": "tops",
+    "item_type": "bra",
+    "primary_color": "black",
+    "usage": "casual",
+    "texture": "mesh",
+    "print_category": "floral"
+  },
+  "5.jpg": {
+    "category": "bottoms",
+    "item_type": "panties",
+    "primary_color": "black",
+    "usage": "casual",
+    "texture": "mesh",
+    "print_category": "floral"
+  },
+  "6.jpg": {
+    "category": "shoes",
+    "item_type": "high-heeled boots",
+    "primary_color": "burgundy",
+    "usage": "party",
+    "texture": "suede",
+    "print_category": "plain"
+  },
+  "7.jpg": {
+    "category": "others"
+  },
+  "8.jpg": {
+    "category": "others"
+  },
+  "9.jpg": {
+    "category": "others"
+  },
+  "10.jpg": {
+    "category": "others"
+  },
+  "11.jpg": {
+    "category": "others"
+  },
+  "12.jpg": {
+    "category": "others"
+  },
+  "13.jpg": {
+    "category": "others"
+  },
+  "14.jpg": {
+    "category": "others"
+  },
+  "15.jpg": {
+    "category": "others"
+  },
+  "16.jpg": {
+    "category": "others"
+  },
+  "17.jpg": {
+    "category": "others"
+  },
+  "18.jpg": {
+    "category": "others"
+  }
+}

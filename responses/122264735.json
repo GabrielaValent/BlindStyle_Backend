@@ -1,0 +1,114 @@
+{
+  "0.jpg": {
+    "category": "others",
+    "item_type": null,
+    "primary_color": null,
+    "usage": null,
+    "texture": null,
+    "print_category": null
+  },
+  "1.jpg": {
+    "category": "tops",
+    "item_type": "crop top",
+    "primary_color": "black",
+    "usage": "casual",
+    "texture": "knit",
+    "print_category": "plain"
+  },
+  "2.jpg": {
+    "category": "bottoms",
+    "item_type": "trousers",
+    "primary_color": "white",
+    "usage": "casual",
+    "texture": "cotton",
+    "print_category": "floral"
+  },
+  "3.jpg": {
+    "category": "shoes",
+    "item_type": "sandals",
+    "primary_color": "black",
+    "usage": "formal",
+    "texture": "suede",
+    "print_category": "plain"
+  },
+  "4.jpg": {
+    "category": "others",
+    "item_type": null,
+    "primary_color": null,
+    "usage": null,
+    "texture": null,
+    "print_category": null
+  },
+  "5.jpg": {
+    "category": "others",
+    "item_type": "handbag",
+    "primary_color": "brown",
+    "usage": "casual",
+    "texture": "leather",
+    "print_category": "plain"
+  },
+  "6.jpg": {
+    "category": "others",
+    "item_type": "bracelet",
+    "primary_color": "black",
+    "usage": "party",
+    "texture": "others",
+    "print_category": "plain"
+  },
+  "7.jpg": {
+    "category": "others",
+    "item_type": "necklace",
+    "primary_color": "gold",
+    "usage": "party",
+    "texture": "others",
+    "print_category": "floral"
+  },
+  "8.jpg": {
+    "category": "others",
+    "item_type": "hat",
+    "primary_color": "black",
+    "usage": "casual",
+    "texture": "wool",
+    "print_category": "plain"
+  },
+  "9.jpg": {
+    "category": "others",
+    "item_type": null,
+    "primary_color": null,
+    "usage": null,
+    "texture": null,
+    "print_category": null
+  },
+  "10.jpg": {
+    "category": "others",
+    "item_type": null,
+    "primary_color": null,
+    "usage": null,
+    "texture": null,
+    "print_category": null
+  },
+  "11.jpg": {
+    "category": "others",
+    "item_type": null,
+    "primary_color": null,
+    "usage": null,
+    "texture": null,
+    "print_category": null
+  },
+  "12.jpg": {
+    "category": "others",
+    "item_type": null,
+    "primary_color": null,
+    "usage": null,
+    "texture": null,
+    "print_category": null
+  },
+  "13.jpg": {
+    "category": "others",
+    "item_type": null,
+    "primary_color": null,
+    "usage": null,
+    "texture": null,
+    "print_category": null
+  }
+}

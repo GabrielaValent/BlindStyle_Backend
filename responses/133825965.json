@@ -1,0 +1,32 @@
+{
+  "0.jpg": {
+    "category": "others"
+  },
+  "1.jpg": {
+    "category": "tops",
+    "item_type": "strapless top",
+    "primary_color": "purple",
+    "usage": "party",
+    "texture": "polyester",
+    "print_category": "plain"
+  },
+  "2.jpg": {
+    "category": "bottoms",
+    "item_type": "denim shorts",
+    "primary_color": "blue",
+    "usage": "casual",
+    "texture": "denim",
+    "print_category": "plain"
+  },
+  "3.jpg": {
+    "category": "shoes",
+    "item_type": "sneakers",
+    "primary_color": "black",
+    "usage": "casual",
+    "texture": "cotton",
+    "print_category": "plain"
+  },
+  "4.jpg": {
+    "category": "others"
+  }
+}

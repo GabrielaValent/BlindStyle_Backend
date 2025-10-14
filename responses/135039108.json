@@ -1,0 +1,35 @@
+{
+  "0.jpg": {
+    "category": "others"
+  },
+  "1.jpg": {
+    "category": "others"
+  },
+  "2.jpg": {
+    "category": "others"
+  },
+  "3.jpg": {
+    "category": "tops",
+    "item_type": "t-shirt",
+    "primary_color": "grey",
+    "usage": "casual",
+    "texture": "cotton",
+    "print_category": "abstract"
+  },
+  "4.jpg": {
+    "category": "bottoms",
+    "item_type": "leather pants",
+    "primary_color": "black",
+    "usage": "casual",
+    "texture": "leather",
+    "print_category": "plain"
+  },
+  "5.jpg": {
+    "category": "shoes",
+    "item_type": "sneakers",
+    "primary_color": "grey",
+    "usage": "casual",
+    "texture": "cotton",
+    "print_category": "graphic"
+  }
+}

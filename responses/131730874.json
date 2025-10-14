@@ -1,0 +1,30 @@
+{
+  "0.jpg": {
+    "category": "others"
+  },
+  "1.jpg": {
+    "category": "shoes",
+    "item_type": "sneakers",
+    "primary_color": "red",
+    "usage": "casual",
+    "texture": "cotton",
+    "print_category": "plain"
+  },
+  "2.jpg": {
+    "category": "others"
+  },
+  "3.jpg": {
+    "category": "others"
+  },
+  "4.jpg": {
+    "category": "tops",
+    "item_type": "flannel shirt",
+    "primary_color": "red",
+    "usage": "casual",
+    "texture": "cotton",
+    "print_category": "plaid"
+  },
+  "5.jpg": {
+    "category": "others"
+  }
+}

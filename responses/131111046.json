@@ -1,0 +1,39 @@
+{
+  "0.jpg": {
+    "category": "others"
+  },
+  "1.jpg": {
+    "category": "tops",
+    "item_type": "sundress",
+    "primary_color": "pink",
+    "usage": "casual",
+    "texture": "cotton",
+    "print_category": "floral"
+  },
+  "2.jpg": {
+    "category": "others"
+  },
+  "3.jpg": {
+    "category": "others"
+  },
+  "4.jpg": {
+    "category": "shoes",
+    "item_type": "platform boots",
+    "primary_color": "black",
+    "usage": "casual",
+    "texture": "suede",
+    "print_category": "plain"
+  },
+  "5.jpg": {
+    "category": "others"
+  },
+  "6.jpg": {
+    "category": "others"
+  },
+  "7.jpg": {
+    "category": "others"
+  },
+  "8.jpg": {
+    "category": "others"
+  }
+}

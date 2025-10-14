@@ -1,0 +1,108 @@
+{
+  "0.jpg": {
+    "category": "others"
+  },
+  "1.jpg": {
+    "category": "tops",
+    "item_type": "dress",
+    "primary_color": "yellow",
+    "usage": "party",
+    "texture": "polyester",
+    "print_category": "plain"
+  },
+  "2.jpg": {
+    "category": "tops",
+    "item_type": "cardigan",
+    "primary_color": "beige",
+    "usage": "casual",
+    "texture": "knit",
+    "print_category": "plain"
+  },
+  "3.jpg": {
+    "category": "others"
+  },
+  "4.jpg": {
+    "category": "shoes",
+    "item_type": "heels",
+    "primary_color": "beige",
+    "usage": "party",
+    "texture": "leather",
+    "print_category": "plain"
+  },
+  "5.jpg": {
+    "category": "others"
+  },
+  "6.jpg": {
+    "category": "others"
+  },
+  "7.jpg": {
+    "category": "others"
+  },
+  "8.jpg": {
+    "category": "others"
+  },
+  "9.jpg": {
+    "category": "others"
+  },
+  "10.jpg": {
+    "category": "others"
+  },
+  "11.jpg": {
+    "category": "others"
+  },
+  "12.jpg": {
+    "category": "others"
+  },
+  "13.jpg": {
+    "category": "tops",
+    "item_type": "t-shirt",
+    "primary_color": "yellow",
+    "usage": "casual",
+    "texture": "knit",
+    "print_category": "striped"
+  },
+  "14.jpg": {
+    "category": "others"
+  },
+  "15.jpg": {
+    "category": "tops",
+    "item_type": "swimsuit",
+    "primary_color": "yellow",
+    "usage": "sportswear",
+    "texture": "nylon",
+    "print_category": "plain"
+  },
+  "16.jpg": {
+    "category": "others"
+  },
+  "17.jpg": {
+    "category": "others"
+  },
+  "18.jpg": {
+    "category": "others"
+  },
+  "19.jpg": {
+    "category": "others"
+  },
+  "20.jpg": {
+    "category": "others"
+  },
+  "21.jpg": {
+    "category": "others"
+  },
+  "22.jpg": {
+    "category": "others"
+  },
+  "23.jpg": {
+    "category": "others"
+  },
+  "24.jpg": {
+    "category": "others"
+  },
+  "25.jpg": {
+    "category": "others"
+  },
+  "26.jpg": {
+    "category": "others"
+  }
+}

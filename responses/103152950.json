@@ -1,0 +1,122 @@
+{
+  "0.jpg": {
+    "category": "tops",
+    "item_type": "dress",
+    "primary_color": "beige",
+    "usage": "party",
+    "texture": "knit",
+    "print_category": "plain"
+  },
+  "1.jpg": {
+    "category": "tops",
+    "item_type": "dress",
+    "primary_color": "beige",
+    "usage": "casual",
+    "texture": "knit",
+    "print_category": "plain"
+  },
+  "2.jpg": {
+    "category": "shoes",
+    "item_type": "high heels",
+    "primary_color": "black",
+    "usage": "formal",
+    "texture": "satin",
+    "print_category": "plain"
+  },
+  "3.jpg": {
+    "category": "others",
+    "item_type": "watch",
+    "primary_color": "gold",
+    "usage": null,
+    "texture": null,
+    "print_category": null
+  },
+  "4.jpg": {
+    "category": "others",
+    "item_type": "necklace",
+    "primary_color": "gold",
+    "usage": null,
+    "texture": null,
+    "print_category": null
+  },
+  "5.jpg": {
+    "category": "others",
+    "item_type": "bracelet",
+    "primary_color": "gold",
+    "usage": null,
+    "texture": null,
+    "print_category": null
+  },
+  "6.jpg": {
+    "category": "others",
+    "item_type": "earrings",
+    "primary_color": "gold",
+    "usage": null,
+    "texture": null,
+    "print_category": null
+  },
+  "7.jpg": {
+    "category": "shoes",
+    "item_type": "ankle boots",
+    "primary_color": "black",
+    "usage": "casual",
+    "texture": "leather",
+    "print_category": "plain"
+  },
+  "8.jpg": {
+    "category": "others",
+    "item_type": "text",
+    "primary_color": "black",
+    "usage": null,
+    "texture": null,
+    "print_category": null
+  },
+  "9.jpg": {
+    "category": "others",
+    "item_type": "text",
+    "primary_color": "black",
+    "usage": null,
+    "texture": null,
+    "print_category": null
+  },
+  "10.jpg": {
+    "category": "others",
+    "item_type": "text",
+    "primary_color": "black",
+    "usage": null,
+    "texture": null,
+    "print_category": null
+  },
+  "11.jpg": {
+    "category": "tops",
+    "item_type": "dress",
+    "primary_color": "beige",
+    "usage": "formal",
+    "texture": "lace",
+    "print_category": "plain"
+  },
+  "12.jpg": {
+    "category": "tops",
+    "item_type": "dress",
+    "primary_color": "white",
+    "usage": "formal",
+    "texture": "lace",
+    "print_category": "floral"
+  },
+  "13.jpg": {
+    "category": "tops",
+    "item_type": "tunic",
+    "primary_color": "black",
+    "usage": "casual",
+    "texture": "knit",
+    "print_category": "plain"
+  },
+  "14.jpg": {
+    "category": "others",
+    "item_type": "invitation",
+    "primary_color": "grey",
+    "usage": null,
+    "texture": null,
+    "print_category": null
+  }
+}

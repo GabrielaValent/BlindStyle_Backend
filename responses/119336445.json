@@ -1,0 +1,50 @@
+{
+  "0.jpg": {
+    "category": "others",
+    "description": "The image contains multiple items and a collage, making single item classification impossible."
+  },
+  "1.jpg": {
+    "category": "tops",
+    "item_type": "baseball t-shirt",
+    "primary_color": "white",
+    "usage": "casual",
+    "texture": "cotton",
+    "print_category": "graphic"
+  },
+  "2.jpg": {
+    "category": "bottoms",
+    "item_type": "jeans",
+    "primary_color": "light blue",
+    "usage": "casual",
+    "texture": "denim",
+    "print_category": "plain"
+  },
+  "3.jpg": {
+    "category": "shoes",
+    "item_type": "sneakers",
+    "primary_color": "yellow",
+    "usage": "casual",
+    "texture": "canvas",
+    "print_category": "plain"
+  },
+  "4.jpg": {
+    "category": "others",
+    "description": "The image contains a bracelet, which doesn't fit into the defined categories."
+  },
+  "5.jpg": {
+    "category": "others",
+    "description": "The image is an abstract texture and does not represent a clothing item."
+  },
+  "6.jpg": {
+    "category": "others",
+    "description": "The image contains a person, but no clothing item can be clearly identified."
+  },
+  "7.jpg": {
+    "category": "others",
+    "description": "The image contains only text and does not represent a clothing item."
+  },
+  "8.jpg": {
+    "category": "others",
+    "description": "The image is an abstract texture and does not represent a clothing item."
+  }
+}

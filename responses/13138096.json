@@ -1,0 +1,61 @@
+{
+  "0.jpg": {
+    "category": "others"
+  },
+  "1.jpg": {
+    "category": "tops",
+    "item_type": "strapless top",
+    "primary_color": "cream",
+    "usage": "party",
+    "texture": "silk",
+    "print_category": "plain"
+  },
+  "2.jpg": {
+    "category": "tops",
+    "item_type": "short sleeve coat",
+    "primary_color": "black and white",
+    "usage": "outerwear",
+    "texture": "wool",
+    "print_category": "plaid"
+  },
+  "3.jpg": {
+    "category": "bottoms",
+    "item_type": "skirt",
+    "primary_color": "black and white",
+    "usage": "casual",
+    "texture": "wool",
+    "print_category": "plaid"
+  },
+  "4.jpg": {
+    "category": "shoes",
+    "item_type": "wedge ankle boot",
+    "primary_color": "black",
+    "usage": "casual",
+    "texture": "leather",
+    "print_category": "plain"
+  },
+  "5.jpg": {
+    "category": "others"
+  },
+  "6.jpg": {
+    "category": "others"
+  },
+  "7.jpg": {
+    "category": "others"
+  },
+  "8.jpg": {
+    "category": "others"
+  },
+  "9.jpg": {
+    "category": "others"
+  },
+  "10.jpg": {
+    "category": "others"
+  },
+  "11.jpg": {
+    "category": "others"
+  },
+  "12.jpg": {
+    "category": "others"
+  }
+}

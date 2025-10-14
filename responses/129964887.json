@@ -1,0 +1,38 @@
+{
+  "0.jpg": {
+    "category": "others"
+  },
+  "1.jpg": {
+    "category": "bottoms",
+    "item_type": "overall shorts",
+    "primary_color": "blue",
+    "usage": "casual",
+    "texture": "denim",
+    "print_category": "plain"
+  },
+  "2.jpg": {
+    "category": "shoes",
+    "item_type": "boots",
+    "primary_color": "black",
+    "usage": "casual",
+    "texture": "leather",
+    "print_category": "plain"
+  },
+  "3.jpg": {
+    "category": "others"
+  },
+  "4.jpg": {
+    "category": "others"
+  },
+  "5.jpg": {
+    "category": "tops",
+    "item_type": "tank top",
+    "primary_color": "black",
+    "usage": "casual",
+    "texture": "cotton",
+    "print_category": "graphic"
+  },
+  "6.jpg": {
+    "category": "others"
+  }
+}

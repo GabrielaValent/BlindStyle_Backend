@@ -1,0 +1,186 @@
+{
+  "0.jpg": {
+    "category": "others",
+    "item_type": "room scene",
+    "primary_color": "null",
+    "usage": "null",
+    "texture": "null",
+    "print_category": "null"
+  },
+  "1.jpg": {
+    "category": "others",
+    "item_type": "sofa",
+    "primary_color": "yellow",
+    "usage": "casual",
+    "texture": "linen",
+    "print_category": "floral"
+  },
+  "2.jpg": {
+    "category": "others",
+    "item_type": "armchair",
+    "primary_color": "yellow",
+    "usage": "casual",
+    "texture": "linen",
+    "print_category": "floral"
+  },
+  "3.jpg": {
+    "category": "others",
+    "item_type": "armchair",
+    "primary_color": "black and white",
+    "usage": "casual",
+    "texture": "others",
+    "print_category": "plaid"
+  },
+  "4.jpg": {
+    "category": "others",
+    "item_type": "table",
+    "primary_color": "light brown",
+    "usage": "null",
+    "texture": "wood",
+    "print_category": "plain"
+  },
+  "5.jpg": {
+    "category": "others",
+    "item_type": "ottoman",
+    "primary_color": "blue and white",
+    "usage": "casual",
+    "texture": "cotton",
+    "print_category": "striped"
+  },
+  "6.jpg": {
+    "category": "others",
+    "item_type": "table",
+    "primary_color": "black",
+    "usage": "null",
+    "texture": "wood",
+    "print_category": "plain"
+  },
+  "7.jpg": {
+    "category": "others",
+    "item_type": "tea cup and saucer",
+    "primary_color": "gold and black",
+    "usage": "null",
+    "texture": "others",
+    "print_category": "graphic"
+  },
+  "8.jpg": {
+    "category": "others",
+    "item_type": "wall decor",
+    "primary_color": "white and brown",
+    "usage": "null",
+    "texture": "others",
+    "print_category": "plain"
+  },
+  "9.jpg": {
+    "category": "others",
+    "item_type": "curtains",
+    "primary_color": "dark blue",
+    "usage": "null",
+    "texture": "others",
+    "print_category": "plain"
+  },
+  "10.jpg": {
+    "category": "others",
+    "item_type": "flowers",
+    "primary_color": "white and green",
+    "usage": "null",
+    "texture": "null",
+    "print_category": "null"
+  },
+  "11.jpg": {
+    "category": "others",
+    "item_type": "cushion",
+    "primary_color": "blue and white",
+    "usage": "casual",
+    "texture": "linen",
+    "print_category": "abstract"
+  },
+  "12.jpg": {
+    "category": "others",
+    "item_type": "vase",
+    "primary_color": "blue and white",
+    "usage": "null",
+    "texture": "ceramic",
+    "print_category": "floral"
+  },
+  "13.jpg": {
+    "category": "others",
+    "item_type": "candle",
+    "primary_color": "dark blue",
+    "usage": "null",
+    "texture": "ceramic",
+    "print_category": "abstract"
+  },
+  "14.jpg": {
+    "category": "others",
+    "item_type": "candle",
+    "primary_color": "black and white",
+    "usage": "null",
+    "texture": "ceramic",
+    "print_category": "graphic"
+  },
+  "15.jpg": {
+    "category": "others",
+    "item_type": "skull",
+    "primary_color": "black and white",
+    "usage": "null",
+    "texture": "others",
+    "print_category": "null"
+  },
+  "16.jpg": {
+    "category": "others",
+    "item_type": "image",
+    "primary_color": "pink",
+    "usage": "null",
+    "texture": "null",
+    "print_category": "null"
+  },
+  "17.jpg": {
+    "category": "others",
+    "item_type": "rug",
+    "primary_color": "black and white",
+    "usage": "casual",
+    "texture": "others",
+    "print_category": "abstract"
+  },
+  "18.jpg": {
+    "category": "others",
+    "item_type": "wooden floor",
+    "primary_color": "brown",
+    "usage": "null",
+    "texture": "wood",
+    "print_category": "plain"
+  },
+  "19.jpg": {
+    "category": "others",
+    "item_type": "plates",
+    "primary_color": "gold and black",
+    "usage": "null",
+    "texture": "ceramic",
+    "print_category": "graphic"
+  },
+  "20.jpg": {
+    "category": "others",
+    "item_type": "logo",
+    "primary_color": "black and white",
+    "usage": "null",
+    "texture": "null",
+    "print_category": "logo"
+  },
+  "21.jpg": {
+    "category": "others",
+    "item_type": "lamp",
+    "primary_color": "black",
+    "usage": "null",
+    "texture": "others",
+    "print_category": "plain"
+  },
+  "22.jpg": {
+    "category": "others",
+    "item_type": "plate",
+    "primary_color": "blue and white",
+    "usage": "null",
+    "texture": "ceramic",
+    "print_category": "floral"
+  }
+}

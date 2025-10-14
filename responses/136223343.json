@@ -1,0 +1,46 @@
+{
+  "0.jpg": {
+    "category": "others"
+  },
+  "1.jpg": {
+    "category": "tops",
+    "item_type": "denim shirt",
+    "primary_color": "blue",
+    "usage": "casual",
+    "texture": "denim",
+    "print_category": "plain"
+  },
+  "2.jpg": {
+    "category": "tops",
+    "item_type": "crop top",
+    "primary_color": "black",
+    "usage": "casual",
+    "texture": "cotton",
+    "print_category": "plain"
+  },
+  "3.jpg": {
+    "category": "bottoms",
+    "item_type": "patterned pants",
+    "primary_color": "black",
+    "usage": "casual",
+    "texture": "cotton",
+    "print_category": "graphic"
+  },
+  "4.jpg": {
+    "category": "shoes",
+    "item_type": "slip-on shoes",
+    "primary_color": "black",
+    "usage": "casual",
+    "texture": "cotton",
+    "print_category": "plain"
+  },
+  "5.jpg": {
+    "category": "others"
+  },
+  "6.jpg": {
+    "category": "others"
+  },
+  "7.jpg": {
+    "category": "others"
+  }
+}

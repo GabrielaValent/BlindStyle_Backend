@@ -1,0 +1,162 @@
+{
+  "0.jpg": {
+    "category": "others",
+    "item_type": "room interior",
+    "primary_color": "white",
+    "usage": "casual",
+    "texture": "others",
+    "print_category": "plain"
+  },
+  "1.jpg": {
+    "category": "others",
+    "item_type": "chest of drawers",
+    "primary_color": "grey",
+    "usage": "casual",
+    "texture": "wood",
+    "print_category": "plain"
+  },
+  "2.jpg": {
+    "category": "others",
+    "item_type": "armchair",
+    "primary_color": "black",
+    "usage": "casual",
+    "texture": "leather",
+    "print_category": "plain"
+  },
+  "3.jpg": {
+    "category": "others",
+    "item_type": "cushion",
+    "primary_color": "beige",
+    "usage": "casual",
+    "texture": "linen",
+    "print_category": "plaid"
+  },
+  "4.jpg": {
+    "category": "others",
+    "item_type": "wall art",
+    "primary_color": "brown",
+    "usage": "casual",
+    "texture": "metal",
+    "print_category": "animal"
+  },
+  "5.jpg": {
+    "category": "others",
+    "item_type": "wall art",
+    "primary_color": "black",
+    "usage": "casual",
+    "texture": "metal",
+    "print_category": "abstract"
+  },
+  "6.jpg": {
+    "category": "others",
+    "item_type": "globe",
+    "primary_color": "black",
+    "usage": "casual",
+    "texture": "others",
+    "print_category": "plain"
+  },
+  "7.jpg": {
+    "category": "others",
+    "item_type": "cushion",
+    "primary_color": "grey",
+    "usage": "casual",
+    "texture": "cotton",
+    "print_category": "striped"
+  },
+  "8.jpg": {
+    "category": "others",
+    "item_type": "sofa",
+    "primary_color": "white",
+    "usage": "casual",
+    "texture": "others",
+    "print_category": "plain"
+  },
+  "9.jpg": {
+    "category": "others",
+    "item_type": "bookshelf",
+    "primary_color": "white",
+    "usage": "casual",
+    "texture": "wood",
+    "print_category": "plain"
+  },
+  "10.jpg": {
+    "category": "others",
+    "item_type": "coffee table",
+    "primary_color": "black",
+    "usage": "casual",
+    "texture": "wood",
+    "print_category": "plain"
+  },
+  "11.jpg": {
+    "category": "others",
+    "item_type": "floor lamp",
+    "primary_color": "copper",
+    "usage": "casual",
+    "texture": "metal",
+    "print_category": "plain"
+  },
+  "12.jpg": {
+    "category": "others",
+    "item_type": "rug",
+    "primary_color": "grey",
+    "usage": "casual",
+    "texture": "wool",
+    "print_category": "abstract"
+  },
+  "13.jpg": {
+    "category": "others",
+    "item_type": "wall clock",
+    "primary_color": "grey",
+    "usage": "casual",
+    "texture": "others",
+    "print_category": "plain"
+  },
+  "14.jpg": {
+    "category": "others",
+    "item_type": "cushion",
+    "primary_color": "brown",
+    "usage": "casual",
+    "texture": "leather",
+    "print_category": "plain"
+  },
+  "15.jpg": {
+    "category": "others",
+    "item_type": "table lamp",
+    "primary_color": "copper",
+    "usage": "casual",
+    "texture": "metal",
+    "print_category": "plain"
+  },
+  "16.jpg": {
+    "category": "others",
+    "item_type": "logo",
+    "primary_color": "black",
+    "usage": "others",
+    "texture": "others",
+    "print_category": "logo"
+  },
+  "17.jpg": {
+    "category": "others",
+    "item_type": "text",
+    "primary_color": "black",
+    "usage": "others",
+    "texture": "others",
+    "print_category": "plain"
+  },
+  "18.jpg": {
+    "category": "others",
+    "item_type": "pendant lamp",
+    "primary_color": "copper",
+    "usage": "casual",
+    "texture": "metal",
+    "print_category": "plain"
+  },
+  "19.jpg": {
+    "category": "others",
+    "item_type": "text",
+    "primary_color": "grey",
+    "usage": "others",
+    "texture": "others",
+    "print_category": "plain"
+  }
+}

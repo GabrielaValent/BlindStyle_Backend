@@ -1,0 +1,50 @@
+{
+  "0.jpg": {
+    "category": "others"
+  },
+  "1.jpg": {
+    "category": "others"
+  },
+  "2.jpg": {
+    "category": "others"
+  },
+  "3.jpg": {
+    "category": "others"
+  },
+  "4.jpg": {
+    "category": "others"
+  },
+  "5.jpg": {
+    "category": "tops",
+    "item_type": "crop top",
+    "primary_color": "blue",
+    "usage": "casual",
+    "texture": "denim",
+    "print_category": "logo"
+  },
+  "6.jpg": {
+    "category": "bottoms",
+    "item_type": "pencil skirt",
+    "primary_color": "black",
+    "usage": "party",
+    "texture": "knit",
+    "print_category": "plain"
+  },
+  "7.jpg": {
+    "category": "shoes",
+    "item_type": "heeled sandals",
+    "primary_color": "black",
+    "usage": "party",
+    "texture": "suede",
+    "print_category": "plain"
+  },
+  "8.jpg": {
+    "category": "others"
+  },
+  "9.jpg": {
+    "category": "others"
+  },
+  "10.jpg": {
+    "category": "others"
+  }
+}

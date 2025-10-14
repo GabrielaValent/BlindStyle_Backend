@@ -1,0 +1,138 @@
+{
+  "0.jpg": {
+    "category": "tops",
+    "item_type": "t-shirt",
+    "primary_color": "white",
+    "usage": "casual",
+    "texture": "cotton",
+    "print_category": "animal"
+  },
+  "1.jpg": {
+    "category": "tops",
+    "item_type": "t-shirt",
+    "primary_color": "white",
+    "usage": "casual",
+    "texture": "cotton",
+    "print_category": "animal"
+  },
+  "2.jpg": {
+    "category": "bottoms",
+    "item_type": "shorts",
+    "primary_color": "teal",
+    "usage": "casual",
+    "texture": "denim",
+    "print_category": "plain"
+  },
+  "3.jpg": {
+    "category": "shoes",
+    "item_type": "sneakers",
+    "primary_color": "pink",
+    "usage": "casual",
+    "texture": "cotton",
+    "print_category": "plain"
+  },
+  "4.jpg": {
+    "category": "others",
+    "item_type": "bag",
+    "primary_color": "purple",
+    "usage": "null",
+    "texture": "leather",
+    "print_category": "plain"
+  },
+  "5.jpg": {
+    "category": "others",
+    "item_type": "necklace",
+    "primary_color": "pink",
+    "usage": "null",
+    "texture": "others",
+    "print_category": "plain"
+  },
+  "6.jpg": {
+    "category": "others",
+    "item_type": "phone",
+    "primary_color": "pink",
+    "usage": "null",
+    "texture": "others",
+    "print_category": "plain"
+  },
+  "7.jpg": {
+    "category": "others",
+    "item_type": "lipstick",
+    "primary_color": "pink",
+    "usage": "null",
+    "texture": "others",
+    "print_category": "plain"
+  },
+  "8.jpg": {
+    "category": "others",
+    "item_type": "null",
+    "primary_color": "null",
+    "usage": "null",
+    "texture": "null",
+    "print_category": "null"
+  },
+  "9.jpg": {
+    "category": "others",
+    "item_type": "null",
+    "primary_color": "null",
+    "usage": "null",
+    "texture": "null",
+    "print_category": "null"
+  },
+  "10.jpg": {
+    "category": "others",
+    "item_type": "flowers",
+    "primary_color": "pink",
+    "usage": "null",
+    "texture": "null",
+    "print_category": "null"
+  },
+  "11.jpg": {
+    "category": "others",
+    "item_type": "null",
+    "primary_color": "null",
+    "usage": "null",
+    "texture": "null",
+    "print_category": "null"
+  },
+  "12.jpg": {
+    "category": "others",
+    "item_type": "null",
+    "primary_color": "null",
+    "usage": "null",
+    "texture": "null",
+    "print_category": "null"
+  },
+  "13.jpg": {
+    "category": "others",
+    "item_type": "null",
+    "primary_color": "null",
+    "usage": "null",
+    "texture": "null",
+    "print_category": "null"
+  },
+  "14.jpg": {
+    "category": "others",
+    "item_type": "null",
+    "primary_color": "null",
+    "usage": "null",
+    "texture": "null",
+    "print_category": "null"
+  },
+  "15.jpg": {
+    "category": "others",
+    "item_type": "null",
+    "primary_color": "null",
+    "usage": "null",
+    "texture": "null",
+    "print_category": "null"
+  },
+  "16.jpg": {
+    "category": "others",
+    "item_type": "null",
+    "primary_color": "null",
+    "usage": "null",
+    "texture": "null",
+    "print_category": "null"
+  }
+}

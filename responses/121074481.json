@@ -1,0 +1,178 @@
+{
+  "0.jpg": {
+    "category": "others",
+    "item_type": null,
+    "primary_color": null,
+    "usage": null,
+    "texture": null,
+    "print_category": null
+  },
+  "1.jpg": {
+    "category": "others",
+    "item_type": "handbag",
+    "primary_color": "black",
+    "usage": "casual",
+    "texture": "leather",
+    "print_category": "plain"
+  },
+  "2.jpg": {
+    "category": "shoes",
+    "item_type": "high heels",
+    "primary_color": "black",
+    "usage": "formal",
+    "texture": "leather",
+    "print_category": "plain"
+  },
+  "3.jpg": {
+    "category": "bottoms",
+    "item_type": "dress",
+    "primary_color": "black",
+    "usage": "party",
+    "texture": "others",
+    "print_category": "floral"
+  },
+  "4.jpg": {
+    "category": "tops",
+    "item_type": "shirt",
+    "primary_color": "white",
+    "usage": "sleepwear",
+    "texture": "cotton",
+    "print_category": "plain"
+  },
+  "5.jpg": {
+    "category": "others",
+    "item_type": null,
+    "primary_color": null,
+    "usage": null,
+    "texture": null,
+    "print_category": null
+  },
+  "6.jpg": {
+    "category": "others",
+    "item_type": null,
+    "primary_color": null,
+    "usage": null,
+    "texture": null,
+    "print_category": null
+  },
+  "7.jpg": {
+    "category": "others",
+    "item_type": null,
+    "primary_color": null,
+    "usage": null,
+    "texture": null,
+    "print_category": null
+  },
+  "8.jpg": {
+    "category": "bottoms",
+    "item_type": "suit",
+    "primary_color": "grey",
+    "usage": "formal",
+    "texture": "wool",
+    "print_category": "plain"
+  },
+  "9.jpg": {
+    "category": "others",
+    "item_type": null,
+    "primary_color": null,
+    "usage": null,
+    "texture": null,
+    "print_category": null
+  },
+  "10.jpg": {
+    "category": "others",
+    "item_type": null,
+    "primary_color": null,
+    "usage": null,
+    "texture": null,
+    "print_category": null
+  },
+  "11.jpg": {
+    "category": "others",
+    "item_type": null,
+    "primary_color": null,
+    "usage": null,
+    "texture": null,
+    "print_category": null
+  },
+  "12.jpg": {
+    "category": "others",
+    "item_type": null,
+    "primary_color": null,
+    "usage": null,
+    "texture": null,
+    "print_category": null
+  },
+  "13.jpg": {
+    "category": "others",
+    "item_type": "ribbon",
+    "primary_color": "beige",
+    "usage": "others",
+    "texture": "silk",
+    "print_category": "plain"
+  },
+  "14.jpg": {
+    "category": "others",
+    "item_type": null,
+    "primary_color": null,
+    "usage": null,
+    "texture": null,
+    "print_category": null
+  },
+  "15.jpg": {
+    "category": "others",
+    "item_type": null,
+    "primary_color": null,
+    "usage": null,
+    "texture": null,
+    "print_category": null
+  },
+  "16.jpg": {
+    "category": "others",
+    "item_type": null,
+    "primary_color": null,
+    "usage": null,
+    "texture": null,
+    "print_category": null
+  },
+  "17.jpg": {
+    "category": "others",
+    "item_type": "sign",
+    "primary_color": "beige",
+    "usage": "others",
+    "texture": "others",
+    "print_category": "plain"
+  },
+  "18.jpg": {
+    "category": "others",
+    "item_type": null,
+    "primary_color": null,
+    "usage": null,
+    "texture": null,
+    "print_category": null
+  },
+  "19.jpg": {
+    "category": "others",
+    "item_type": "fabric",
+    "primary_color": "beige",
+    "usage": "others",
+    "texture": "others",
+    "print_category": "floral"
+  },
+  "20.jpg": {
+    "category": "others",
+    "item_type": null,
+    "primary_color": null,
+    "usage": null,
+    "texture": null,
+    "print_category": null
+  },
+  "21.jpg": {
+    "category": "others",
+    "item_type": "flowers",
+    "primary_color": "white",
+    "usage": "others",
+    "texture": "others",
+    "print_category": "plain"
+  }
+}

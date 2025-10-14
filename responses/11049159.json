@@ -1,0 +1,186 @@
+{
+  "0.jpg": {
+    "category": "others",
+    "item_type": "multiple items",
+    "primary_color": null,
+    "usage": null,
+    "texture": null,
+    "print_category": null
+  },
+  "1.jpg": {
+    "category": "tops",
+    "item_type": "camisole",
+    "primary_color": "pink",
+    "usage": "casual",
+    "texture": "cotton",
+    "print_category": "plain"
+  },
+  "2.jpg": {
+    "category": "shoes",
+    "item_type": "high-top sneakers",
+    "primary_color": "pink",
+    "usage": "casual",
+    "texture": "canvas",
+    "print_category": "plain"
+  },
+  "3.jpg": {
+    "category": "others",
+    "item_type": "bracelet",
+    "primary_color": "pink",
+    "usage": null,
+    "texture": "others",
+    "print_category": "plain"
+  },
+  "4.jpg": {
+    "category": "others",
+    "item_type": "necklace",
+    "primary_color": "pink",
+    "usage": null,
+    "texture": "others",
+    "print_category": "plain"
+  },
+  "5.jpg": {
+    "category": "others",
+    "item_type": "earrings",
+    "primary_color": "pink",
+    "usage": null,
+    "texture": "others",
+    "print_category": "plain"
+  },
+  "6.jpg": {
+    "category": "others",
+    "item_type": "charm",
+    "primary_color": "pink",
+    "usage": null,
+    "texture": "others",
+    "print_category": "plain"
+  },
+  "7.jpg": {
+    "category": "others",
+    "item_type": "hair bow",
+    "primary_color": "pink",
+    "usage": null,
+    "texture": "satin",
+    "print_category": "plain"
+  },
+  "8.jpg": {
+    "category": "others",
+    "item_type": "belt",
+    "primary_color": "pink",
+    "usage": "casual",
+    "texture": "leather",
+    "print_category": "plain"
+  },
+  "9.jpg": {
+    "category": "others",
+    "item_type": "sunglasses",
+    "primary_color": "pink",
+    "usage": "casual",
+    "texture": "plastic",
+    "print_category": "plain"
+  },
+  "10.jpg": {
+    "category": "others",
+    "item_type": "makeup",
+    "primary_color": "pink",
+    "usage": null,
+    "texture": "others",
+    "print_category": "plain"
+  },
+  "11.jpg": {
+    "category": "others",
+    "item_type": "makeup",
+    "primary_color": "pink",
+    "usage": null,
+    "texture": "others",
+    "print_category": "plain"
+  },
+  "12.jpg": {
+    "category": "others",
+    "item_type": "lip gloss",
+    "primary_color": "pink",
+    "usage": null,
+    "texture": "others",
+    "print_category": "plain"
+  },
+  "13.jpg": {
+    "category": "others",
+    "item_type": "makeup",
+    "primary_color": "pink",
+    "usage": null,
+    "texture": "others",
+    "print_category": "plain"
+  },
+  "14.jpg": {
+    "category": "others",
+    "item_type": "body spray",
+    "primary_color": "pink",
+    "usage": null,
+    "texture": "others",
+    "print_category": "floral"
+  },
+  "15.jpg": {
+    "category": "others",
+    "item_type": "nail polish",
+    "primary_color": "pink",
+    "usage": null,
+    "texture": "others",
+    "print_category": "plain"
+  },
+  "16.jpg": {
+    "category": "others",
+    "item_type": "hairspray",
+    "primary_color": "pink",
+    "usage": null,
+    "texture": "others",
+    "print_category": "plain"
+  },
+  "17.jpg": {
+    "category": "others",
+    "item_type": "handbag",
+    "primary_color": "pink",
+    "usage": "casual",
+    "texture": "suede",
+    "print_category": "logo"
+  },
+  "18.jpg": {
+    "category": "others",
+    "item_type": "wallet",
+    "primary_color": "pink",
+    "usage": "casual",
+    "texture": "velvet",
+    "print_category": "logo"
+  },
+  "19.jpg": {
+    "category": "others",
+    "item_type": "toy",
+    "primary_color": "pink",
+    "usage": null,
+    "texture": "fleece",
+    "print_category": "plain"
+  },
+  "20.jpg": {
+    "category": "others",
+    "item_type": "shower gel",
+    "primary_color": "pink",
+    "usage": null,
+    "texture": "others",
+    "print_category": "plain"
+  },
+  "21.jpg": {
+    "category": "bottoms",
+    "item_type": "denim shorts",
+    "primary_color": "grey",
+    "usage": "casual",
+    "texture": "denim",
+    "print_category": "striped"
+  },
+  "22.jpg": {
+    "category": "others",
+    "item_type": "multiple images",
+    "primary_color": null,
+    "usage": null,
+    "texture": null,
+    "print_category": null
+  }
+}

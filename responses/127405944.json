@@ -1,0 +1,82 @@
+{
+  "0.jpg": {
+    "category": "shoes",
+    "item_type": "wedge sandals",
+    "primary_color": "olive green",
+    "usage": "casual",
+    "texture": "leather",
+    "print_category": "plain"
+  },
+  "1.jpg": {
+    "category": "shoes",
+    "item_type": "wedge sandals",
+    "primary_color": "olive green",
+    "usage": "casual",
+    "texture": "leather",
+    "print_category": "plain"
+  },
+  "2.jpg": {
+    "category": "tops",
+    "item_type": "sweater",
+    "primary_color": "off-white",
+    "usage": "casual",
+    "texture": "knit",
+    "print_category": "plain"
+  },
+  "3.jpg": {
+    "category": "tops",
+    "item_type": "shirt",
+    "primary_color": "light blue",
+    "usage": "casual",
+    "texture": "cotton",
+    "print_category": "striped"
+  },
+  "4.jpg": {
+    "category": "others",
+    "item_type": null,
+    "primary_color": null,
+    "usage": null,
+    "texture": null,
+    "print_category": null
+  },
+  "5.jpg": {
+    "category": "bottoms",
+    "item_type": "denim shorts",
+    "primary_color": "blue",
+    "usage": "casual",
+    "texture": "denim",
+    "print_category": "plain"
+  },
+  "6.jpg": {
+    "category": "others",
+    "item_type": null,
+    "primary_color": null,
+    "usage": null,
+    "texture": null,
+    "print_category": null
+  },
+  "7.jpg": {
+    "category": "others",
+    "item_type": null,
+    "primary_color": null,
+    "usage": null,
+    "texture": null,
+    "print_category": null
+  },
+  "8.jpg": {
+    "category": "others",
+    "item_type": null,
+    "primary_color": null,
+    "usage": null,
+    "texture": null,
+    "print_category": null
+  },
+  "9.jpg": {
+    "category": "others",
+    "item_type": null,
+    "primary_color": null,
+    "usage": null,
+    "texture": null,
+    "print_category": null
+  }
+}

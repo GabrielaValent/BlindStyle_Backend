@@ -1,0 +1,114 @@
+{
+  "0.jpg": {
+    "category": "tops",
+    "item_type": "tunic",
+    "primary_color": "teal",
+    "usage": "casual",
+    "texture": "knit",
+    "print_category": "plain"
+  },
+  "1.jpg": {
+    "category": "shoes",
+    "item_type": "heels",
+    "primary_color": "light blue",
+    "usage": "casual",
+    "texture": "suede",
+    "print_category": "plain"
+  },
+  "2.jpg": {
+    "category": "others",
+    "item_type": "hat",
+    "primary_color": "grey",
+    "usage": "casual",
+    "texture": "wool",
+    "print_category": "plain"
+  },
+  "3.jpg": {
+    "category": "others",
+    "item_type": "sunglasses",
+    "primary_color": "brown",
+    "usage": "casual",
+    "texture": "others",
+    "print_category": "animal"
+  },
+  "4.jpg": {
+    "category": "others",
+    "item_type": "makeup",
+    "primary_color": "brown",
+    "usage": "null",
+    "texture": "null",
+    "print_category": "null"
+  },
+  "5.jpg": {
+    "category": "tops",
+    "item_type": "dress",
+    "primary_color": "teal",
+    "usage": "casual",
+    "texture": "knit",
+    "print_category": "plain"
+  },
+  "6.jpg": {
+    "category": "others",
+    "item_type": "text",
+    "primary_color": "null",
+    "usage": "null",
+    "texture": "null",
+    "print_category": "null"
+  },
+  "7.jpg": {
+    "category": "tops",
+    "item_type": "blouse",
+    "primary_color": "grey",
+    "usage": "casual",
+    "texture": "cotton",
+    "print_category": "plain"
+  },
+  "8.jpg": {
+    "category": "others",
+    "item_type": "food",
+    "primary_color": "light green",
+    "usage": "null",
+    "texture": "null",
+    "print_category": "null"
+  },
+  "9.jpg": {
+    "category": "others",
+    "item_type": "flowers",
+    "primary_color": "purple",
+    "usage": "null",
+    "texture": "null",
+    "print_category": "floral"
+  },
+  "10.jpg": {
+    "category": "others",
+    "item_type": "necklace",
+    "primary_color": "blue",
+    "usage": "party",
+    "texture": "others",
+    "print_category": "abstract"
+  },
+  "11.jpg": {
+    "category": "others",
+    "item_type": "paper",
+    "primary_color": "white",
+    "usage": "null",
+    "texture": "null",
+    "print_category": "plain"
+  },
+  "12.jpg": {
+    "category": "others",
+    "item_type": "man with sunglasses",
+    "primary_color": "black",
+    "usage": "null",
+    "texture": "null",
+    "print_category": "null"
+  },
+  "13.jpg": {
+    "category": "others",
+    "item_type": "handbag",
+    "primary_color": "light blue",
+    "usage": "casual",
+    "texture": "leather",
+    "print_category": "plain"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "0.jpg": {
+    "category": "others"
+  },
+  "1.jpg": {
+    "category": "shoes",
+    "item_type": "ankle boots",
+    "primary_color": "brown",
+    "usage": "casual",
+    "texture": "leather",
+    "print_category": "plain"
+  },
+  "2.jpg": {
+    "category": "shoes",
+    "item_type": "boots",
+    "primary_color": "black",
+    "usage": "casual",
+    "texture": "leather",
+    "print_category": "plain"
+  },
+  "3.jpg": {
+    "category": "shoes",
+    "item_type": "sneakers",
+    "primary_color": "black",
+    "usage": "casual",
+    "texture": "cotton",
+    "print_category": "floral"
+  },
+  "4.jpg": {
+    "category": "shoes",
+    "item_type": "high heels",
+    "primary_color": "pink",
+    "usage": "party",
+    "texture": "suede",
+    "print_category": "plain"
+  },
+  "5.jpg": {
+    "category": "shoes",
+    "item_type": "ankle boots",
+    "primary_color": "beige",
+    "usage": "casual",
+    "texture": "suede",
+    "print_category": "plain"
+  },
+  "6.jpg": {
+    "category": "others"
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "0.jpg": {
+    "category": "others"
+  },
+  "1.jpg": {
+    "category": "tops",
+    "item_type": "flannel shirt",
+    "primary_color": "blue",
+    "usage": "casual",
+    "texture": "cotton",
+    "print_category": "plaid"
+  },
+  "2.jpg": {
+    "category": "tops",
+    "item_type": "leather jacket",
+    "primary_color": "black",
+    "usage": "outerwear",
+    "texture": "leather",
+    "print_category": "plain"
+  },
+  "3.jpg": {
+    "category": "bottoms",
+    "item_type": "jeans",
+    "primary_color": "dark blue",
+    "usage": "casual",
+    "texture": "denim",
+    "print_category": "plain"
+  },
+  "4.jpg": {
+    "category": "shoes",
+    "item_type": "flats",
+    "primary_color": "brown",
+    "usage": "casual",
+    "texture": "suede",
+    "print_category": "animal"
+  },
+  "5.jpg": {
+    "category": "others",
+    "item_type": "beanie",
+    "primary_color": "black",
+    "usage": "casual",
+    "texture": "knit",
+    "print_category": "plain"
+  },
+  "6.jpg": {
+    "category": "others",
+    "item_type": "sunglasses",
+    "primary_color": "black",
+    "usage": "casual",
+    "texture": "others",
+    "print_category": "plain"
+  },
+  "7.jpg": {
+    "category": "others"
+  },
+  "8.jpg": {
+    "category": "others"
+  },
+  "9.jpg": {
+    "category": "others"
+  }
+}

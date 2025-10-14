@@ -1,0 +1,40 @@
+{
+  "0.jpg": {
+    "category": "others"
+  },
+  "1.jpg": {
+    "category": "tops",
+    "item_type": "tank top",
+    "primary_color": "white",
+    "usage": "casual",
+    "texture": "cotton",
+    "print_category": "graphic"
+  },
+  "2.jpg": {
+    "category": "tops",
+    "item_type": "utility jacket",
+    "primary_color": "green",
+    "usage": "outerwear",
+    "texture": "cotton",
+    "print_category": "plain"
+  },
+  "3.jpg": {
+    "category": "bottoms",
+    "item_type": "mini skirt",
+    "primary_color": "black",
+    "usage": "casual",
+    "texture": "knit",
+    "print_category": "plain"
+  },
+  "4.jpg": {
+    "category": "shoes",
+    "item_type": "ankle boots",
+    "primary_color": "brown",
+    "usage": "casual",
+    "texture": "suede",
+    "print_category": "plain"
+  },
+  "5.jpg": {
+    "category": "others"
+  }
+}

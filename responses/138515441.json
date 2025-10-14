@@ -1,0 +1,69 @@
+{
+  "0.jpg": {
+    "category": "others"
+  },
+  "1.jpg": {
+    "category": "tops",
+    "item_type": "leather jacket",
+    "primary_color": "black",
+    "usage": "outerwear",
+    "texture": "leather",
+    "print_category": "plain"
+  },
+  "2.jpg": {
+    "category": "bottoms",
+    "item_type": "tulle skirt",
+    "primary_color": "grey",
+    "usage": "party",
+    "texture": "mesh",
+    "print_category": "plain"
+  },
+  "3.jpg": {
+    "category": "bottoms",
+    "item_type": "leather pants",
+    "primary_color": "black",
+    "usage": "casual",
+    "texture": "leather",
+    "print_category": "plain"
+  },
+  "4.jpg": {
+    "category": "tops",
+    "item_type": "bodysuit",
+    "primary_color": "white",
+    "usage": "party",
+    "texture": "polyester",
+    "print_category": "animal"
+  },
+  "5.jpg": {
+    "category": "shoes",
+    "item_type": "studded heels",
+    "primary_color": "grey",
+    "usage": "party",
+    "texture": "leather",
+    "print_category": "plain"
+  },
+  "6.jpg": {
+    "category": "others"
+  },
+  "7.jpg": {
+    "category": "others"
+  },
+  "8.jpg": {
+    "category": "others"
+  },
+  "9.jpg": {
+    "category": "others"
+  },
+  "10.jpg": {
+    "category": "others"
+  },
+  "11.jpg": {
+    "category": "others"
+  },
+  "12.jpg": {
+    "category": "others"
+  },
+  "13.jpg": {
+    "category": "others"
+  }
+}

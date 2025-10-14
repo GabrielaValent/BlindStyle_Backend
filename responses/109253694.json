@@ -1,0 +1,38 @@
+{
+  "0.jpg": {
+    "category": "others",
+    "description": "The image contains multiple people wearing different clothing items, making it impossible to classify individual items."
+  },
+  "1.jpg": {
+    "category": "others",
+    "description": "The image contains a landscape; it does not depict clothing items."
+  },
+  "2.jpg": {
+    "category": "tops",
+    "item_type": "crop top",
+    "primary_color": "dark pink",
+    "usage": "party",
+    "texture": "others",
+    "print_category": "floral"
+  },
+  "3.jpg": {
+    "category": "others",
+    "description": "The image does not contain a recognizable clothing item."
+  },
+  "4.jpg": {
+    "category": "others",
+    "description": "The image contains a floral illustration, not a clothing item."
+  },
+  "5.jpg": {
+    "category": "others",
+    "description": "The image contains text; it does not depict clothing items."
+  },
+  "6.jpg": {
+    "category": "tops",
+    "item_type": "t-shirt",
+    "primary_color": "white",
+    "usage": "casual",
+    "texture": "cotton",
+    "print_category": "plain"
+  }
+}

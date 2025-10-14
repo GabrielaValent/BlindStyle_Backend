@@ -1,0 +1,274 @@
+{
+  "0.jpg": {
+    "category": "tops",
+    "item_type": "sweater",
+    "primary_color": "burgundy",
+    "usage": "casual",
+    "texture": "knit",
+    "print_category": "plain"
+  },
+  "1.jpg": {
+    "category": "others",
+    "item_type": "necklace",
+    "primary_color": "black",
+    "usage": "party",
+    "texture": "others",
+    "print_category": "logo"
+  },
+  "2.jpg": {
+    "category": "others",
+    "item_type": "graphic",
+    "primary_color": "red",
+    "usage": "others",
+    "texture": "others",
+    "print_category": "plain"
+  },
+  "3.jpg": {
+    "category": "others",
+    "item_type": "hat",
+    "primary_color": "black",
+    "usage": "others",
+    "texture": "others",
+    "print_category": "plain"
+  },
+  "4.jpg": {
+    "category": "others",
+    "item_type": "floral arrangement",
+    "primary_color": "red",
+    "usage": "others",
+    "texture": "others",
+    "print_category": "striped"
+  },
+  "5.jpg": {
+    "category": "others",
+    "item_type": "drawing",
+    "primary_color": "gold",
+    "usage": "others",
+    "texture": "others",
+    "print_category": "plain"
+  },
+  "6.jpg": {
+    "category": "others",
+    "item_type": "image",
+    "primary_color": "grey",
+    "usage": "others",
+    "texture": "others",
+    "print_category": "plain"
+  },
+  "7.jpg": {
+    "category": "others",
+    "item_type": "gift box",
+    "primary_color": "red",
+    "usage": "others",
+    "texture": "others",
+    "print_category": "plain"
+  },
+  "8.jpg": {
+    "category": "others",
+    "item_type": "unclear",
+    "primary_color": "red",
+    "usage": "others",
+    "texture": "others",
+    "print_category": "plain"
+  },
+  "9.jpg": {
+    "category": "tops",
+    "item_type": "top",
+    "primary_color": "nude",
+    "usage": "others",
+    "texture": "others",
+    "print_category": "plain"
+  },
+  "10.jpg": {
+    "category": "others",
+    "item_type": "dog",
+    "primary_color": "brown",
+    "usage": "others",
+    "texture": "others",
+    "print_category": "plain"
+  },
+  "11.jpg": {
+    "category": "others",
+    "item_type": "christmas tree",
+    "primary_color": "green",
+    "usage": "others",
+    "texture": "others",
+    "print_category": "plain"
+  },
+  "12.jpg": {
+    "category": "others",
+    "item_type": "christmas decoration",
+    "primary_color": "green",
+    "usage": "others",
+    "texture": "others",
+    "print_category": "plain"
+  },
+  "13.jpg": {
+    "category": "bottoms",
+    "item_type": "jeans",
+    "primary_color": "dark blue",
+    "usage": "casual",
+    "texture": "denim",
+    "print_category": "plain"
+  },
+  "14.jpg": {
+    "category": "others",
+    "item_type": "santa suit",
+    "primary_color": "red",
+    "usage": "others",
+    "texture": "others",
+    "print_category": "plain"
+  },
+  "15.jpg": {
+    "category": "others",
+    "item_type": "painting",
+    "primary_color": "pink",
+    "usage": "others",
+    "texture": "others",
+    "print_category": "plain"
+  },
+  "16.jpg": {
+    "category": "others",
+    "item_type": "gift box",
+    "primary_color": "gold",
+    "usage": "others",
+    "texture": "others",
+    "print_category": "plain"
+  },
+  "17.jpg": {
+    "category": "others",
+    "item_type": "gift box",
+    "primary_color": "green",
+    "usage": "others",
+    "texture": "others",
+    "print_category": "plain"
+  },
+  "18.jpg": {
+    "category": "others",
+    "item_type": "unclear",
+    "primary_color": "white",
+    "usage": "others",
+    "texture": "others",
+    "print_category": "plain"
+  },
+  "19.jpg": {
+    "category": "others",
+    "item_type": "food",
+    "primary_color": "brown",
+    "usage": "others",
+    "texture": "others",
+    "print_category": "plain"
+  },
+  "20.jpg": {
+    "category": "others",
+    "item_type": "wig",
+    "primary_color": "black",
+    "usage": "others",
+    "texture": "others",
+    "print_category": "plain"
+  },
+  "21.jpg": {
+    "category": "others",
+    "item_type": "cat",
+    "primary_color": "red",
+    "usage": "others",
+    "texture": "others",
+    "print_category": "plain"
+  },
+  "22.jpg": {
+    "category": "others",
+    "item_type": "animals",
+    "primary_color": "brown",
+    "usage": "others",
+    "texture": "others",
+    "print_category": "plain"
+  },
+  "23.jpg": {
+    "category": "others",
+    "item_type": "gift box",
+    "primary_color": "green",
+    "usage": "others",
+    "texture": "others",
+    "print_category": "plain"
+  },
+  "24.jpg": {
+    "category": "others",
+    "item_type": "christmas ornament",
+    "primary_color": "red",
+    "usage": "others",
+    "texture": "others",
+    "print_category": "floral"
+  },
+  "25.jpg": {
+    "category": "others",
+    "item_type": "santa hat",
+    "primary_color": "red",
+    "usage": "others",
+    "texture": "others",
+    "print_category": "plain"
+  },
+  "26.jpg": {
+    "category": "others",
+    "item_type": "unclear",
+    "primary_color": "white",
+    "usage": "others",
+    "texture": "others",
+    "print_category": "plain"
+  },
+  "27.jpg": {
+    "category": "others",
+    "item_type": "unclear",
+    "primary_color": "black",
+    "usage": "others",
+    "texture": "others",
+    "print_category": "plain"
+  },
+  "28.jpg": {
+    "category": "others",
+    "item_type": "unclear",
+    "primary_color": "black",
+    "usage": "others",
+    "texture": "others",
+    "print_category": "plain"
+  },
+  "29.jpg": {
+    "category": "tops",
+    "item_type": "sweater",
+    "primary_color": "burgundy",
+    "usage": "casual",
+    "texture": "knit",
+    "print_category": "plain"
+  },
+  "30.jpg": {
+    "category": "others",
+    "item_type": "graphic",
+    "primary_color": "red",
+    "usage": "others",
+    "texture": "others",
+    "print_category": "plain"
+  },
+  "31.jpg": {
+    "category": "others",
+    "item_type": "puppy",
+    "primary_color": "white",
+    "usage": "others",
+    "texture": "others",
+    "print_category": "plain"
+  },
+  "32.jpg": {
+    "category": "others",
+    "item_type": "kitten",
+    "primary_color": "grey",
+    "usage": "others",
+    "texture": "others",
+    "print_category": "plain"
+  },
+  "33.jpg": {
+    "category": "others",
+    "item_type": "unclear",
+    "primary_color": "white",
+    "usage": "others",
+    "texture": "others",
+    "print_category": "plain"
+  }
+}

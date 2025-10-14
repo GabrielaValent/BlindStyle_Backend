@@ -1,0 +1,49 @@
+{
+  "0.jpg": {
+    "category": "others"
+  },
+  "1.jpg": {
+    "category": "others"
+  },
+  "2.jpg": {
+    "category": "others"
+  },
+  "3.jpg": {
+    "category": "tops",
+    "item_type": "tank top",
+    "primary_color": "black",
+    "usage": "casual",
+    "texture": "cotton",
+    "print_category": "graphic"
+  },
+  "4.jpg": {
+    "category": "bottoms",
+    "item_type": "skinny pants",
+    "primary_color": "black",
+    "usage": "casual",
+    "texture": "denim",
+    "print_category": "plain"
+  },
+  "5.jpg": {
+    "category": "bottoms",
+    "item_type": "skirt",
+    "primary_color": "red",
+    "usage": "casual",
+    "texture": "cotton",
+    "print_category": "plaid"
+  },
+  "6.jpg": {
+    "category": "shoes",
+    "item_type": "sneaker",
+    "primary_color": "red",
+    "usage": "casual",
+    "texture": "cotton",
+    "print_category": "plain"
+  },
+  "7.jpg": {
+    "category": "others"
+  },
+  "8.jpg": {
+    "category": "others"
+  }
+}

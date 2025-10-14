@@ -1,0 +1,46 @@
+{
+  "0.jpg": {
+    "category": "others"
+  },
+  "1.jpg": {
+    "category": "tops",
+    "item_type": "dress",
+    "primary_color": "black",
+    "usage": "party",
+    "texture": "leather",
+    "print_category": "floral"
+  },
+  "2.jpg": {
+    "category": "tops",
+    "item_type": "coat",
+    "primary_color": "beige",
+    "usage": "outerwear",
+    "texture": "wool",
+    "print_category": "animal"
+  },
+  "3.jpg": {
+    "category": "bottoms",
+    "item_type": "leggings",
+    "primary_color": "black",
+    "usage": "casual",
+    "texture": "knit",
+    "print_category": "graphic"
+  },
+  "4.jpg": {
+    "category": "shoes",
+    "item_type": "pumps",
+    "primary_color": "burgundy",
+    "usage": "formal",
+    "texture": "velvet",
+    "print_category": "plain"
+  },
+  "5.jpg": {
+    "category": "others"
+  },
+  "6.jpg": {
+    "category": "others"
+  },
+  "7.jpg": {
+    "category": "others"
+  }
+}

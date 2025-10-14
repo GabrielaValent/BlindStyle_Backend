@@ -1,0 +1,72 @@
+{
+  "0.jpg": {
+    "category": "others"
+  },
+  "1.jpg": {
+    "category": "tops",
+    "item_type": "t-shirt",
+    "primary_color": "beige",
+    "usage": "casual",
+    "texture": "cotton",
+    "print_category": "plain"
+  },
+  "2.jpg": {
+    "category": "tops",
+    "item_type": "dress",
+    "primary_color": "beige",
+    "usage": "formal",
+    "texture": "others",
+    "print_category": "plain"
+  },
+  "3.jpg": {
+    "category": "tops",
+    "item_type": "t-shirt",
+    "primary_color": "gray",
+    "usage": "casual",
+    "texture": "cotton",
+    "print_category": "graphic"
+  },
+  "4.jpg": {
+    "category": "others"
+  },
+  "5.jpg": {
+    "category": "tops",
+    "item_type": "bralette",
+    "primary_color": "black",
+    "usage": "casual",
+    "texture": "lace",
+    "print_category": "plain"
+  },
+  "6.jpg": {
+    "category": "tops",
+    "item_type": "blouse",
+    "primary_color": "light pink",
+    "usage": "casual",
+    "texture": "cotton",
+    "print_category": "plain"
+  },
+  "7.jpg": {
+    "category": "tops",
+    "item_type": "camisole",
+    "primary_color": "gray",
+    "usage": "casual",
+    "texture": "others",
+    "print_category": "plain"
+  },
+  "8.jpg": {
+    "category": "tops",
+    "item_type": "t-shirt",
+    "primary_color": "blue",
+    "usage": "casual",
+    "texture": "cotton",
+    "print_category": "graphic"
+  },
+  "9.jpg": {
+    "category": "tops",
+    "item_type": "t-shirt",
+    "primary_color": "white",
+    "usage": "casual",
+    "texture": "cotton",
+    "print_category": "plain"
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "0.jpg": {
+    "category": "others"
+  },
+  "1.jpg": {
+    "category": "tops",
+    "item_type": "camisole",
+    "primary_color": "grey",
+    "usage": "casual",
+    "texture": "polyester",
+    "print_category": "plaid"
+  },
+  "2.jpg": {
+    "category": "tops",
+    "item_type": "biker jacket",
+    "primary_color": "black",
+    "usage": "outerwear",
+    "texture": "leather",
+    "print_category": "plain"
+  },
+  "3.jpg": {
+    "category": "others"
+  },
+  "4.jpg": {
+    "category": "bottoms",
+    "item_type": "jeans",
+    "primary_color": "blue",
+    "usage": "casual",
+    "texture": "denim",
+    "print_category": "graphic"
+  },
+  "5.jpg": {
+    "category": "shoes",
+    "item_type": "boots",
+    "primary_color": "grey",
+    "usage": "casual",
+    "texture": "leather",
+    "print_category": "plain"
+  },
+  "6.jpg": {
+    "category": "others"
+  },
+  "7.jpg": {
+    "category": "others"
+  },
+  "8.jpg": {
+    "category": "others"
+  },
+  "9.jpg": {
+    "category": "others"
+  },
+  "10.jpg": {
+    "category": "others"
+  },
+  "11.jpg": {
+    "category": "others"
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "0.jpg": {
+    "category": "others",
+    "item_type": "collage",
+    "primary_color": "pink",
+    "usage": null,
+    "texture": null,
+    "print_category": null
+  },
+  "1.jpg": {
+    "category": "tops",
+    "item_type": "jacket",
+    "primary_color": "black",
+    "usage": "casual",
+    "texture": "others",
+    "print_category": "plaid"
+  },
+  "2.jpg": {
+    "category": "bottoms",
+    "item_type": "skirt",
+    "primary_color": "pink",
+    "usage": "casual",
+    "texture": "knit",
+    "print_category": "plain"
+  },
+  "3.jpg": {
+    "category": "shoes",
+    "item_type": "boots",
+    "primary_color": "beige",
+    "usage": "formal",
+    "texture": "suede",
+    "print_category": "plain"
+  },
+  "4.jpg": {
+    "category": "others",
+    "item_type": "handbag",
+    "primary_color": "beige",
+    "usage": null,
+    "texture": "leather",
+    "print_category": "plain"
+  },
+  "5.jpg": {
+    "category": "others",
+    "item_type": "hair accessory",
+    "primary_color": "pink",
+    "usage": null,
+    "texture": "others",
+    "print_category": "floral"
+  },
+  "6.jpg": {
+    "category": "others",
+    "item_type": "makeup",
+    "primary_color": "brown",
+    "usage": null,
+    "texture": null,
+    "print_category": null
+  },
+  "7.jpg": {
+    "category": "others",
+    "item_type": "perfume",
+    "primary_color": "pink",
+    "usage": null,
+    "texture": null,
+    "print_category": null
+  },
+  "8.jpg": {
+    "category": "others",
+    "item_type": "lip balm",
+    "primary_color": "pink",
+    "usage": null,
+    "texture": null,
+    "print_category": null
+  },
+  "9.jpg": {
+    "category": "others",
+    "item_type": "hair comb",
+    "primary_color": "black",
+    "usage": null,
+    "texture": "others",
+    "print_category": "plain"
+  },
+  "10.jpg": {
+    "category": "others",
+    "item_type": "armchair",
+    "primary_color": "pink",
+    "usage": null,
+    "texture": "others",
+    "print_category": "plaid"
+  },
+  "11.jpg": {
+    "category": "others",
+    "item_type": "christmas ornament",
+    "primary_color": "white",
+    "usage": null,
+    "texture": "others",
+    "print_category": "plain"
+  },
+  "12.jpg": {
+    "category": "others",
+    "item_type": "image",
+    "primary_color": "black",
+    "usage": null,
+    "texture": null,
+    "print_category": "plain"
+  },
+  "13.jpg": {
+    "category": "others",
+    "item_type": "candle holder",
+    "primary_color": "white",
+    "usage": null,
+    "texture": "others",
+    "print_category": "floral"
+  },
+  "14.jpg": {
+    "category": "others",
+    "item_type": "image",
+    "primary_color": "pink",
+    "usage": null,
+    "texture": null,
+    "print_category": "floral"
+  },
+  "15.jpg": {
+    "category": "others",
+    "item_type": "stuffed animal",
+    "primary_color": "white",
+    "usage": null,
+    "texture": "others",
+    "print_category": "plain"
+  },
+  "16.jpg": {
+    "category": "others",
+    "item_type": "image",
+    "primary_color": "grey",
+    "usage": null,
+    "texture": null,
+    "print_category": "plain"
+  },
+  "17.jpg": {
+    "category": "others",
+    "item_type": "dress",
+    "primary_color": "pink",
+    "usage": "party",
+    "texture": "knit",
+    "print_category": "plain"
+  },
+  "18.jpg": {
+    "category": "others",
+    "item_type": "dress",
+    "primary_color": "pink",
+    "usage": "party",
+    "texture": "knit",
+    "print_category": "plain"
+  },
+  "19.jpg": {
+    "category": "others",
+    "item_type": "shirts",
+    "primary_color": "white",
+    "usage": "sleepwear",
+    "texture": "cotton",
+    "print_category": "floral"
+  },
+  "20.jpg": {
+    "category": "others",
+    "item_type": "text",
+    "primary_color": "black",
+    "usage": null,
+    "texture": null,
+    "print_category": null
+  },
+  "21.jpg": {
+    "category": "tops",
+    "item_type": "sweater",
+    "primary_color": "white",
+    "usage": "casual",
+    "texture": "knit",
+    "print_category": "plain"
+  },
+  "22.jpg": {
+    "category": "others",
+    "item_type": "logo",
+    "primary_color": "black",
+    "usage": null,
+    "texture": null,
+    "print_category": null
+  },
+  "23.jpg": {
+    "category": "others",
+    "item_type": "necklace",
+    "primary_color": "black",
+    "usage": "party",
+    "texture": "others",
+    "print_category": "abstract"
+  }
+}

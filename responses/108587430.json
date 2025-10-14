@@ -1,0 +1,138 @@
+{
+  "0.jpg": {
+    "category": "others",
+    "item_type": null,
+    "primary_color": null,
+    "usage": null,
+    "texture": null,
+    "print_category": null
+  },
+  "1.jpg": {
+    "category": "tops",
+    "item_type": "tank top",
+    "primary_color": "pink",
+    "usage": "casual",
+    "texture": "knit",
+    "print_category": "striped"
+  },
+  "2.jpg": {
+    "category": "bottoms",
+    "item_type": "maxi skirt",
+    "primary_color": "blue",
+    "usage": "casual",
+    "texture": "knit",
+    "print_category": "plain"
+  },
+  "3.jpg": {
+    "category": "bottoms",
+    "item_type": "high-waisted bikini bottom",
+    "primary_color": "pink",
+    "usage": "swimwear",
+    "texture": "polyester",
+    "print_category": "abstract"
+  },
+  "4.jpg": {
+    "category": "tops",
+    "item_type": "bandeau bikini top",
+    "primary_color": "blue",
+    "usage": "swimwear",
+    "texture": "polyester",
+    "print_category": "animal"
+  },
+  "5.jpg": {
+    "category": "shoes",
+    "item_type": "sandals",
+    "primary_color": "blue",
+    "usage": "casual",
+    "texture": "suede",
+    "print_category": "plain"
+  },
+  "6.jpg": {
+    "category": "others",
+    "item_type": null,
+    "primary_color": null,
+    "usage": null,
+    "texture": null,
+    "print_category": null
+  },
+  "7.jpg": {
+    "category": "others",
+    "item_type": "beach blanket",
+    "primary_color": "blue",
+    "usage": "outdoors",
+    "texture": "cotton",
+    "print_category": "abstract"
+  },
+  "8.jpg": {
+    "category": "others",
+    "item_type": null,
+    "primary_color": null,
+    "usage": null,
+    "texture": null,
+    "print_category": null
+  },
+  "9.jpg": {
+    "category": "others",
+    "item_type": null,
+    "primary_color": null,
+    "usage": null,
+    "texture": null,
+    "print_category": null
+  },
+  "10.jpg": {
+    "category": "others",
+    "item_type": null,
+    "primary_color": null,
+    "usage": null,
+    "texture": null,
+    "print_category": null
+  },
+  "11.jpg": {
+    "category": "others",
+    "item_type": null,
+    "primary_color": null,
+    "usage": null,
+    "texture": null,
+    "print_category": null
+  },
+  "12.jpg": {
+    "category": "others",
+    "item_type": null,
+    "primary_color": null,
+    "usage": null,
+    "texture": null,
+    "print_category": null
+  },
+  "13.jpg": {
+    "category": "others",
+    "item_type": null,
+    "primary_color": null,
+    "usage": null,
+    "texture": null,
+    "print_category": null
+  },
+  "14.jpg": {
+    "category": "others",
+    "item_type": null,
+    "primary_color": null,
+    "usage": null,
+    "texture": null,
+    "print_category": null
+  },
+  "15.jpg": {
+    "category": "others",
+    "item_type": null,
+    "primary_color": null,
+    "usage": null,
+    "texture": null,
+    "print_category": null
+  },
+  "16.jpg": {
+    "category": "others",
+    "item_type": null,
+    "primary_color": null,
+    "usage": null,
+    "texture": null,
+    "print_category": null
+  }
+}

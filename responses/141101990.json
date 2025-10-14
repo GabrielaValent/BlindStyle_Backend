@@ -1,0 +1,19 @@
+{
+  "0.jpg": {
+    "category": "others"
+  },
+  "1.jpg": {
+    "category": "shoes",
+    "item_type": "high heels",
+    "primary_color": "blue",
+    "usage": "party",
+    "texture": "silk",
+    "print_category": "plain"
+  },
+  "2.jpg": {
+    "category": "others"
+  },
+  "3.jpg": {
+    "category": "others"
+  }
+}

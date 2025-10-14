@@ -1,0 +1,58 @@
+{
+  "0.jpg": {
+    "category": "others",
+    "description": "This image contains multiple clothing items and accessories, making it difficult to provide individual descriptions."
+  },
+  "1.jpg": {
+    "category": "tops",
+    "item_type": "T-shirt",
+    "primary_color": "black",
+    "usage": "casual",
+    "texture": "knit",
+    "print_category": "plain"
+  },
+  "2.jpg": {
+    "category": "tops",
+    "item_type": "tank top",
+    "primary_color": "black",
+    "usage": "casual",
+    "texture": "cotton",
+    "print_category": "plain"
+  },
+  "3.jpg": {
+    "category": "bottoms",
+    "item_type": "jeans",
+    "primary_color": "black",
+    "usage": "casual",
+    "texture": "denim",
+    "print_category": "plain"
+  },
+  "4.jpg": {
+    "category": "shoes",
+    "item_type": "slip-on shoes",
+    "primary_color": "black",
+    "usage": "casual",
+    "texture": "canvas",
+    "print_category": "plain"
+  },
+  "5.jpg": {
+    "category": "others",
+    "description": "This image contains a handbag, which is not among the specified categories."
+  },
+  "6.jpg": {
+    "category": "others",
+    "description": "This image contains a bracelet, which is not among the specified categories."
+  },
+  "7.jpg": {
+    "category": "others",
+    "description": "This image contains sunglasses, which is not among the specified categories."
+  },
+  "8.jpg": {
+    "category": "others",
+    "description": "This image contains multiple clothing items and accessories, making it difficult to provide individual descriptions."
+  },
+  "9.jpg": {
+    "category": "others",
+    "description": "This is not an image of clothing."
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "0.jpg": {
+    "category": "others",
+    "description": "This image contains multiple clothing items and accessories, making it difficult to classify individually."
+  },
+  "1.jpg": {
+    "category": "tops",
+    "item_type": "tshirt",
+    "primary_color": "black",
+    "usage": "casual",
+    "texture": "cotton",
+    "print_category": "graphic"
+  },
+  "2.jpg": {
+    "category": "tops",
+    "item_type": "denim jacket",
+    "primary_color": "blue",
+    "usage": "casual",
+    "texture": "denim",
+    "print_category": "plain"
+  },
+  "3.jpg": {
+    "category": "bottoms",
+    "item_type": "jeans",
+    "primary_color": "black",
+    "usage": "casual",
+    "texture": "denim",
+    "print_category": "plain"
+  },
+  "4.jpg": {
+    "category": "shoes",
+    "item_type": "high-top sneakers",
+    "primary_color": "black",
+    "usage": "casual",
+    "texture": "canvas",
+    "print_category": "plain"
+  },
+  "5.jpg": {
+    "category": "others",
+    "description": "This is a handbag, which doesn't fit into the predefined categories."
+  },
+  "6.jpg": {
+    "category": "others",
+    "description": "This is a ring, which doesn't fit into the predefined categories."
+  },
+  "7.jpg": {
+    "category": "others",
+    "description": "These are sunglasses, which don't fit into the predefined categories."
+  },
+  "8.jpg": {
+    "category": "others",
+    "description": "This image contains a person's hair and should be excluded."
+  },
+  "9.jpg": {
+    "category": "others",
+    "description": "This image contains fingernails and should be excluded."
+  },
+  "10.jpg": {
+    "category": "others",
+    "description": "This image contains a person's eyes and should be excluded."
+  },
+  "11.jpg": {
+    "category": "others",
+    "description": "This image contains multiple clothing items making it difficult to classify individually."
+  }
+}

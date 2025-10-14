@@ -1,0 +1,58 @@
+{
+  "0.jpg": {
+    "category": "tops",
+    "item_type": "dress",
+    "primary_color": "peach",
+    "usage": "formal",
+    "texture": "chiffon",
+    "print_category": "plain"
+  },
+  "1.jpg": {
+    "category": "tops",
+    "item_type": "dress",
+    "primary_color": "peach",
+    "usage": "formal",
+    "texture": "chiffon",
+    "print_category": "plain"
+  },
+  "2.jpg": {
+    "category": "shoes",
+    "item_type": "sandals",
+    "primary_color": "silver",
+    "usage": "formal",
+    "texture": "satin",
+    "print_category": "plain"
+  },
+  "3.jpg": {
+    "category": "others",
+    "item_type": "bracelet",
+    "primary_color": "silver",
+    "usage": "formal",
+    "texture": "metal",
+    "print_category": "plain"
+  },
+  "4.jpg": {
+    "category": "others",
+    "item_type": "makeup",
+    "primary_color": "brown",
+    "usage": "null",
+    "texture": "powder",
+    "print_category": "abstract"
+  },
+  "5.jpg": {
+    "category": "others",
+    "item_type": "text",
+    "primary_color": "black",
+    "usage": "null",
+    "texture": "null",
+    "print_category": "null"
+  },
+  "6.jpg": {
+    "category": "others",
+    "item_type": "hair",
+    "primary_color": "blonde",
+    "usage": "null",
+    "texture": "null",
+    "print_category": "null"
+  }
+}

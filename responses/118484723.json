@@ -1,0 +1,82 @@
+{
+  "0.jpg": {
+    "category": "tops",
+    "item_type": "dress",
+    "primary_color": "black",
+    "usage": "party",
+    "texture": "lace",
+    "print_category": "plain"
+  },
+  "1.jpg": {
+    "category": "tops",
+    "item_type": "dress",
+    "primary_color": "black",
+    "usage": "formal",
+    "texture": "lace",
+    "print_category": "plain"
+  },
+  "2.jpg": {
+    "category": "bottoms",
+    "item_type": "tights",
+    "primary_color": "black",
+    "usage": "casual",
+    "texture": "others",
+    "print_category": "plain"
+  },
+  "3.jpg": {
+    "category": "others",
+    "item_type": "handbag",
+    "primary_color": "black",
+    "usage": "party",
+    "texture": "leather",
+    "print_category": "plain"
+  },
+  "4.jpg": {
+    "category": "others",
+    "item_type": "bracelets",
+    "primary_color": "black",
+    "usage": "casual",
+    "texture": "others",
+    "print_category": "plain"
+  },
+  "5.jpg": {
+    "category": "others",
+    "item_type": "eyeshadow",
+    "primary_color": "black",
+    "usage": "null",
+    "texture": "null",
+    "print_category": "null"
+  },
+  "6.jpg": {
+    "category": "others",
+    "item_type": "powder",
+    "primary_color": "beige",
+    "usage": "null",
+    "texture": "null",
+    "print_category": "null"
+  },
+  "7.jpg": {
+    "category": "others",
+    "item_type": "mascara",
+    "primary_color": "black",
+    "usage": "null",
+    "texture": "null",
+    "print_category": "null"
+  },
+  "8.jpg": {
+    "category": "others",
+    "item_type": "lipstick",
+    "primary_color": "red",
+    "usage": "null",
+    "texture": "null",
+    "print_category": "plain"
+  },
+  "9.jpg": {
+    "category": "others",
+    "item_type": "null",
+    "primary_color": "null",
+    "usage": "null",
+    "texture": "null",
+    "print_category": "null"
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "0.jpg": {
+    "category": "tops",
+    "item_type": "crop top",
+    "primary_color": "white",
+    "usage": "casual",
+    "texture": "knit",
+    "print_category": "floral"
+  },
+  "1.jpg": {
+    "category": "bottoms",
+    "item_type": "denim shorts",
+    "primary_color": "light blue",
+    "usage": "casual",
+    "texture": "denim",
+    "print_category": "plain"
+  },
+  "2.jpg": {
+    "category": "shoes",
+    "item_type": "canvas sneakers",
+    "primary_color": "pink",
+    "usage": "casual",
+    "texture": "cotton",
+    "print_category": "plain"
+  },
+  "3.jpg": {
+    "category": "others",
+    "item_type": "backpack",
+    "primary_color": "light blue",
+    "usage": "casual",
+    "texture": "cotton",
+    "print_category": "graphic"
+  },
+  "4.jpg": {
+    "category": "others",
+    "item_type": "earrings",
+    "primary_color": "pink",
+    "usage": "casual",
+    "texture": "others",
+    "print_category": "floral"
+  },
+  "5.jpg": {
+    "category": "tops",
+    "item_type": "crop top",
+    "primary_color": "white",
+    "usage": "casual",
+    "texture": "knit",
+    "print_category": "floral"
+  },
+  "6.jpg": {
+    "category": "others",
+    "item_type": "multiple items",
+    "primary_color": "multiple colors",
+    "usage": "casual",
+    "texture": "others",
+    "print_category": "multiple"
+  }
+}

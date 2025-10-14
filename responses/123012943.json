@@ -1,0 +1,170 @@
+{
+  "0.jpg": {
+    "category": "others",
+    "item_type": "collage",
+    "primary_color": null,
+    "usage": null,
+    "texture": null,
+    "print_category": null
+  },
+  "1.jpg": {
+    "category": "others",
+    "item_type": "oven mitt",
+    "primary_color": "white",
+    "usage": "casual",
+    "texture": "cotton",
+    "print_category": "floral"
+  },
+  "2.jpg": {
+    "category": "others",
+    "item_type": "cake cover",
+    "primary_color": "beige",
+    "usage": "casual",
+    "texture": "metal",
+    "print_category": "plain"
+  },
+  "3.jpg": {
+    "category": "others",
+    "item_type": "plate",
+    "primary_color": "white",
+    "usage": "casual",
+    "texture": "ceramic",
+    "print_category": "floral"
+  },
+  "4.jpg": {
+    "category": "others",
+    "item_type": "oven mitt",
+    "primary_color": "pink",
+    "usage": "casual",
+    "texture": "cotton",
+    "print_category": "plaid"
+  },
+  "5.jpg": {
+    "category": "others",
+    "item_type": "plate",
+    "primary_color": "pink",
+    "usage": "casual",
+    "texture": "ceramic",
+    "print_category": "floral"
+  },
+  "6.jpg": {
+    "category": "others",
+    "item_type": "plate",
+    "primary_color": "pink",
+    "usage": "casual",
+    "texture": "ceramic",
+    "print_category": "floral"
+  },
+  "7.jpg": {
+    "category": "others",
+    "item_type": "cup",
+    "primary_color": "red",
+    "usage": "casual",
+    "texture": "ceramic",
+    "print_category": "plain"
+  },
+  "8.jpg": {
+    "category": "others",
+    "item_type": "clock",
+    "primary_color": "grey",
+    "usage": null,
+    "texture": "metal",
+    "print_category": "logo"
+  },
+  "9.jpg": {
+    "category": "others",
+    "item_type": "cake",
+    "primary_color": "red",
+    "usage": null,
+    "texture": null,
+    "print_category": "plain"
+  },
+  "10.jpg": {
+    "category": "others",
+    "item_type": "text",
+    "primary_color": null,
+    "usage": null,
+    "texture": null,
+    "print_category": null
+  },
+  "11.jpg": {
+    "category": "others",
+    "item_type": "tea set collage",
+    "primary_color": null,
+    "usage": null,
+    "texture": null,
+    "print_category": null
+  },
+  "12.jpg": {
+    "category": "tops",
+    "item_type": "blouse",
+    "primary_color": "white",
+    "usage": "casual",
+    "texture": "silk",
+    "print_category": "animal"
+  },
+  "13.jpg": {
+    "category": "bottoms",
+    "item_type": "skirt",
+    "primary_color": "white",
+    "usage": "casual",
+    "texture": "cotton",
+    "print_category": "floral"
+  },
+  "14.jpg": {
+    "category": "others",
+    "item_type": "text",
+    "primary_color": null,
+    "usage": null,
+    "texture": null,
+    "print_category": null
+  },
+  "15.jpg": {
+    "category": "others",
+    "item_type": "tea set",
+    "primary_color": "white",
+    "usage": "casual",
+    "texture": "ceramic",
+    "print_category": "floral"
+  },
+  "16.jpg": {
+    "category": "others",
+    "item_type": "text",
+    "primary_color": null,
+    "usage": null,
+    "texture": null,
+    "print_category": null
+  },
+  "17.jpg": {
+    "category": "others",
+    "item_type": "frame",
+    "primary_color": "beige",
+    "usage": null,
+    "texture": "paper",
+    "print_category": "plain"
+  },
+  "18.jpg": {
+    "category": "others",
+    "item_type": "frame",
+    "primary_color": "beige",
+    "usage": null,
+    "texture": "paper",
+    "print_category": "plain"
+  },
+  "19.jpg": {
+    "category": "others",
+    "item_type": "teapot",
+    "primary_color": "black",
+    "usage": "casual",
+    "texture": "ceramic",
+    "print_category": "plain"
+  },
+  "20.jpg": {
+    "category": "others",
+    "item_type": "strawberries",
+    "primary_color": "red",
+    "usage": null,
+    "texture": null,
+    "print_category": null
+  }
+}

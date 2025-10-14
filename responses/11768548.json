@@ -1,0 +1,102 @@
+{
+  "0.jpg": {
+    "category": "others",
+    "description": "The image contains multiple clothing items and other objects, making it difficult to classify individual items."
+  },
+  "1.jpg": {
+    "category": "tops",
+    "item_type": "dress",
+    "primary_color": "red",
+    "usage": "casual",
+    "texture": "wool",
+    "print_category": "plaid"
+  },
+  "2.jpg": {
+    "category": "tops",
+    "item_type": "dress",
+    "primary_color": "red",
+    "usage": "casual",
+    "texture": "cotton",
+    "print_category": "plaid"
+  },
+  "3.jpg": {
+    "category": "others",
+    "description": "The image contains a bracelet."
+  },
+  "4.jpg": {
+    "category": "others",
+    "description": "The image shows a fur collar."
+  },
+  "5.jpg": {
+    "category": "others",
+    "description": "The image contains a picnic basket."
+  },
+  "6.jpg": {
+    "category": "others",
+    "description": "The image shows a red blanket or shawl."
+  },
+  "7.jpg": {
+    "category": "others",
+    "description": "The image contains a set of red champagne flutes."
+  },
+  "8.jpg": {
+    "category": "others",
+    "description": "The image shows a red and navy striped headband."
+  },
+  "9.jpg": {
+    "category": "others",
+    "description": "The image contains a Coca-Cola cooler."
+  },
+  "10.jpg": {
+    "category": "others",
+    "description": "The image shows a decorative garland."
+  },
+  "11.jpg": {
+    "category": "others",
+    "description": "The image contains a brown leather handbag."
+  },
+  "12.jpg": {
+    "category": "others",
+    "description": "The image contains cookies."
+  },
+  "13.jpg": {
+    "category": "others",
+    "description": "The image contains multiple clothing items and accessories, making it difficult to classify individual items."
+  },
+  "14.jpg": {
+    "category": "shoes",
+    "item_type": "boots",
+    "primary_color": "red",
+    "usage": "casual",
+    "texture": "others",
+    "print_category": "abstract"
+  },
+  "15.jpg": {
+    "category": "others",
+    "description": "The image is abstract and does not contain clothing items."
+  },
+  "16.jpg": {
+    "category": "others",
+    "description": "The image contains text only."
+  },
+  "17.jpg": {
+    "category": "others",
+    "description": "The image shows a soccer field."
+  },
+  "18.jpg": {
+    "category": "others",
+    "description": "The image contains picnic items."
+  },
+  "19.jpg": {
+    "category": "others",
+    "description": "The image contains a picnic basket with various items."
+  },
+  "20.jpg": {
+    "category": "others",
+    "description": "The image shows a red and white checkered fabric."
+  },
+  "21.jpg": {
+    "category": "others",
+    "description": "The image shows a bottle of wine."
+  }
+}

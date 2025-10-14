@@ -1,0 +1,35 @@
+{
+  "0.jpg": {
+    "category": "others"
+  },
+  "1.jpg": {
+    "category": "bottoms",
+    "item_type": "trousers",
+    "primary_color": "black",
+    "usage": "business",
+    "texture": "polyester",
+    "print_category": "plain"
+  },
+  "2.jpg": {
+    "category": "shoes",
+    "item_type": "wedge heels",
+    "primary_color": "black",
+    "usage": "casual",
+    "texture": "others",
+    "print_category": "floral"
+  },
+  "3.jpg": {
+    "category": "others"
+  },
+  "4.jpg": {
+    "category": "others"
+  },
+  "5.jpg": {
+    "category": "tops",
+    "item_type": "chef jacket",
+    "primary_color": "white",
+    "usage": "workwear",
+    "texture": "cotton",
+    "print_category": "plain"
+  }
+}

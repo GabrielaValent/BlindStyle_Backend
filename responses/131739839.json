@@ -1,0 +1,33 @@
+{
+  "0.jpg": {
+    "category": "others"
+  },
+  "1.jpg": {
+    "category": "tops",
+    "item_type": "strapless dress",
+    "primary_color": "black",
+    "usage": "party",
+    "texture": "polyester",
+    "print_category": "floral"
+  },
+  "2.jpg": {
+    "category": "shoes",
+    "item_type": "gladiator sandal",
+    "primary_color": "black",
+    "usage": "casual",
+    "texture": "suede",
+    "print_category": "plain"
+  },
+  "3.jpg": {
+    "category": "others"
+  },
+  "4.jpg": {
+    "category": "others"
+  },
+  "5.jpg": {
+    "category": "others"
+  },
+  "6.jpg": {
+    "category": "others"
+  }
+}

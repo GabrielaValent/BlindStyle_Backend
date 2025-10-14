@@ -1,0 +1,130 @@
+{
+  "0.jpg": {
+    "category": "tops",
+    "item_type": "wedding dress",
+    "primary_color": "pink",
+    "usage": "formal",
+    "texture": "silk",
+    "print_category": "plain"
+  },
+  "1.jpg": {
+    "category": "shoes",
+    "item_type": "sandals",
+    "primary_color": "pink",
+    "usage": "party",
+    "texture": "satin",
+    "print_category": "plain"
+  },
+  "2.jpg": {
+    "category": "others",
+    "item_type": "clutch",
+    "primary_color": "pink",
+    "usage": "party",
+    "texture": "leather",
+    "print_category": "plain"
+  },
+  "3.jpg": {
+    "category": "others",
+    "item_type": "N/A",
+    "primary_color": "N/A",
+    "usage": "N/A",
+    "texture": "N/A",
+    "print_category": "N/A"
+  },
+  "4.jpg": {
+    "category": "tops",
+    "item_type": "gown",
+    "primary_color": "pink",
+    "usage": "formal",
+    "texture": "satin",
+    "print_category": "plain"
+  },
+  "5.jpg": {
+    "category": "others",
+    "item_type": "N/A",
+    "primary_color": "N/A",
+    "usage": "N/A",
+    "texture": "N/A",
+    "print_category": "N/A"
+  },
+  "6.jpg": {
+    "category": "others",
+    "item_type": "N/A",
+    "primary_color": "N/A",
+    "usage": "N/A",
+    "texture": "N/A",
+    "print_category": "N/A"
+  },
+  "7.jpg": {
+    "category": "others",
+    "item_type": "N/A",
+    "primary_color": "N/A",
+    "usage": "N/A",
+    "texture": "N/A",
+    "print_category": "N/A"
+  },
+  "8.jpg": {
+    "category": "others",
+    "item_type": "N/A",
+    "primary_color": "N/A",
+    "usage": "N/A",
+    "texture": "N/A",
+    "print_category": "N/A"
+  },
+  "9.jpg": {
+    "category": "others",
+    "item_type": "N/A",
+    "primary_color": "N/A",
+    "usage": "N/A",
+    "texture": "N/A",
+    "print_category": "N/A"
+  },
+  "10.jpg": {
+    "category": "others",
+    "item_type": "N/A",
+    "primary_color": "N/A",
+    "usage": "N/A",
+    "texture": "N/A",
+    "print_category": "N/A"
+  },
+  "11.jpg": {
+    "category": "others",
+    "item_type": "N/A",
+    "primary_color": "N/A",
+    "usage": "N/A",
+    "texture": "N/A",
+    "print_category": "N/A"
+  },
+  "12.jpg": {
+    "category": "others",
+    "item_type": "N/A",
+    "primary_color": "N/A",
+    "usage": "N/A",
+    "texture": "N/A",
+    "print_category": "N/A"
+  },
+  "13.jpg": {
+    "category": "others",
+    "item_type": "N/A",
+    "primary_color": "N/A",
+    "usage": "N/A",
+    "texture": "N/A",
+    "print_category": "N/A"
+  },
+  "14.jpg": {
+    "category": "others",
+    "item_type": "N/A",
+    "primary_color": "N/A",
+    "usage": "N/A",
+    "texture": "N/A",
+    "print_category": "N/A"
+  },
+  "15.jpg": {
+    "category": "others",
+    "item_type": "N/A",
+    "primary_color": "N/A",
+    "usage": "N/A",
+    "texture": "N/A",
+    "print_category": "N/A"
+  }
+}

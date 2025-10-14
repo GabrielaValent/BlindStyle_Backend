@@ -1,0 +1,101 @@
+{
+  "0.jpg": {
+    "category": "others"
+  },
+  "1.jpg": {
+    "category": "tops",
+    "item_type": "dress",
+    "primary_color": "beige",
+    "usage": "casual",
+    "texture": "cotton",
+    "print_category": "plain"
+  },
+  "2.jpg": {
+    "category": "tops",
+    "item_type": "kimono",
+    "primary_color": "white",
+    "usage": "casual",
+    "texture": "silk",
+    "print_category": "floral"
+  },
+  "3.jpg": {
+    "category": "tops",
+    "item_type": "bra",
+    "primary_color": "pink",
+    "usage": "sleepwear",
+    "texture": "polyester",
+    "print_category": "floral"
+  },
+  "4.jpg": {
+    "category": "bottoms",
+    "item_type": "panties",
+    "primary_color": "pink",
+    "usage": "sleepwear",
+    "texture": "polyester",
+    "print_category": "plain"
+  },
+  "5.jpg": {
+    "category": "shoes",
+    "item_type": "sandals",
+    "primary_color": "pink",
+    "usage": "party",
+    "texture": "leather",
+    "print_category": "plain"
+  },
+  "6.jpg": {
+    "category": "others"
+  },
+  "7.jpg": {
+    "category": "others"
+  },
+  "8.jpg": {
+    "category": "others"
+  },
+  "9.jpg": {
+    "category": "others"
+  },
+  "10.jpg": {
+    "category": "others"
+  },
+  "11.jpg": {
+    "category": "others"
+  },
+  "12.jpg": {
+    "category": "others"
+  },
+  "13.jpg": {
+    "category": "others"
+  },
+  "14.jpg": {
+    "category": "others"
+  },
+  "15.jpg": {
+    "category": "others"
+  },
+  "16.jpg": {
+    "category": "others"
+  },
+  "17.jpg": {
+    "category": "others"
+  },
+  "18.jpg": {
+    "category": "others"
+  },
+  "19.jpg": {
+    "category": "tops",
+    "item_type": "negligee",
+    "primary_color": "black",
+    "usage": "sleepwear",
+    "texture": "silk",
+    "print_category": "plain"
+  },
+  "20.jpg": {
+    "category": "others"
+  },
+  "21.jpg": {
+    "category": "others"
+  },
+  "22.jpg": {
+    "category": "others"
+  }
+}

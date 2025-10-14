@@ -1,0 +1,43 @@
+{
+  "0.jpg": {
+    "category": "others"
+  },
+  "1.jpg": {
+    "category": "tops",
+    "item_type": "coat",
+    "primary_color": "multicolor",
+    "usage": "outerwear",
+    "texture": "cotton",
+    "print_category": "abstract"
+  },
+  "2.jpg": {
+    "category": "bottoms",
+    "item_type": "pencil skirt",
+    "primary_color": "light gray",
+    "usage": "business",
+    "texture": "knit",
+    "print_category": "plain"
+  },
+  "3.jpg": {
+    "category": "tops",
+    "item_type": "camisole",
+    "primary_color": "yellow",
+    "usage": "casual",
+    "texture": "silk",
+    "print_category": "plain"
+  },
+  "4.jpg": {
+    "category": "shoes",
+    "item_type": "pumps",
+    "primary_color": "multicolor",
+    "usage": "party",
+    "texture": "leather",
+    "print_category": "graphic"
+  },
+  "5.jpg": {
+    "category": "others"
+  },
+  "6.jpg": {
+    "category": "others"
+  }
+}

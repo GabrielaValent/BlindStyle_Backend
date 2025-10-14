@@ -1,0 +1,43 @@
+{
+  "0.jpg": {
+    "category": "others"
+  },
+  "1.jpg": {
+    "category": "tops",
+    "item_type": "raglan tshirt",
+    "primary_color": "white",
+    "usage": "casual",
+    "texture": "cotton",
+    "print_category": "graphic"
+  },
+  "2.jpg": {
+    "category": "tops",
+    "item_type": "varsity jacket",
+    "primary_color": "black",
+    "usage": "outerwear",
+    "texture": "wool",
+    "print_category": "graphic"
+  },
+  "3.jpg": {
+    "category": "bottoms",
+    "item_type": "skinny jeans",
+    "primary_color": "blue",
+    "usage": "casual",
+    "texture": "denim",
+    "print_category": "plain"
+  },
+  "4.jpg": {
+    "category": "shoes",
+    "item_type": "sneakers",
+    "primary_color": "white",
+    "usage": "casual",
+    "texture": "leather",
+    "print_category": "plain"
+  },
+  "5.jpg": {
+    "category": "others"
+  },
+  "6.jpg": {
+    "category": "others"
+  }
+}

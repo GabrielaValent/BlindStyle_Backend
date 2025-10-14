@@ -1,0 +1,50 @@
+{
+  "0.jpg": {
+    "category": "others",
+    "item_type": null,
+    "primary_color": null,
+    "usage": null,
+    "texture": null,
+    "print_category": null
+  },
+  "1.jpg": {
+    "category": "shoes",
+    "item_type": "sneakers",
+    "primary_color": "white",
+    "usage": "casual",
+    "texture": "leather",
+    "print_category": "plain"
+  },
+  "2.jpg": {
+    "category": "tops",
+    "item_type": "basketball jersey",
+    "primary_color": "yellow",
+    "usage": "sportswear",
+    "texture": "polyester",
+    "print_category": "logo"
+  },
+  "3.jpg": {
+    "category": "others",
+    "item_type": null,
+    "primary_color": null,
+    "usage": null,
+    "texture": null,
+    "print_category": null
+  },
+  "4.jpg": {
+    "category": "others",
+    "item_type": "beanie",
+    "primary_color": "white",
+    "usage": "casual",
+    "texture": "knit",
+    "print_category": "logo"
+  },
+  "5.jpg": {
+    "category": "others",
+    "item_type": null,
+    "primary_color": null,
+    "usage": null,
+    "texture": null,
+    "print_category": null
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "0.jpg": {
+    "category": "others"
+  },
+  "1.jpg": {
+    "category": "others"
+  },
+  "2.jpg": {
+    "category": "others"
+  },
+  "3.jpg": {
+    "category": "others"
+  },
+  "4.jpg": {
+    "category": "others"
+  },
+  "5.jpg": {
+    "category": "others"
+  },
+  "6.jpg": {
+    "category": "tops",
+    "item_type": "crop top",
+    "primary_color": "white",
+    "usage": "casual",
+    "texture": "cotton",
+    "print_category": "graphic"
+  },
+  "7.jpg": {
+    "category": "tops",
+    "item_type": "cardigan",
+    "primary_color": "black",
+    "usage": "casual",
+    "texture": "knit",
+    "print_category": "plain"
+  },
+  "8.jpg": {
+    "category": "bottoms",
+    "item_type": "shorts",
+    "primary_color": "blue",
+    "usage": "casual",
+    "texture": "denim",
+    "print_category": "plain"
+  },
+  "9.jpg": {
+    "category": "shoes",
+    "item_type": "slip-on shoes",
+    "primary_color": "black",
+    "usage": "casual",
+    "texture": "cotton",
+    "print_category": "plain"
+  },
+  "10.jpg": {
+    "category": "others"
+  },
+  "11.jpg": {
+    "category": "others"
+  },
+  "12.jpg": {
+    "category": "others"
+  },
+  "13.jpg": {
+    "category": "others"
+  },
+  "14.jpg": {
+    "category": "others"
+  },
+  "15.jpg": {
+    "category": "others"
+  },
+  "16.jpg": {
+    "category": "others"
+  },
+  "17.jpg": {
+    "category": "others"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "0.jpg": {
+    "category": "others",
+    "description": "The image contains multiple clothing items and accessories, making it difficult to provide individual descriptions."
+  },
+  "1.jpg": {
+    "category": "tops",
+    "item_type": "tank top",
+    "primary_color": "green",
+    "usage": "party",
+    "texture": "others",
+    "print_category": "plain"
+  },
+  "2.jpg": {
+    "category": "bottoms",
+    "item_type": "mini skirt",
+    "primary_color": "black",
+    "usage": "party",
+    "texture": "others",
+    "print_category": "plain"
+  },
+  "3.jpg": {
+    "category": "shoes",
+    "item_type": "ankle boots",
+    "primary_color": "black",
+    "usage": "party",
+    "texture": "leather",
+    "print_category": "plain"
+  },
+  "4.jpg": {
+    "category": "others",
+    "description": "The image contains a handbag, which is not categorized."
+  },
+  "5.jpg": {
+    "category": "others",
+    "description": "The image contains a necklace, which is not categorized."
+  },
+  "6.jpg": {
+    "category": "others",
+    "description": "The image contains a perfume bottle, which is not categorized."
+  },
+  "7.jpg": {
+    "category": "others",
+    "description": "The image contains a bracelet, which is not categorized."
+  },
+  "8.jpg": {
+    "category": "others",
+    "description": "The image contains a dress, but also a person and background elements, making it difficult for accurate description"
+  }
+}

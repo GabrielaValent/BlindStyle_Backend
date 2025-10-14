@@ -1,0 +1,46 @@
+{
+  "0.jpg": {
+    "category": "others"
+  },
+  "1.jpg": {
+    "category": "others"
+  },
+  "2.jpg": {
+    "category": "others"
+  },
+  "3.jpg": {
+    "category": "others"
+  },
+  "4.jpg": {
+    "category": "tops",
+    "item_type": "sweater",
+    "primary_color": "burgundy",
+    "usage": "casual",
+    "texture": "knit",
+    "print_category": "plain"
+  },
+  "5.jpg": {
+    "category": "tops",
+    "item_type": "jacket",
+    "primary_color": "beige",
+    "usage": "outerwear",
+    "texture": "leather",
+    "print_category": "plain"
+  },
+  "6.jpg": {
+    "category": "bottoms",
+    "item_type": "pants",
+    "primary_color": "burgundy",
+    "usage": "business",
+    "texture": "polyester",
+    "print_category": "floral"
+  },
+  "7.jpg": {
+    "category": "shoes",
+    "item_type": "heels",
+    "primary_color": "beige",
+    "usage": "party",
+    "texture": "leather",
+    "print_category": "plain"
+  }
+}

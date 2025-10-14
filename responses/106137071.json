@@ -1,0 +1,49 @@
+{
+  "0.jpg": {
+    "category": "others"
+  },
+  "1.jpg": {
+    "category": "tops",
+    "item_type": "tshirt",
+    "primary_color": "grey",
+    "usage": "casual",
+    "texture": "knit",
+    "print_category": "logo"
+  },
+  "2.jpg": {
+    "category": "tops",
+    "item_type": "sweatshirt",
+    "primary_color": "white",
+    "usage": "casual",
+    "texture": "fleece",
+    "print_category": "plain"
+  },
+  "3.jpg": {
+    "category": "shoes",
+    "item_type": "oxford shoes",
+    "primary_color": "black",
+    "usage": "formal",
+    "texture": "leather",
+    "print_category": "plain"
+  },
+  "4.jpg": {
+    "category": "others"
+  },
+  "5.jpg": {
+    "category": "others"
+  },
+  "6.jpg": {
+    "category": "others"
+  },
+  "7.jpg": {
+    "category": "others"
+  },
+  "8.jpg": {
+    "category": "bottoms",
+    "item_type": "overalls",
+    "primary_color": "blue",
+    "usage": "casual",
+    "texture": "denim",
+    "print_category": "plain"
+  }
+}

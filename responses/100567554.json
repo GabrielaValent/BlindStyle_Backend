@@ -1,0 +1,52 @@
+{
+  "0.jpg": {
+    "category": "others"
+  },
+  "1.jpg": {
+    "category": "tops",
+    "item_type": "dress",
+    "primary_color": "beige",
+    "usage": "party",
+    "texture": "polyester",
+    "print_category": "plain"
+  },
+  "2.jpg": {
+    "category": "shoes",
+    "item_type": "platform high heel",
+    "primary_color": "beige",
+    "usage": "party",
+    "texture": "suede",
+    "print_category": "graphic"
+  },
+  "3.jpg": {
+    "category": "others"
+  },
+  "4.jpg": {
+    "category": "tops",
+    "item_type": "dress",
+    "primary_color": "multicolor",
+    "usage": "party",
+    "texture": "others",
+    "print_category": "floral"
+  },
+  "5.jpg": {
+    "category": "tops",
+    "item_type": "blouse",
+    "primary_color": "pink",
+    "usage": "casual",
+    "texture": "cotton",
+    "print_category": "plain"
+  },
+  "6.jpg": {
+    "category": "others"
+  },
+  "7.jpg": {
+    "category": "others"
+  },
+  "8.jpg": {
+    "category": "others"
+  },
+  "9.jpg": {
+    "category": "others"
+  }
+}

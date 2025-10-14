@@ -1,0 +1,106 @@
+{
+  "0.jpg": {
+    "category": "others",
+    "description": "collage of multiple clothing items and other images"
+  },
+  "1.jpg": {
+    "category": "tops",
+    "item_type": "sweater",
+    "primary_color": "coral",
+    "usage": "casual",
+    "texture": "knit",
+    "print_category": "plain"
+  },
+  "2.jpg": {
+    "category": "tops",
+    "item_type": "coat",
+    "primary_color": "light blue",
+    "usage": "outerwear",
+    "texture": "wool",
+    "print_category": "plain"
+  },
+  "3.jpg": {
+    "category": "bottoms",
+    "item_type": "jeans",
+    "primary_color": "blue",
+    "usage": "casual",
+    "texture": "denim",
+    "print_category": "plain"
+  },
+  "4.jpg": {
+    "category": "shoes",
+    "item_type": "flats",
+    "primary_color": "navy",
+    "usage": "casual",
+    "texture": "leather",
+    "print_category": "plain"
+  },
+  "5.jpg": {
+    "category": "others",
+    "description": "handbag"
+  },
+  "6.jpg": {
+    "category": "others",
+    "description": "collage of multiple clothing items and other images"
+  },
+  "7.jpg": {
+    "category": "others",
+    "description": "multiple people wearing different clothing items"
+  },
+  "8.jpg": {
+    "category": "tops",
+    "item_type": "sweater",
+    "primary_color": "light blue",
+    "usage": "casual",
+    "texture": "knit",
+    "print_category": "plain"
+  },
+  "9.jpg": {
+    "category": "others",
+    "description": "handbag and part of a sweater"
+  },
+  "10.jpg": {
+    "category": "tops",
+    "item_type": "turtleneck",
+    "primary_color": "orange",
+    "usage": "casual",
+    "texture": "others",
+    "print_category": "plain"
+  },
+  "11.jpg": {
+    "category": "others",
+    "description": "street scene, no clothing items"
+  },
+  "12.jpg": {
+    "category": "others",
+    "description": "collage of multiple clothing items and other images"
+  },
+  "13.jpg": {
+    "category": "others",
+    "description": "portrait, no clothing items"
+  },
+  "14.jpg": {
+    "category": "others",
+    "description": "collage of multiple clothing items and other images"
+  },
+  "15.jpg": {
+    "category": "others",
+    "description": "collage of multiple clothing items and other images"
+  },
+  "16.jpg": {
+    "category": "others",
+    "description": "handbag and part of a coat"
+  },
+  "17.jpg": {
+    "category": "others",
+    "description": "image of a bubble"
+  },
+  "18.jpg": {
+    "category": "others",
+    "description": "image of grass"
+  },
+  "19.jpg": {
+    "category": "others",
+    "description": "abstract image"
+  }
+}

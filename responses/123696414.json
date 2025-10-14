@@ -1,0 +1,122 @@
+{
+  "0.jpg": {
+    "category": "bottoms",
+    "item_type": "dress",
+    "primary_color": "yellow",
+    "usage": "party",
+    "texture": "cotton",
+    "print_category": "plain"
+  },
+  "1.jpg": {
+    "category": "bottoms",
+    "item_type": "dress",
+    "primary_color": "yellow",
+    "usage": "casual",
+    "texture": "cotton",
+    "print_category": "plain"
+  },
+  "2.jpg": {
+    "category": "shoes",
+    "item_type": "wedge heels",
+    "primary_color": "yellow",
+    "usage": "party",
+    "texture": "suede",
+    "print_category": "plain"
+  },
+  "3.jpg": {
+    "category": "others",
+    "item_type": "handbag",
+    "primary_color": "yellow",
+    "usage": "party",
+    "texture": "knit",
+    "print_category": "plain"
+  },
+  "4.jpg": {
+    "category": "others",
+    "item_type": "suitcase",
+    "primary_color": "yellow",
+    "usage": "travel",
+    "texture": "others",
+    "print_category": "plain"
+  },
+  "5.jpg": {
+    "category": "others",
+    "item_type": "earrings",
+    "primary_color": "yellow",
+    "usage": "party",
+    "texture": "others",
+    "print_category": "plain"
+  },
+  "6.jpg": {
+    "category": "others",
+    "item_type": "phone case",
+    "primary_color": "yellow",
+    "usage": "casual",
+    "texture": "others",
+    "print_category": "graphic"
+  },
+  "7.jpg": {
+    "category": "others",
+    "item_type": "lemon squeezer",
+    "primary_color": "silver",
+    "usage": "kitchen",
+    "texture": "others",
+    "print_category": "plain"
+  },
+  "8.jpg": {
+    "category": "others",
+    "item_type": "napkin",
+    "primary_color": "white",
+    "usage": "kitchen",
+    "texture": "others",
+    "print_category": "floral"
+  },
+  "9.jpg": {
+    "category": "others",
+    "item_type": "bottle",
+    "primary_color": "yellow",
+    "usage": "kitchen",
+    "texture": "glass",
+    "print_category": "plain"
+  },
+  "10.jpg": {
+    "category": "others",
+    "item_type": "NA",
+    "primary_color": "NA",
+    "usage": "NA",
+    "texture": "NA",
+    "print_category": "NA"
+  },
+  "11.jpg": {
+    "category": "others",
+    "item_type": "NA",
+    "primary_color": "NA",
+    "usage": "NA",
+    "texture": "NA",
+    "print_category": "NA"
+  },
+  "12.jpg": {
+    "category": "others",
+    "item_type": "NA",
+    "primary_color": "NA",
+    "usage": "NA",
+    "texture": "NA",
+    "print_category": "NA"
+  },
+  "13.jpg": {
+    "category": "others",
+    "item_type": "NA",
+    "primary_color": "NA",
+    "usage": "NA",
+    "texture": "NA",
+    "print_category": "NA"
+  },
+  "14.jpg": {
+    "category": "others",
+    "item_type": "NA",
+    "primary_color": "NA",
+    "usage": "NA",
+    "texture": "NA",
+    "print_category": "NA"
+  }
+}

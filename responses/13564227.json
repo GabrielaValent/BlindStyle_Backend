@@ -1,0 +1,47 @@
+{
+  "0.jpg": {
+    "category": "others"
+  },
+  "1.jpg": {
+    "category": "tops",
+    "item_type": "sleeveless top",
+    "primary_color": "dark blue",
+    "usage": "party",
+    "texture": "silk",
+    "print_category": "plain"
+  },
+  "2.jpg": {
+    "category": "shoes",
+    "item_type": "pumps",
+    "primary_color": "dark blue",
+    "usage": "party",
+    "texture": "silk",
+    "print_category": "plain"
+  },
+  "3.jpg": {
+    "category": "others"
+  },
+  "4.jpg": {
+    "category": "others"
+  },
+  "5.jpg": {
+    "category": "others"
+  },
+  "6.jpg": {
+    "category": "others"
+  },
+  "7.jpg": {
+    "category": "bottoms",
+    "item_type": "pleated skirt",
+    "primary_color": "dark blue",
+    "usage": "casual",
+    "texture": "cotton",
+    "print_category": "plain"
+  },
+  "8.jpg": {
+    "category": "others"
+  },
+  "9.jpg": {
+    "category": "others"
+  }
+}

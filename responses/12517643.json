@@ -1,0 +1,73 @@
+{
+  "0.jpg": {
+    "category": "others"
+  },
+  "1.jpg": {
+    "category": "bottoms",
+    "item_type": "dress",
+    "primary_color": "pink",
+    "usage": "casual",
+    "texture": "others",
+    "print_category": "striped"
+  },
+  "2.jpg": {
+    "category": "tops",
+    "item_type": "cardigan",
+    "primary_color": "white",
+    "usage": "casual",
+    "texture": "knit",
+    "print_category": "plain"
+  },
+  "3.jpg": {
+    "category": "bottoms",
+    "item_type": "jeans",
+    "primary_color": "grey",
+    "usage": "casual",
+    "texture": "denim",
+    "print_category": "plain"
+  },
+  "4.jpg": {
+    "category": "others",
+    "item_type": "handbag",
+    "primary_color": "black",
+    "usage": "casual",
+    "texture": "silk",
+    "print_category": "floral"
+  },
+  "5.jpg": {
+    "category": "others",
+    "item_type": "necklace",
+    "primary_color": "grey",
+    "usage": "casual",
+    "texture": "others",
+    "print_category": "plain"
+  },
+  "6.jpg": {
+    "category": "others",
+    "item_type": "belt",
+    "primary_color": "brown",
+    "usage": "casual",
+    "texture": "leather",
+    "print_category": "plain"
+  },
+  "7.jpg": {
+    "category": "others"
+  },
+  "8.jpg": {
+    "category": "others"
+  },
+  "9.jpg": {
+    "category": "others"
+  },
+  "10.jpg": {
+    "category": "shoes",
+    "item_type": "sandals",
+    "primary_color": "brown",
+    "usage": "casual",
+    "texture": "leather",
+    "print_category": "plain"
+  },
+  "11.jpg": {
+    "category": "others"
+  }
+}

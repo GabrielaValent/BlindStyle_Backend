@@ -1,0 +1,39 @@
+{
+  "0.jpg": {
+    "category": "others"
+  },
+  "1.jpg": {
+    "category": "tops",
+    "item_type": "long-sleeve top",
+    "primary_color": "black",
+    "usage": "casual",
+    "texture": "knit",
+    "print_category": "striped"
+  },
+  "2.jpg": {
+    "category": "tops",
+    "item_type": "leather jacket",
+    "primary_color": "black",
+    "usage": "outerwear",
+    "texture": "leather",
+    "print_category": "plain"
+  },
+  "3.jpg": {
+    "category": "others"
+  },
+  "4.jpg": {
+    "category": "others"
+  },
+  "5.jpg": {
+    "category": "others"
+  },
+  "6.jpg": {
+    "category": "others"
+  },
+  "7.jpg": {
+    "category": "others"
+  },
+  "8.jpg": {
+    "category": "others"
+  }
+}

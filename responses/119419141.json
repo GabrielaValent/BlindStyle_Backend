@@ -1,0 +1,46 @@
+{
+  "0.jpg": {
+    "category": "others",
+    "description": "The image contains multiple clothing items and cannot be classified individually."
+  },
+  "1.jpg": {
+    "category": "tops",
+    "item_type": "long sleeve shirt",
+    "primary_color": "black and white",
+    "usage": "casual",
+    "texture": "knit",
+    "print_category": "striped"
+  },
+  "2.jpg": {
+    "category": "bottoms",
+    "item_type": "high-low skirt",
+    "primary_color": "blue",
+    "usage": "casual",
+    "texture": "chiffon",
+    "print_category": "plain"
+  },
+  "3.jpg": {
+    "category": "shoes",
+    "item_type": "wedge sandals",
+    "primary_color": "black",
+    "usage": "casual",
+    "texture": "leather",
+    "print_category": "plain"
+  },
+  "4.jpg": {
+    "category": "others",
+    "description": "The image contains a belt, which is not categorized in available categories."
+  },
+  "5.jpg": {
+    "category": "others",
+    "description": "The image contains multiple clothing items and cannot be classified individually."
+  },
+  "6.jpg": {
+    "category": "others",
+    "description": "The image contains text and cannot be classified."
+  },
+  "7.jpg": {
+    "category": "others",
+    "description": "The image contains text and cannot be classified."
+  }
+}

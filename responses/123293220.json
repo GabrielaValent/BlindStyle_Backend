@@ -1,0 +1,122 @@
+{
+  "0.jpg": {
+    "category": "others",
+    "item_type": null,
+    "primary_color": null,
+    "usage": null,
+    "texture": null,
+    "print_category": null
+  },
+  "1.jpg": {
+    "category": "others",
+    "item_type": "chair",
+    "primary_color": "orange",
+    "usage": "casual",
+    "texture": "knit",
+    "print_category": "abstract"
+  },
+  "2.jpg": {
+    "category": "others",
+    "item_type": "bedding",
+    "primary_color": "teal",
+    "usage": "sleepwear",
+    "texture": "cotton",
+    "print_category": "plain"
+  },
+  "3.jpg": {
+    "category": "others",
+    "item_type": "throw",
+    "primary_color": "gold",
+    "usage": "casual",
+    "texture": "wool",
+    "print_category": "abstract"
+  },
+  "4.jpg": {
+    "category": "others",
+    "item_type": "artwork",
+    "primary_color": "teal",
+    "usage": null,
+    "texture": null,
+    "print_category": "animal"
+  },
+  "5.jpg": {
+    "category": "others",
+    "item_type": "cushions",
+    "primary_color": "orange",
+    "usage": "casual",
+    "texture": "velvet",
+    "print_category": "plain"
+  },
+  "6.jpg": {
+    "category": "others",
+    "item_type": "baskets",
+    "primary_color": "beige",
+    "usage": null,
+    "texture": "others",
+    "print_category": "plain"
+  },
+  "7.jpg": {
+    "category": "others",
+    "item_type": "basket",
+    "primary_color": "yellow",
+    "usage": null,
+    "texture": "others",
+    "print_category": "plain"
+  },
+  "8.jpg": {
+    "category": "others",
+    "item_type": "mirror",
+    "primary_color": "teal",
+    "usage": null,
+    "texture": null,
+    "print_category": "plain"
+  },
+  "9.jpg": {
+    "category": "others",
+    "item_type": "jewelry holder",
+    "primary_color": "gold",
+    "usage": null,
+    "texture": "metal",
+    "print_category": "plain"
+  },
+  "10.jpg": {
+    "category": "others",
+    "item_type": "lantern",
+    "primary_color": "teal",
+    "usage": null,
+    "texture": "glass",
+    "print_category": "plain"
+  },
+  "11.jpg": {
+    "category": "others",
+    "item_type": "candle",
+    "primary_color": "yellow",
+    "usage": null,
+    "texture": null,
+    "print_category": "logo"
+  },
+  "12.jpg": {
+    "category": "others",
+    "item_type": "artwork",
+    "primary_color": "multicolor",
+    "usage": null,
+    "texture": null,
+    "print_category": "animal"
+  },
+  "13.jpg": {
+    "category": "shoes",
+    "item_type": "slippers",
+    "primary_color": "beige",
+    "usage": "casual",
+    "texture": "leather",
+    "print_category": "floral"
+  },
+  "14.jpg": {
+    "category": "others",
+    "item_type": null,
+    "primary_color": null,
+    "usage": null,
+    "texture": null,
+    "print_category": null
+  }
+}

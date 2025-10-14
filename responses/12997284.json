@@ -1,0 +1,44 @@
+{
+  "0.jpg": {
+    "category": "others"
+  },
+  "1.jpg": {
+    "category": "tops",
+    "item_type": "dress",
+    "primary_color": "blue",
+    "usage": "casual",
+    "texture": "polyester",
+    "print_category": "floral"
+  },
+  "2.jpg": {
+    "category": "tops",
+    "item_type": "cardigan",
+    "primary_color": "magenta",
+    "usage": "casual",
+    "texture": "knit",
+    "print_category": "plain"
+  },
+  "3.jpg": {
+    "category": "others"
+  },
+  "4.jpg": {
+    "category": "others"
+  },
+  "5.jpg": {
+    "category": "others"
+  },
+  "6.jpg": {
+    "category": "shoes",
+    "item_type": "heels",
+    "primary_color": "burgundy",
+    "usage": "party",
+    "texture": "leather",
+    "print_category": "plain"
+  },
+  "7.jpg": {
+    "category": "others"
+  },
+  "8.jpg": {
+    "category": "others"
+  }
+}

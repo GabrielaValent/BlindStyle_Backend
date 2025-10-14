@@ -1,0 +1,61 @@
+{
+  "0.jpg": {
+    "category": "others"
+  },
+  "1.jpg": {
+    "category": "tops",
+    "item_type": "cardigan",
+    "primary_color": "light gray",
+    "usage": "casual",
+    "texture": "knit",
+    "print_category": "solid"
+  },
+  "2.jpg": {
+    "category": "tops",
+    "item_type": "tank top",
+    "primary_color": "white",
+    "usage": "casual",
+    "texture": "cotton",
+    "print_category": "solid"
+  },
+  "3.jpg": {
+    "category": "shoes",
+    "item_type": "platform pumps",
+    "primary_color": "black",
+    "usage": "evening",
+    "texture": "suede",
+    "print_category": "solid"
+  },
+  "4.jpg": {
+    "category": "others"
+  },
+  "5.jpg": {
+    "category": "others"
+  },
+  "6.jpg": {
+    "category": "others"
+  },
+  "7.jpg": {
+    "category": "others"
+  },
+  "8.jpg": {
+    "category": "bottoms",
+    "item_type": "jeans",
+    "primary_color": "blue",
+    "usage": "casual",
+    "texture": "denim",
+    "print_category": "solid"
+  },
+  "9.jpg": {
+    "category": "others"
+  },
+  "10.jpg": {
+    "category": "others"
+  },
+  "11.jpg": {
+    "category": "others"
+  },
+  "12.jpg": {
+    "category": "others"
+  }
+}

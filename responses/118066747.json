@@ -1,0 +1,50 @@
+{
+  "0.jpg": {
+    "category": "others",
+    "note": "The image contains multiple clothing items and accessories."
+  },
+  "1.jpg": {
+    "category": "tops",
+    "item_type": "lace top",
+    "primary_color": "white",
+    "usage": "casual",
+    "texture": "cotton",
+    "print_category": "plain"
+  },
+  "2.jpg": {
+    "category": "bottoms",
+    "item_type": "denim shorts",
+    "primary_color": "light blue",
+    "usage": "casual",
+    "texture": "denim",
+    "print_category": "plain"
+  },
+  "3.jpg": {
+    "category": "shoes",
+    "item_type": "sandals",
+    "primary_color": "beige",
+    "usage": "casual",
+    "texture": "linen",
+    "print_category": "plain"
+  },
+  "4.jpg": {
+    "category": "others",
+    "note": "The image contains an accessory (handbag)."
+  },
+  "5.jpg": {
+    "category": "others",
+    "note": "The image contains accessories (bracelets)."
+  },
+  "6.jpg": {
+    "category": "others",
+    "note": "The image contains an accessory (bracelet)."
+  },
+  "7.jpg": {
+    "category": "others",
+    "note": "The image contains an accessory (necklace)."
+  },
+  "8.jpg": {
+    "category": "others",
+    "note": "The image contains multiple items and is primarily a person, not clothing items."
+  }
+}

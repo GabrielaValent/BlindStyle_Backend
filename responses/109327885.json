@@ -1,0 +1,42 @@
+{
+  "0.jpg": {
+    "category": "others",
+    "description": "The image contains multiple clothing items and accessories, making a single classification impossible."
+  },
+  "1.jpg": {
+    "category": "tops",
+    "item_type": "hooded sweater dress",
+    "primary_color": "olive green",
+    "usage": "casual",
+    "texture": "knit",
+    "print_category": "plain"
+  },
+  "2.jpg": {
+    "category": "tops",
+    "item_type": "coat",
+    "primary_color": "grey",
+    "usage": "outerwear",
+    "texture": "wool",
+    "print_category": "plaid"
+  },
+  "3.jpg": {
+    "category": "shoes",
+    "item_type": "knee-high boots",
+    "primary_color": "grey",
+    "usage": "casual",
+    "texture": "leather",
+    "print_category": "plain"
+  },
+  "4.jpg": {
+    "category": "others",
+    "description": "The image contains an accessory (handbag) which doesn't fit other categories."
+  },
+  "5.jpg": {
+    "category": "others",
+    "description": "The image contains an accessory (watch) which doesn't fit other categories."
+  },
+  "6.jpg": {
+    "category": "others",
+    "description": "The image contains a person; it is not a clothing item."
+  }
+}

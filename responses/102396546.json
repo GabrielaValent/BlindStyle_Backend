@@ -1,0 +1,210 @@
+{
+  "0.jpg": {
+    "category": "others",
+    "item_type": "room scene",
+    "primary_color": "white",
+    "usage": null,
+    "texture": null,
+    "print_category": null
+  },
+  "1.jpg": {
+    "category": "others",
+    "item_type": "bookshelf",
+    "primary_color": "brown",
+    "usage": null,
+    "texture": null,
+    "print_category": null
+  },
+  "2.jpg": {
+    "category": "others",
+    "item_type": "sofa",
+    "primary_color": "beige",
+    "usage": "casual",
+    "texture": "linen",
+    "print_category": "plain"
+  },
+  "3.jpg": {
+    "category": "others",
+    "item_type": "ottoman",
+    "primary_color": "white",
+    "usage": "casual",
+    "texture": "fleece",
+    "print_category": "plain"
+  },
+  "4.jpg": {
+    "category": "others",
+    "item_type": "chandelier",
+    "primary_color": "white",
+    "usage": null,
+    "texture": "others",
+    "print_category": null
+  },
+  "5.jpg": {
+    "category": "others",
+    "item_type": "throw blanket",
+    "primary_color": "white",
+    "usage": "casual",
+    "texture": "fleece",
+    "print_category": "plain"
+  },
+  "6.jpg": {
+    "category": "others",
+    "item_type": "decorative bowl",
+    "primary_color": "black",
+    "usage": null,
+    "texture": "metal",
+    "print_category": "plain"
+  },
+  "7.jpg": {
+    "category": "others",
+    "item_type": "framed print",
+    "primary_color": "multicolored",
+    "usage": null,
+    "texture": null,
+    "print_category": null
+  },
+  "8.jpg": {
+    "category": "others",
+    "item_type": "framed print",
+    "primary_color": "black",
+    "usage": null,
+    "texture": null,
+    "print_category": "graphic"
+  },
+  "9.jpg": {
+    "category": "others",
+    "item_type": "trunk",
+    "primary_color": "brown",
+    "usage": null,
+    "texture": "leather",
+    "print_category": "animal"
+  },
+  "10.jpg": {
+    "category": "others",
+    "item_type": "framed print",
+    "primary_color": "black",
+    "usage": null,
+    "texture": null,
+    "print_category": "abstract"
+  },
+  "11.jpg": {
+    "category": "others",
+    "item_type": "framed print",
+    "primary_color": "blue",
+    "usage": null,
+    "texture": null,
+    "print_category": "abstract"
+  },
+  "12.jpg": {
+    "category": "others",
+    "item_type": "framed print",
+    "primary_color": "black",
+    "usage": null,
+    "texture": null,
+    "print_category": "abstract"
+  },
+  "13.jpg": {
+    "category": "others",
+    "item_type": "cushion",
+    "primary_color": "white",
+    "usage": "casual",
+    "texture": "cotton",
+    "print_category": "graphic"
+  },
+  "14.jpg": {
+    "category": "others",
+    "item_type": "framed print",
+    "primary_color": "black",
+    "usage": null,
+    "texture": null,
+    "print_category": "abstract"
+  },
+  "15.jpg": {
+    "category": "others",
+    "item_type": "cushion",
+    "primary_color": "beige",
+    "usage": "casual",
+    "texture": "cotton",
+    "print_category": "abstract"
+  },
+  "16.jpg": {
+    "category": "others",
+    "item_type": "cushion",
+    "primary_color": "black",
+    "usage": "casual",
+    "texture": "leather",
+    "print_category": "plain"
+  },
+  "17.jpg": {
+    "category": "others",
+    "item_type": "cushion",
+    "primary_color": "yellow",
+    "usage": "casual",
+    "texture": "cotton",
+    "print_category": "plain"
+  },
+  "18.jpg": {
+    "category": "others",
+    "item_type": "cushion",
+    "primary_color": "silver",
+    "usage": "casual",
+    "texture": "others",
+    "print_category": "plain"
+  },
+  "19.jpg": {
+    "category": "others",
+    "item_type": "room scene",
+    "primary_color": "white",
+    "usage": null,
+    "texture": null,
+    "print_category": null
+  },
+  "20.jpg": {
+    "category": "others",
+    "item_type": "floor",
+    "primary_color": "white",
+    "usage": null,
+    "texture": null,
+    "print_category": null
+  },
+  "21.jpg": {
+    "category": "others",
+    "item_type": "logo",
+    "primary_color": "black",
+    "usage": null,
+    "texture": null,
+    "print_category": null
+  },
+  "22.jpg": {
+    "category": "others",
+    "item_type": "blank",
+    "primary_color": "white",
+    "usage": null,
+    "texture": null,
+    "print_category": null
+  },
+  "23.jpg": {
+    "category": "others",
+    "item_type": "books",
+    "primary_color": "multicolored",
+    "usage": null,
+    "texture": null,
+    "print_category": null
+  },
+  "24.jpg": {
+    "category": "others",
+    "item_type": "book",
+    "primary_color": "beige",
+    "usage": null,
+    "texture": null,
+    "print_category": null
+  },
+  "25.jpg": {
+    "category": "others",
+    "item_type": "room scene",
+    "primary_color": "white",
+    "usage": null,
+    "texture": null,
+    "print_category": null
+  }
+}

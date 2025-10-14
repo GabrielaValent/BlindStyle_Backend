@@ -1,0 +1,38 @@
+{
+  "0.jpg": {
+    "category": "others"
+  },
+  "1.jpg": {
+    "category": "tops",
+    "item_type": "peplum top",
+    "primary_color": "pink",
+    "usage": "party",
+    "texture": "cotton",
+    "print_category": "plain"
+  },
+  "2.jpg": {
+    "category": "bottoms",
+    "item_type": "leggings",
+    "primary_color": "black",
+    "usage": "casual",
+    "texture": "cotton",
+    "print_category": "graphic"
+  },
+  "3.jpg": {
+    "category": "shoes",
+    "item_type": "heeled sandals",
+    "primary_color": "pink",
+    "usage": "party",
+    "texture": "suede",
+    "print_category": "plain"
+  },
+  "4.jpg": {
+    "category": "others"
+  },
+  "5.jpg": {
+    "category": "others"
+  },
+  "6.jpg": {
+    "category": "others"
+  }
+}

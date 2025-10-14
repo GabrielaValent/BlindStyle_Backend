@@ -1,0 +1,146 @@
+{
+  "0.jpg": {
+    "category": "tops",
+    "item_type": "blouse",
+    "primary_color": "light blue",
+    "usage": "casual",
+    "texture": "cotton",
+    "print_category": "striped"
+  },
+  "1.jpg": {
+    "category": "tops",
+    "item_type": "t-shirt",
+    "primary_color": "gray",
+    "usage": "casual",
+    "texture": "knit",
+    "print_category": "striped"
+  },
+  "2.jpg": {
+    "category": "tops",
+    "item_type": "jacket",
+    "primary_color": "light blue",
+    "usage": "casual",
+    "texture": "cotton",
+    "print_category": "plain"
+  },
+  "3.jpg": {
+    "category": "bottoms",
+    "item_type": "shorts",
+    "primary_color": "white",
+    "usage": "casual",
+    "texture": "cotton",
+    "print_category": "plain"
+  },
+  "4.jpg": {
+    "category": "shoes",
+    "item_type": "loafers",
+    "primary_color": "blue",
+    "usage": "casual",
+    "texture": "leather",
+    "print_category": "plain"
+  },
+  "5.jpg": {
+    "category": "others",
+    "item_type": "necklace",
+    "primary_color": "multicolored",
+    "usage": "party",
+    "texture": "others",
+    "print_category": "floral"
+  },
+  "6.jpg": {
+    "category": "others",
+    "item_type": "sunglasses",
+    "primary_color": "black",
+    "usage": "casual",
+    "texture": "others",
+    "print_category": "plain"
+  },
+  "7.jpg": {
+    "category": "others",
+    "item_type": "flowers",
+    "primary_color": "white",
+    "usage": "others",
+    "texture": "others",
+    "print_category": "plain"
+  },
+  "8.jpg": {
+    "category": "others",
+    "item_type": "handbag",
+    "primary_color": "silver",
+    "usage": "casual",
+    "texture": "leather",
+    "print_category": "plain"
+  },
+  "9.jpg": {
+    "category": "tops",
+    "item_type": "blouse",
+    "primary_color": "light purple",
+    "usage": "formal",
+    "texture": "silk",
+    "print_category": "plain"
+  },
+  "10.jpg": {
+    "category": "others",
+    "item_type": "multiple items",
+    "primary_color": "multiple colors",
+    "usage": "others",
+    "texture": "others",
+    "print_category": "others"
+  },
+  "11.jpg": {
+    "category": "others",
+    "item_type": "image",
+    "primary_color": "white",
+    "usage": "others",
+    "texture": "others",
+    "print_category": "plain"
+  },
+  "12.jpg": {
+    "category": "others",
+    "item_type": "text",
+    "primary_color": "white",
+    "usage": "others",
+    "texture": "others",
+    "print_category": "plain"
+  },
+  "13.jpg": {
+    "category": "others",
+    "item_type": "text",
+    "primary_color": "black",
+    "usage": "others",
+    "texture": "others",
+    "print_category": "plain"
+  },
+  "14.jpg": {
+    "category": "others",
+    "item_type": "shape",
+    "primary_color": "white",
+    "usage": "others",
+    "texture": "others",
+    "print_category": "plain"
+  },
+  "15.jpg": {
+    "category": "others",
+    "item_type": "food",
+    "primary_color": "brown",
+    "usage": "others",
+    "texture": "others",
+    "print_category": "plain"
+  },
+  "16.jpg": {
+    "category": "others",
+    "item_type": "text",
+    "primary_color": "white",
+    "usage": "others",
+    "texture": "others",
+    "print_category": "plain"
+  },
+  "17.jpg": {
+    "category": "others",
+    "item_type": "logo",
+    "primary_color": "black",
+    "usage": "others",
+    "texture": "others",
+    "print_category": "logo"
+  }
+}

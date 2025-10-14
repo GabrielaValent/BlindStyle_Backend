@@ -1,0 +1,98 @@
+{
+  "0.jpg": {
+    "category": "tops",
+    "item_type": "gown",
+    "primary_color": "pink",
+    "usage": "formal",
+    "texture": "silk",
+    "print_category": "plain"
+  },
+  "1.jpg": {
+    "category": "shoes",
+    "item_type": "high heels",
+    "primary_color": "gold",
+    "usage": "party",
+    "texture": "others",
+    "print_category": "plain"
+  },
+  "2.jpg": {
+    "category": "others",
+    "item_type": "handbag",
+    "primary_color": "pink",
+    "usage": "party",
+    "texture": "others",
+    "print_category": "plain"
+  },
+  "3.jpg": {
+    "category": "others",
+    "item_type": "necklace",
+    "primary_color": "gold",
+    "usage": "formal",
+    "texture": "others",
+    "print_category": "plain"
+  },
+  "4.jpg": {
+    "category": "tops",
+    "item_type": "gown",
+    "primary_color": "pink",
+    "usage": "formal",
+    "texture": "silk",
+    "print_category": "plain"
+  },
+  "5.jpg": {
+    "category": "others",
+    "item_type": "dress",
+    "primary_color": "black",
+    "usage": "formal",
+    "texture": "others",
+    "print_category": "plain"
+  },
+  "6.jpg": {
+    "category": "others",
+    "item_type": "artwork",
+    "primary_color": "grey",
+    "usage": "others",
+    "texture": "others",
+    "print_category": "others"
+  },
+  "7.jpg": {
+    "category": "others",
+    "item_type": "dress",
+    "primary_color": "white",
+    "usage": "casual",
+    "texture": "denim",
+    "print_category": "plain"
+  },
+  "8.jpg": {
+    "category": "others",
+    "item_type": "text",
+    "primary_color": "black",
+    "usage": "others",
+    "texture": "others",
+    "print_category": "others"
+  },
+  "9.jpg": {
+    "category": "others",
+    "item_type": "none",
+    "primary_color": "white",
+    "usage": "others",
+    "texture": "others",
+    "print_category": "plain"
+  },
+  "10.jpg": {
+    "category": "others",
+    "item_type": "text",
+    "primary_color": "black",
+    "usage": "others",
+    "texture": "others",
+    "print_category": "others"
+  },
+  "11.jpg": {
+    "category": "others",
+    "item_type": "text",
+    "primary_color": "black",
+    "usage": "others",
+    "texture": "others",
+    "print_category": "others"
+  }
+}

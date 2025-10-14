@@ -1,0 +1,130 @@
+{
+  "0.jpg": {
+    "category": "others",
+    "item_type": "multiple items",
+    "primary_color": "black",
+    "usage": null,
+    "texture": null,
+    "print_category": null
+  },
+  "1.jpg": {
+    "category": "shoes",
+    "item_type": "high heels",
+    "primary_color": "black",
+    "usage": "party",
+    "texture": "suede",
+    "print_category": "plain"
+  },
+  "2.jpg": {
+    "category": "others",
+    "item_type": "bracelet",
+    "primary_color": "gold",
+    "usage": null,
+    "texture": "others",
+    "print_category": null
+  },
+  "3.jpg": {
+    "category": "others",
+    "item_type": "bracelet",
+    "primary_color": "black",
+    "usage": null,
+    "texture": "others",
+    "print_category": "logo"
+  },
+  "4.jpg": {
+    "category": "others",
+    "item_type": "ring",
+    "primary_color": "gold",
+    "usage": null,
+    "texture": "others",
+    "print_category": "plain"
+  },
+  "5.jpg": {
+    "category": "others",
+    "item_type": "ring",
+    "primary_color": "black",
+    "usage": null,
+    "texture": "others",
+    "print_category": "plain"
+  },
+  "6.jpg": {
+    "category": "others",
+    "item_type": "headband",
+    "primary_color": "white",
+    "usage": null,
+    "texture": "others",
+    "print_category": "plain"
+  },
+  "7.jpg": {
+    "category": "others",
+    "item_type": "gloves",
+    "primary_color": "black",
+    "usage": "party",
+    "texture": "others",
+    "print_category": "floral"
+  },
+  "8.jpg": {
+    "category": "others",
+    "item_type": "lipstick",
+    "primary_color": "red",
+    "usage": null,
+    "texture": null,
+    "print_category": null
+  },
+  "9.jpg": {
+    "category": "others",
+    "item_type": "wings",
+    "primary_color": "black",
+    "usage": null,
+    "texture": "others",
+    "print_category": "plain"
+  },
+  "10.jpg": {
+    "category": "others",
+    "item_type": "earrings",
+    "primary_color": "black",
+    "usage": null,
+    "texture": "others",
+    "print_category": "plain"
+  },
+  "11.jpg": {
+    "category": "tops",
+    "item_type": "dress",
+    "primary_color": "black",
+    "usage": "formal",
+    "texture": "cotton",
+    "print_category": "plain"
+  },
+  "12.jpg": {
+    "category": "others",
+    "item_type": "makeup",
+    "primary_color": "dark",
+    "usage": null,
+    "texture": null,
+    "print_category": null
+  },
+  "13.jpg": {
+    "category": "others",
+    "item_type": "face",
+    "primary_color": null,
+    "usage": null,
+    "texture": null,
+    "print_category": null
+  },
+  "14.jpg": {
+    "category": "others",
+    "item_type": "arrow",
+    "primary_color": "black",
+    "usage": null,
+    "texture": null,
+    "print_category": null
+  },
+  "15.jpg": {
+    "category": "others",
+    "item_type": "necklace",
+    "primary_color": "gold",
+    "usage": null,
+    "texture": "others",
+    "print_category": "plain"
+  }
+}

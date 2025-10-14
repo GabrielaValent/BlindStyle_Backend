@@ -1,0 +1,55 @@
+{
+  "0.jpg": {
+    "category": "bottoms",
+    "item_type": "denim shorts",
+    "primary_color": [
+      "coral",
+      "blue",
+      "aqua",
+      "white"
+    ],
+    "usage": "casual",
+    "texture": "denim",
+    "print_category": [
+      "plain",
+      "striped",
+      "graphic"
+    ]
+  },
+  "1.jpg": {
+    "category": "bottoms",
+    "item_type": "denim shorts",
+    "primary_color": [
+      "white",
+      "blue",
+      "red"
+    ],
+    "usage": "casual",
+    "texture": "denim",
+    "print_category": "graphic"
+  },
+  "2.jpg": {
+    "category": "bottoms",
+    "item_type": "denim shorts",
+    "primary_color": "coral",
+    "usage": "casual",
+    "texture": "denim",
+    "print_category": "plain"
+  },
+  "3.jpg": {
+    "category": "bottoms",
+    "item_type": "denim shorts",
+    "primary_color": "blue",
+    "usage": "casual",
+    "texture": "denim",
+    "print_category": "plain"
+  },
+  "4.jpg": {
+    "category": "bottoms",
+    "item_type": "denim shorts",
+    "primary_color": "aqua",
+    "usage": "casual",
+    "texture": "denim",
+    "print_category": "plain"
+  }
+}

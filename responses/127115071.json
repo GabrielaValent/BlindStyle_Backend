@@ -1,0 +1,46 @@
+{
+  "0.jpg": {
+    "category": "others",
+    "description": "This image contains multiple clothing items and accessories, making it difficult to provide individual descriptions."
+  },
+  "1.jpg": {
+    "category": "tops",
+    "item_type": "sweatshirt",
+    "primary_color": "white",
+    "usage": "casual",
+    "texture": "knit",
+    "print_category": "graphic"
+  },
+  "2.jpg": {
+    "category": "shoes",
+    "item_type": "high-top sneakers",
+    "primary_color": "black",
+    "usage": "casual",
+    "texture": "cotton",
+    "print_category": "plain"
+  },
+  "3.jpg": {
+    "category": "others",
+    "description": "This is a handbag, not a clothing item."
+  },
+  "4.jpg": {
+    "category": "others",
+    "description": "These are sunglasses, not a clothing item."
+  },
+  "5.jpg": {
+    "category": "bottoms",
+    "item_type": "jeans",
+    "primary_color": "dark blue",
+    "usage": "casual",
+    "texture": "denim",
+    "print_category": "plain"
+  },
+  "6.jpg": {
+    "category": "others",
+    "description": "This is a tattoo, not a clothing item."
+  },
+  "7.jpg": {
+    "category": "others",
+    "description": "This is a picture of a person's hair and face, not a clothing item."
+  }
+}

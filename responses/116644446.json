@@ -1,0 +1,89 @@
+{
+  "0.jpg": {
+    "category": "others"
+  },
+  "1.jpg": {
+    "category": "tops",
+    "item_type": "jacket",
+    "primary_color": "green",
+    "usage": "casual",
+    "texture": "denim",
+    "print_category": "camouflage"
+  },
+  "2.jpg": {
+    "category": "bottoms",
+    "item_type": "skirt",
+    "primary_color": "white",
+    "usage": "casual",
+    "texture": "knit",
+    "print_category": "floral"
+  },
+  "3.jpg": {
+    "category": "tops",
+    "item_type": "tank top",
+    "primary_color": "black",
+    "usage": "casual",
+    "texture": "cotton",
+    "print_category": "graphic"
+  },
+  "4.jpg": {
+    "category": "others",
+    "item_type": "backpack"
+  },
+  "5.jpg": {
+    "category": "others",
+    "item_type": "necklace"
+  },
+  "6.jpg": {
+    "category": "others",
+    "item_type": "bracelet"
+  },
+  "7.jpg": {
+    "category": "others",
+    "item_type": "belt"
+  },
+  "8.jpg": {
+    "category": "others"
+  },
+  "9.jpg": {
+    "category": "others"
+  },
+  "10.jpg": {
+    "category": "shoes",
+    "item_type": "high heels",
+    "primary_color": "black",
+    "usage": "party",
+    "texture": "leather",
+    "print_category": "plain"
+  },
+  "11.jpg": {
+    "category": "others"
+  },
+  "12.jpg": {
+    "category": "others"
+  },
+  "13.jpg": {
+    "category": "others"
+  },
+  "14.jpg": {
+    "category": "others"
+  },
+  "15.jpg": {
+    "category": "others"
+  },
+  "16.jpg": {
+    "category": "others"
+  },
+  "17.jpg": {
+    "category": "others"
+  },
+  "18.jpg": {
+    "category": "others"
+  },
+  "19.jpg": {
+    "category": "others"
+  },
+  "20.jpg": {
+    "category": "others"
+  }
+}

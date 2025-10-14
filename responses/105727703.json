@@ -1,0 +1,62 @@
+{
+  "0.jpg": {
+    "category": "others",
+    "description": "This image contains multiple clothing items and accessories, making it difficult to classify and describe individual pieces accurately."
+  },
+  "1.jpg": {
+    "category": "tops",
+    "item_type": "t-shirt",
+    "primary_color": "white",
+    "usage": "casual",
+    "texture": "cotton",
+    "print_category": "graphic"
+  },
+  "2.jpg": {
+    "category": "bottoms",
+    "item_type": "denim shorts",
+    "primary_color": "light blue",
+    "usage": "casual",
+    "texture": "denim",
+    "print_category": "plain"
+  },
+  "3.jpg": {
+    "category": "shoes",
+    "item_type": "sneakers",
+    "primary_color": "beige",
+    "usage": "casual",
+    "texture": "canvas",
+    "print_category": "plain"
+  },
+  "4.jpg": {
+    "category": "others",
+    "description": "This is a backpack, not a clothing item."
+  },
+  "5.jpg": {
+    "category": "others",
+    "description": "This image contains a watch and bracelets; not clothing items."
+  },
+  "6.jpg": {
+    "category": "others",
+    "description": "These are earrings; not clothing items."
+  },
+  "7.jpg": {
+    "category": "others",
+    "description": "This is lip balm; not a clothing item."
+  },
+  "8.jpg": {
+    "category": "others",
+    "description": "This is a makeup image; not a clothing item."
+  },
+  "9.jpg": {
+    "category": "others",
+    "description": "This is a nail art image; not a clothing item."
+  },
+  "10.jpg": {
+    "category": "others",
+    "description": "This is a hairstyle image; not a clothing item."
+  },
+  "11.jpg": {
+    "category": "others",
+    "description": "This image contains an abstract graphic; not a clothing item."
+  }
+}

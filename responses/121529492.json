@@ -1,0 +1,218 @@
+{
+  "0.jpg": {
+    "category": "others",
+    "item_type": "room decor",
+    "primary_color": "beige",
+    "usage": "casual",
+    "texture": "others",
+    "print_category": "others"
+  },
+  "1.jpg": {
+    "category": "others",
+    "item_type": "bookshelf",
+    "primary_color": "brown",
+    "usage": "others",
+    "texture": "others",
+    "print_category": "plain"
+  },
+  "2.jpg": {
+    "category": "others",
+    "item_type": "sofa",
+    "primary_color": "beige",
+    "usage": "casual",
+    "texture": "others",
+    "print_category": "plain"
+  },
+  "3.jpg": {
+    "category": "others",
+    "item_type": "plant",
+    "primary_color": "green",
+    "usage": "others",
+    "texture": "others",
+    "print_category": "plain"
+  },
+  "4.jpg": {
+    "category": "others",
+    "item_type": "pillow",
+    "primary_color": "beige",
+    "usage": "casual",
+    "texture": "others",
+    "print_category": "animal"
+  },
+  "5.jpg": {
+    "category": "others",
+    "item_type": "baskets",
+    "primary_color": "beige",
+    "usage": "others",
+    "texture": "others",
+    "print_category": "plain"
+  },
+  "6.jpg": {
+    "category": "others",
+    "item_type": "pillow",
+    "primary_color": "blue",
+    "usage": "casual",
+    "texture": "others",
+    "print_category": "floral"
+  },
+  "7.jpg": {
+    "category": "others",
+    "item_type": "sign",
+    "primary_color": "green",
+    "usage": "others",
+    "texture": "others",
+    "print_category": "plain"
+  },
+  "8.jpg": {
+    "category": "others",
+    "item_type": "pillow",
+    "primary_color": "teal",
+    "usage": "casual",
+    "texture": "others",
+    "print_category": "striped"
+  },
+  "9.jpg": {
+    "category": "others",
+    "item_type": "pictures",
+    "primary_color": "green",
+    "usage": "others",
+    "texture": "others",
+    "print_category": "floral"
+  },
+  "10.jpg": {
+    "category": "others",
+    "item_type": "decorative balls",
+    "primary_color": "green",
+    "usage": "others",
+    "texture": "others",
+    "print_category": "abstract"
+  },
+  "11.jpg": {
+    "category": "others",
+    "item_type": "bookends",
+    "primary_color": "brown",
+    "usage": "others",
+    "texture": "metal",
+    "print_category": "plain"
+  },
+  "12.jpg": {
+    "category": "others",
+    "item_type": "decorative bowl",
+    "primary_color": "green",
+    "usage": "others",
+    "texture": "ceramic",
+    "print_category": "plain"
+  },
+  "13.jpg": {
+    "category": "others",
+    "item_type": "figurines",
+    "primary_color": "beige",
+    "usage": "others",
+    "texture": "others",
+    "print_category": "floral"
+  },
+  "14.jpg": {
+    "category": "others",
+    "item_type": "votive holder",
+    "primary_color": "green",
+    "usage": "others",
+    "texture": "glass",
+    "print_category": "plain"
+  },
+  "15.jpg": {
+    "category": "others",
+    "item_type": "ceiling fan",
+    "primary_color": "brown",
+    "usage": "others",
+    "texture": "wood",
+    "print_category": "plain"
+  },
+  "16.jpg": {
+    "category": "others",
+    "item_type": "plant",
+    "primary_color": "green",
+    "usage": "others",
+    "texture": "others",
+    "print_category": "plain"
+  },
+  "17.jpg": {
+    "category": "others",
+    "item_type": "books",
+    "primary_color": "brown",
+    "usage": "others",
+    "texture": "others",
+    "print_category": "plain"
+  },
+  "18.jpg": {
+    "category": "others",
+    "item_type": "picture",
+    "primary_color": "green",
+    "usage": "others",
+    "texture": "others",
+    "print_category": "plain"
+  },
+  "19.jpg": {
+    "category": "others",
+    "item_type": "picture",
+    "primary_color": "red",
+    "usage": "others",
+    "texture": "others",
+    "print_category": "plain"
+  },
+  "20.jpg": {
+    "category": "others",
+    "item_type": "bottles",
+    "primary_color": "clear",
+    "usage": "others",
+    "texture": "glass",
+    "print_category": "plain"
+  },
+  "21.jpg": {
+    "category": "others",
+    "item_type": "candle",
+    "primary_color": "green",
+    "usage": "others",
+    "texture": "wax",
+    "print_category": "plain"
+  },
+  "22.jpg": {
+    "category": "others",
+    "item_type": "blank",
+    "primary_color": "white",
+    "usage": "others",
+    "texture": "others",
+    "print_category": "plain"
+  },
+  "23.jpg": {
+    "category": "others",
+    "item_type": "color palette",
+    "primary_color": "brown",
+    "usage": "others",
+    "texture": "others",
+    "print_category": "plain"
+  },
+  "24.jpg": {
+    "category": "others",
+    "item_type": "books",
+    "primary_color": "brown",
+    "usage": "others",
+    "texture": "others",
+    "print_category": "plain"
+  },
+  "25.jpg": {
+    "category": "others",
+    "item_type": "pillow",
+    "primary_color": "green",
+    "usage": "casual",
+    "texture": "linen",
+    "print_category": "floral"
+  },
+  "26.jpg": {
+    "category": "others",
+    "item_type": "notebook",
+    "primary_color": "green",
+    "usage": "others",
+    "texture": "silk",
+    "print_category": "floral"
+  }
+}

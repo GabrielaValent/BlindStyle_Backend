@@ -1,0 +1,170 @@
+{
+  "0.jpg": {
+    "category": "others",
+    "item_type": "bedroom set",
+    "primary_color": "beige",
+    "usage": "sleepwear",
+    "texture": "others",
+    "print_category": "floral"
+  },
+  "1.jpg": {
+    "category": "others",
+    "item_type": "armchair",
+    "primary_color": "beige",
+    "usage": "casual",
+    "texture": "velvet",
+    "print_category": "plain"
+  },
+  "2.jpg": {
+    "category": "others",
+    "item_type": "ottoman",
+    "primary_color": "beige",
+    "usage": "casual",
+    "texture": "velvet",
+    "print_category": "abstract"
+  },
+  "3.jpg": {
+    "category": "others",
+    "item_type": "nightstand",
+    "primary_color": "brown",
+    "usage": "others",
+    "texture": "others",
+    "print_category": "plain"
+  },
+  "4.jpg": {
+    "category": "others",
+    "item_type": "wall sconce",
+    "primary_color": "gold",
+    "usage": "others",
+    "texture": "others",
+    "print_category": "plain"
+  },
+  "5.jpg": {
+    "category": "others",
+    "item_type": "table lamp",
+    "primary_color": "brown",
+    "usage": "others",
+    "texture": "others",
+    "print_category": "abstract"
+  },
+  "6.jpg": {
+    "category": "others",
+    "item_type": "mirror",
+    "primary_color": "brown",
+    "usage": "others",
+    "texture": "others",
+    "print_category": "plain"
+  },
+  "7.jpg": {
+    "category": "others",
+    "item_type": "cushion",
+    "primary_color": "red",
+    "usage": "casual",
+    "texture": "others",
+    "print_category": "abstract"
+  },
+  "8.jpg": {
+    "category": "others",
+    "item_type": "cushion",
+    "primary_color": "brown",
+    "usage": "casual",
+    "texture": "others",
+    "print_category": "abstract"
+  },
+  "9.jpg": {
+    "category": "others",
+    "item_type": "cushion",
+    "primary_color": "gold",
+    "usage": "casual",
+    "texture": "others",
+    "print_category": "plain"
+  },
+  "10.jpg": {
+    "category": "others",
+    "item_type": "cushion",
+    "primary_color": "beige",
+    "usage": "casual",
+    "texture": "others",
+    "print_category": "plain"
+  },
+  "11.jpg": {
+    "category": "others",
+    "item_type": "bed",
+    "primary_color": "white",
+    "usage": "sleepwear",
+    "texture": "linen",
+    "print_category": "plain"
+  },
+  "12.jpg": {
+    "category": "others",
+    "item_type": "rug",
+    "primary_color": "beige",
+    "usage": "others",
+    "texture": "others",
+    "print_category": "floral"
+  },
+  "13.jpg": {
+    "category": "others",
+    "item_type": "wooden floor",
+    "primary_color": "brown",
+    "usage": "others",
+    "texture": "others",
+    "print_category": "plain"
+  },
+  "14.jpg": {
+    "category": "others",
+    "item_type": "curtain",
+    "primary_color": "brown",
+    "usage": "others",
+    "texture": "silk",
+    "print_category": "plain"
+  },
+  "15.jpg": {
+    "category": "others",
+    "item_type": "cat",
+    "primary_color": "brown",
+    "usage": "others",
+    "texture": "others",
+    "print_category": "plain"
+  },
+  "16.jpg": {
+    "category": "others",
+    "item_type": "elevator doors",
+    "primary_color": "brown",
+    "usage": "others",
+    "texture": "others",
+    "print_category": "abstract"
+  },
+  "17.jpg": {
+    "category": "others",
+    "item_type": "wall texture",
+    "primary_color": "brown",
+    "usage": "others",
+    "texture": "others",
+    "print_category": "plain"
+  },
+  "18.jpg": {
+    "category": "others",
+    "item_type": "duvet cover",
+    "primary_color": "brown",
+    "usage": "sleepwear",
+    "texture": "others",
+    "print_category": "floral"
+  },
+  "19.jpg": {
+    "category": "others",
+    "item_type": "white background",
+    "primary_color": "white",
+    "usage": "others",
+    "texture": "others",
+    "print_category": "plain"
+  },
+  "20.jpg": {
+    "category": "others",
+    "item_type": "decorative boxes",
+    "primary_color": "brown",
+    "usage": "others",
+    "texture": "others",
+    "print_category": "abstract"
+  }
+}

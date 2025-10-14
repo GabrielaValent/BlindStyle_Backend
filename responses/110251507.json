@@ -1,0 +1,170 @@
+{
+  "0.jpg": {
+    "category": "others",
+    "item_type": null,
+    "primary_color": null,
+    "usage": null,
+    "texture": null,
+    "print_category": null
+  },
+  "1.jpg": {
+    "category": "others",
+    "item_type": "sofa",
+    "primary_color": "grey",
+    "usage": null,
+    "texture": "velvet",
+    "print_category": "plain"
+  },
+  "2.jpg": {
+    "category": "others",
+    "item_type": "armchair",
+    "primary_color": "beige",
+    "usage": null,
+    "texture": "others",
+    "print_category": "abstract"
+  },
+  "3.jpg": {
+    "category": "others",
+    "item_type": "coffee table",
+    "primary_color": "black",
+    "usage": null,
+    "texture": "others",
+    "print_category": "plain"
+  },
+  "4.jpg": {
+    "category": "others",
+    "item_type": "side table",
+    "primary_color": "silver",
+    "usage": null,
+    "texture": "others",
+    "print_category": "plain"
+  },
+  "5.jpg": {
+    "category": "others",
+    "item_type": "lamp",
+    "primary_color": "pink",
+    "usage": null,
+    "texture": "others",
+    "print_category": "plain"
+  },
+  "6.jpg": {
+    "category": "others",
+    "item_type": "rug",
+    "primary_color": "light grey",
+    "usage": null,
+    "texture": "others",
+    "print_category": "plain"
+  },
+  "7.jpg": {
+    "category": "others",
+    "item_type": "curtains",
+    "primary_color": "black",
+    "usage": null,
+    "texture": "others",
+    "print_category": "plain"
+  },
+  "8.jpg": {
+    "category": "others",
+    "item_type": "mirror",
+    "primary_color": "black",
+    "usage": null,
+    "texture": "others",
+    "print_category": "animal"
+  },
+  "9.jpg": {
+    "category": "others",
+    "item_type": "painting",
+    "primary_color": "pink",
+    "usage": null,
+    "texture": "others",
+    "print_category": "others"
+  },
+  "10.jpg": {
+    "category": "others",
+    "item_type": "statue",
+    "primary_color": "black",
+    "usage": null,
+    "texture": "others",
+    "print_category": "plain"
+  },
+  "11.jpg": {
+    "category": "others",
+    "item_type": "cushion",
+    "primary_color": "white",
+    "usage": null,
+    "texture": "others",
+    "print_category": "logo"
+  },
+  "12.jpg": {
+    "category": "others",
+    "item_type": "flowers",
+    "primary_color": "purple",
+    "usage": null,
+    "texture": "others",
+    "print_category": "floral"
+  },
+  "13.jpg": {
+    "category": "others",
+    "item_type": "ornament",
+    "primary_color": "purple",
+    "usage": null,
+    "texture": "others",
+    "print_category": "animal"
+  },
+  "14.jpg": {
+    "category": "others",
+    "item_type": "pet bed",
+    "primary_color": "grey",
+    "usage": null,
+    "texture": "others",
+    "print_category": "plain"
+  },
+  "15.jpg": {
+    "category": "others",
+    "item_type": "cushion",
+    "primary_color": "pink",
+    "usage": null,
+    "texture": "others",
+    "print_category": "abstract"
+  },
+  "16.jpg": {
+    "category": "others",
+    "item_type": null,
+    "primary_color": null,
+    "usage": null,
+    "texture": null,
+    "print_category": null
+  },
+  "17.jpg": {
+    "category": "others",
+    "item_type": "frame",
+    "primary_color": "black",
+    "usage": null,
+    "texture": "others",
+    "print_category": "plain"
+  },
+  "18.jpg": {
+    "category": "others",
+    "item_type": null,
+    "primary_color": null,
+    "usage": null,
+    "texture": null,
+    "print_category": null
+  },
+  "19.jpg": {
+    "category": "others",
+    "item_type": null,
+    "primary_color": null,
+    "usage": null,
+    "texture": null,
+    "print_category": null
+  },
+  "20.jpg": {
+    "category": "others",
+    "item_type": null,
+    "primary_color": null,
+    "usage": null,
+    "texture": null,
+    "print_category": null
+  }
+}

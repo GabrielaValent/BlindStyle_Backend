@@ -1,0 +1,90 @@
+{
+  "0.jpg": {
+    "category": "tops",
+    "item_type": "dress",
+    "primary_color": "beige",
+    "usage": "casual",
+    "texture": "others",
+    "print_category": "plain"
+  },
+  "1.jpg": {
+    "category": "others",
+    "item_type": "chair",
+    "primary_color": "black",
+    "usage": "others",
+    "texture": "others",
+    "print_category": "plain"
+  },
+  "2.jpg": {
+    "category": "others",
+    "item_type": "bottle",
+    "primary_color": "clear",
+    "usage": "others",
+    "texture": "others",
+    "print_category": "floral"
+  },
+  "3.jpg": {
+    "category": "others",
+    "item_type": "table",
+    "primary_color": "black",
+    "usage": "others",
+    "texture": "metal",
+    "print_category": "plain"
+  },
+  "4.jpg": {
+    "category": "tops",
+    "item_type": "top",
+    "primary_color": "brown",
+    "usage": "others",
+    "texture": "lace",
+    "print_category": "floral"
+  },
+  "5.jpg": {
+    "category": "others",
+    "item_type": "fabric",
+    "primary_color": "brown",
+    "usage": "others",
+    "texture": "linen",
+    "print_category": "plain"
+  },
+  "6.jpg": {
+    "category": "others",
+    "item_type": "unknown",
+    "primary_color": "brown",
+    "usage": "others",
+    "texture": "others",
+    "print_category": "plain"
+  },
+  "7.jpg": {
+    "category": "others",
+    "item_type": "text",
+    "primary_color": "black",
+    "usage": "others",
+    "texture": "others",
+    "print_category": "plain"
+  },
+  "8.jpg": {
+    "category": "shoes",
+    "item_type": "sandals",
+    "primary_color": "beige",
+    "usage": "casual",
+    "texture": "others",
+    "print_category": "plain"
+  },
+  "9.jpg": {
+    "category": "others",
+    "item_type": "text",
+    "primary_color": "black",
+    "usage": "others",
+    "texture": "others",
+    "print_category": "plain"
+  },
+  "10.jpg": {
+    "category": "others",
+    "item_type": "ribbon",
+    "primary_color": "beige",
+    "usage": "others",
+    "texture": "satin",
+    "print_category": "plain"
+  }
+}

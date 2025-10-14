@@ -1,0 +1,82 @@
+{
+  "0.jpg": {
+    "category": "others",
+    "item_type": null,
+    "primary_color": null,
+    "usage": null,
+    "texture": null,
+    "print_category": null
+  },
+  "1.jpg": {
+    "category": "bottoms",
+    "item_type": "jumpsuit",
+    "primary_color": "grey",
+    "usage": "sleepwear",
+    "texture": "knit",
+    "print_category": "graphic"
+  },
+  "2.jpg": {
+    "category": "shoes",
+    "item_type": "slippers",
+    "primary_color": "grey",
+    "usage": "sleepwear",
+    "texture": "knit",
+    "print_category": "animal"
+  },
+  "3.jpg": {
+    "category": "others",
+    "item_type": null,
+    "primary_color": null,
+    "usage": null,
+    "texture": null,
+    "print_category": null
+  },
+  "4.jpg": {
+    "category": "others",
+    "item_type": null,
+    "primary_color": null,
+    "usage": null,
+    "texture": null,
+    "print_category": null
+  },
+  "5.jpg": {
+    "category": "others",
+    "item_type": "cushion",
+    "primary_color": "pink",
+    "usage": null,
+    "texture": "cotton",
+    "print_category": "floral"
+  },
+  "6.jpg": {
+    "category": "others",
+    "item_type": "cushion",
+    "primary_color": "red",
+    "usage": null,
+    "texture": "knit",
+    "print_category": "plain"
+  },
+  "7.jpg": {
+    "category": "others",
+    "item_type": "cushion",
+    "primary_color": "beige",
+    "usage": null,
+    "texture": "cotton",
+    "print_category": "graphic"
+  },
+  "8.jpg": {
+    "category": "tops",
+    "item_type": "dress",
+    "primary_color": "red",
+    "usage": "party",
+    "texture": "others",
+    "print_category": "plain"
+  },
+  "9.jpg": {
+    "category": "others",
+    "item_type": null,
+    "primary_color": null,
+    "usage": null,
+    "texture": null,
+    "print_category": null
+  }
+}

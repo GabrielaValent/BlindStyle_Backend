@@ -1,0 +1,38 @@
+{
+  "0.jpg": {
+    "category": "others",
+    "description": "This image contains multiple clothing items and accessories, making it difficult to provide individual descriptions. It includes a dress, shoes, and a clutch."
+  },
+  "1.jpg": {
+    "category": "bottoms",
+    "item_type": "dress",
+    "primary_color": "red",
+    "usage": "formal",
+    "texture": "silk",
+    "print_category": "plain"
+  },
+  "2.jpg": {
+    "category": "shoes",
+    "item_type": "sandals",
+    "primary_color": "beige",
+    "usage": "party",
+    "texture": "mesh",
+    "print_category": "plain"
+  },
+  "3.jpg": {
+    "category": "others",
+    "description": "This image contains an accessory, a clutch."
+  },
+  "4.jpg": {
+    "category": "others",
+    "description": "This image contains an accessory, earrings."
+  },
+  "5.jpg": {
+    "category": "others",
+    "description": "This image contains a person wearing clothes, but the clothing items are not clearly visible enough for detailed description.  The image mainly focuses on the person's hair and face."
+  },
+  "6.jpg": {
+    "category": "others",
+    "description": "This image contains text only; no clothing items are present."
+  }
+}

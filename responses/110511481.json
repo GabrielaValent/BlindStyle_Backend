@@ -1,0 +1,64 @@
+{
+  "0.jpg": {
+    "category": "others"
+  },
+  "1.jpg": {
+    "category": "bottoms",
+    "item_type": "joggers",
+    "primary_color": "beige",
+    "usage": "casual",
+    "texture": "others",
+    "print_category": "animal"
+  },
+  "2.jpg": {
+    "category": "tops",
+    "item_type": "t-shirt",
+    "primary_color": "black",
+    "usage": "casual",
+    "texture": "cotton",
+    "print_category": "plain"
+  },
+  "3.jpg": {
+    "category": "tops",
+    "item_type": "long-sleeve shirt",
+    "primary_color": "black",
+    "usage": "casual",
+    "texture": "cotton",
+    "print_category": "plain"
+  },
+  "4.jpg": {
+    "category": "tops",
+    "item_type": "t-shirt",
+    "primary_color": "black",
+    "usage": "casual",
+    "texture": "cotton",
+    "print_category": "plain"
+  },
+  "5.jpg": {
+    "category": "tops",
+    "item_type": "blazer",
+    "primary_color": "red",
+    "usage": "formal",
+    "texture": "others",
+    "print_category": "plain"
+  },
+  "6.jpg": {
+    "category": "others"
+  },
+  "7.jpg": {
+    "category": "tops",
+    "item_type": "t-shirt",
+    "primary_color": "black",
+    "usage": "casual",
+    "texture": "cotton",
+    "print_category": "animal"
+  },
+  "8.jpg": {
+    "category": "tops",
+    "item_type": "tank top",
+    "primary_color": "yellow",
+    "usage": "casual",
+    "texture": "cotton",
+    "print_category": "plain"
+  }
+}

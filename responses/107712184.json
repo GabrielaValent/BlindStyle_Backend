@@ -1,0 +1,130 @@
+{
+  "0.jpg": {
+    "category": "others",
+    "item_type": "collage",
+    "primary_color": null,
+    "usage": null,
+    "texture": null,
+    "print_category": null
+  },
+  "1.jpg": {
+    "category": "others",
+    "item_type": "sofa",
+    "primary_color": "black",
+    "usage": null,
+    "texture": "velvet",
+    "print_category": "plain"
+  },
+  "2.jpg": {
+    "category": "others",
+    "item_type": "coffee table",
+    "primary_color": "black and white",
+    "usage": null,
+    "texture": "others",
+    "print_category": "plain"
+  },
+  "3.jpg": {
+    "category": "others",
+    "item_type": "painting",
+    "primary_color": "red",
+    "usage": null,
+    "texture": "others",
+    "print_category": "plain"
+  },
+  "4.jpg": {
+    "category": "others",
+    "item_type": "mirror",
+    "primary_color": "gold",
+    "usage": null,
+    "texture": "others",
+    "print_category": "plain"
+  },
+  "5.jpg": {
+    "category": "others",
+    "item_type": "sculpture",
+    "primary_color": "gold",
+    "usage": null,
+    "texture": "others",
+    "print_category": "plain"
+  },
+  "6.jpg": {
+    "category": "others",
+    "item_type": "decorative boxes",
+    "primary_color": "black and white",
+    "usage": null,
+    "texture": "others",
+    "print_category": "graphic"
+  },
+  "7.jpg": {
+    "category": "others",
+    "item_type": "vase",
+    "primary_color": "black",
+    "usage": null,
+    "texture": "others",
+    "print_category": "plain"
+  },
+  "8.jpg": {
+    "category": "others",
+    "item_type": "rug",
+    "primary_color": "black",
+    "usage": null,
+    "texture": "others",
+    "print_category": "plain"
+  },
+  "9.jpg": {
+    "category": "others",
+    "item_type": "text",
+    "primary_color": "black",
+    "usage": null,
+    "texture": null,
+    "print_category": null
+  },
+  "10.jpg": {
+    "category": "others",
+    "item_type": "ribbon",
+    "primary_color": "gold",
+    "usage": null,
+    "texture": "others",
+    "print_category": "plain"
+  },
+  "11.jpg": {
+    "category": "others",
+    "item_type": "text",
+    "primary_color": "black",
+    "usage": null,
+    "texture": null,
+    "print_category": null
+  },
+  "12.jpg": {
+    "category": "others",
+    "item_type": "bottle",
+    "primary_color": "gold",
+    "usage": null,
+    "texture": "others",
+    "print_category": "logo"
+  },
+  "13.jpg": {
+    "category": "others",
+    "item_type": "shelving unit",
+    "primary_color": "black",
+    "usage": null,
+    "texture": "others",
+    "print_category": "plain"
+  },
+  "14.jpg": {
+    "category": "others",
+    "item_type": "text",
+    "primary_color": "black",
+    "usage": null,
+    "texture": null,
+    "print_category": null
+  },
+  "15.jpg": {
+    "category": "others",
+    "item_type": "plants in pots",
+    "primary_color": "green and black",
+    "usage": null,
+    "texture": "others",
+    "print_category": "plain"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "0.jpg": {
+    "category": "others"
+  },
+  "1.jpg": {
+    "category": "tops",
+    "item_type": "tank top",
+    "primary_color": "light green",
+    "usage": "sportswear",
+    "texture": "polyester",
+    "print_category": "plain"
+  },
+  "2.jpg": {
+    "category": "shoes",
+    "item_type": "running shoes",
+    "primary_color": "gray",
+    "usage": "sportswear",
+    "texture": "mesh",
+    "print_category": "plain"
+  },
+  "3.jpg": {
+    "category": "tops",
+    "item_type": "hoodie",
+    "primary_color": "gray",
+    "usage": "casual",
+    "texture": "fleece",
+    "print_category": "plain"
+  },
+  "4.jpg": {
+    "category": "bottoms",
+    "item_type": "joggers",
+    "primary_color": "gray",
+    "usage": "casual",
+    "texture": "knit",
+    "print_category": "plain"
+  },
+  "5.jpg": {
+    "category": "others"
+  },
+  "6.jpg": {
+    "category": "tops",
+    "item_type": "tshirt",
+    "primary_color": "white",
+    "usage": "casual",
+    "texture": "cotton",
+    "print_category": "graphic"
+  },
+  "7.jpg": {
+    "category": "others"
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "0.jpg": {
+    "category": "others"
+  },
+  "1.jpg": {
+    "category": "others"
+  },
+  "2.jpg": {
+    "category": "bottoms",
+    "item_type": "jeans",
+    "primary_color": "blue",
+    "usage": "casual",
+    "texture": "denim",
+    "print_category": "plain"
+  },
+  "3.jpg": {
+    "category": "tops",
+    "item_type": "tshirt",
+    "primary_color": "black",
+    "usage": "casual",
+    "texture": "cotton",
+    "print_category": "logo"
+  },
+  "4.jpg": {
+    "category": "tops",
+    "item_type": "tank top",
+    "primary_color": "black",
+    "usage": "casual",
+    "texture": "cotton",
+    "print_category": "animal"
+  },
+  "5.jpg": {
+    "category": "bottoms",
+    "item_type": "leggings",
+    "primary_color": "black",
+    "usage": "casual",
+    "texture": "others",
+    "print_category": "plain"
+  },
+  "6.jpg": {
+    "category": "bottoms",
+    "item_type": "pants",
+    "primary_color": "red",
+    "usage": "casual",
+    "texture": "others",
+    "print_category": "plaid"
+  },
+  "7.jpg": {
+    "category": "others"
+  },
+  "8.jpg": {
+    "category": "tops",
+    "item_type": "jacket",
+    "primary_color": "black",
+    "usage": "outerwear",
+    "texture": "leather",
+    "print_category": "plain"
+  },
+  "9.jpg": {
+    "category": "bottoms",
+    "item_type": "jeans",
+    "primary_color": "grey",
+    "usage": "casual",
+    "texture": "denim",
+    "print_category": "plain"
+  }
+}

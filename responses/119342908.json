@@ -1,0 +1,49 @@
+{
+  "0.jpg": {
+    "category": "others"
+  },
+  "1.jpg": {
+    "category": "others"
+  },
+  "2.jpg": {
+    "category": "others"
+  },
+  "3.jpg": {
+    "category": "tops",
+    "item_type": "blouse",
+    "primary_color": "red",
+    "usage": "casual",
+    "texture": "cotton",
+    "print_category": "plain"
+  },
+  "4.jpg": {
+    "category": "others"
+  },
+  "5.jpg": {
+    "category": "others"
+  },
+  "6.jpg": {
+    "category": "tops",
+    "item_type": "denim jacket",
+    "primary_color": "blue",
+    "usage": "casual",
+    "texture": "denim",
+    "print_category": "plain"
+  },
+  "7.jpg": {
+    "category": "tops",
+    "item_type": "dress",
+    "primary_color": "purple",
+    "usage": "casual",
+    "texture": "others",
+    "print_category": "plain"
+  },
+  "8.jpg": {
+    "category": "tops",
+    "item_type": "tshirt",
+    "primary_color": "light blue",
+    "usage": "casual",
+    "texture": "cotton",
+    "print_category": "plain"
+  }
+}

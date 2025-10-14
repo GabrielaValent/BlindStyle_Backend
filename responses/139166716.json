@@ -1,0 +1,30 @@
+{
+  "0.jpg": {
+    "category": "others"
+  },
+  "1.jpg": {
+    "category": "others"
+  },
+  "2.jpg": {
+    "category": "bottoms",
+    "item_type": "maxi skirt",
+    "primary_color": "purple",
+    "usage": "casual",
+    "texture": "polyester",
+    "print_category": "abstract"
+  },
+  "3.jpg": {
+    "category": "others"
+  },
+  "4.jpg": {
+    "category": "shoes",
+    "item_type": "over-the-knee boot",
+    "primary_color": "blue",
+    "usage": "casual",
+    "texture": "suede",
+    "print_category": "plain"
+  },
+  "5.jpg": {
+    "category": "others"
+  }
+}

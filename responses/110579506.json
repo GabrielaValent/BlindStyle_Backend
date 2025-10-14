@@ -1,0 +1,58 @@
+{
+  "0.jpg": {
+    "category": "others",
+    "description": "The image contains multiple clothing items and accessories, making it difficult to provide a single item description."
+  },
+  "1.jpg": {
+    "category": "tops",
+    "item_type": "dress",
+    "primary_color": "black",
+    "usage": "formal",
+    "texture": "others",
+    "print_category": "plain"
+  },
+  "2.jpg": {
+    "category": "shoes",
+    "item_type": "boots",
+    "primary_color": "black",
+    "usage": "party",
+    "texture": "leather",
+    "print_category": "plain"
+  },
+  "3.jpg": {
+    "category": "others",
+    "description": "The image shows a handbag, which doesn't fall into the defined categories."
+  },
+  "4.jpg": {
+    "category": "others",
+    "description": "The image contains earrings, which are not included in the defined categories."
+  },
+  "5.jpg": {
+    "category": "others",
+    "description": "The image shows sunglasses, which are not included in the defined categories."
+  },
+  "6.jpg": {
+    "category": "others",
+    "description": "The image shows a perfume bottle, which doesn't fall into the defined categories."
+  },
+  "7.jpg": {
+    "category": "others",
+    "description": "The image is a blank frame, it does not represent any clothing item."
+  },
+  "8.jpg": {
+    "category": "others",
+    "description": "The image is a portrait and does not show any clothing items."
+  },
+  "9.jpg": {
+    "category": "others",
+    "description": "The image contains text and does not represent any clothing item."
+  },
+  "10.jpg": {
+    "category": "others",
+    "description": "The image contains text and does not represent any clothing item."
+  },
+  "11.jpg": {
+    "category": "others",
+    "description": "The image contains text and does not represent any clothing item."
+  }
+}

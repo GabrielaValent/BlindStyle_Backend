@@ -1,0 +1,162 @@
+{
+  "0.jpg": {
+    "category": "bottoms",
+    "item_type": "jumpsuit",
+    "primary_color": "black and white",
+    "usage": "casual",
+    "texture": "others",
+    "print_category": "striped"
+  },
+  "1.jpg": {
+    "category": "bottoms",
+    "item_type": "jumpsuit",
+    "primary_color": "black and white",
+    "usage": "casual",
+    "texture": "others",
+    "print_category": "striped"
+  },
+  "2.jpg": {
+    "category": "shoes",
+    "item_type": "wedge sandals",
+    "primary_color": "off-white",
+    "usage": "casual",
+    "texture": "others",
+    "print_category": "plain"
+  },
+  "3.jpg": {
+    "category": "others",
+    "item_type": "handbag",
+    "primary_color": "black and white",
+    "usage": "null",
+    "texture": "leather",
+    "print_category": "plain"
+  },
+  "4.jpg": {
+    "category": "others",
+    "item_type": "watch and bracelets",
+    "primary_color": "rose gold",
+    "usage": "null",
+    "texture": "others",
+    "print_category": "plain"
+  },
+  "5.jpg": {
+    "category": "others",
+    "item_type": "necklace",
+    "primary_color": "gold",
+    "usage": "null",
+    "texture": "others",
+    "print_category": "plain"
+  },
+  "6.jpg": {
+    "category": "others",
+    "item_type": "mascara",
+    "primary_color": "black",
+    "usage": "null",
+    "texture": "others",
+    "print_category": "plain"
+  },
+  "7.jpg": {
+    "category": "others",
+    "item_type": "lipstick",
+    "primary_color": "red",
+    "usage": "null",
+    "texture": "others",
+    "print_category": "plain"
+  },
+  "8.jpg": {
+    "category": "others",
+    "item_type": "nail polish",
+    "primary_color": "red",
+    "usage": "null",
+    "texture": "others",
+    "print_category": "plain"
+  },
+  "9.jpg": {
+    "category": "others",
+    "item_type": "floral background",
+    "primary_color": "blue and white",
+    "usage": "null",
+    "texture": "others",
+    "print_category": "floral"
+  },
+  "10.jpg": {
+    "category": "others",
+    "item_type": "bronzer",
+    "primary_color": "brown",
+    "usage": "null",
+    "texture": "others",
+    "print_category": "plain"
+  },
+  "11.jpg": {
+    "category": "tops",
+    "item_type": "cropped sweater",
+    "primary_color": "off-white",
+    "usage": "casual",
+    "texture": "knit",
+    "print_category": "plain"
+  },
+  "12.jpg": {
+    "category": "tops",
+    "item_type": "sweater",
+    "primary_color": "off-white",
+    "usage": "casual",
+    "texture": "knit",
+    "print_category": "plain"
+  },
+  "13.jpg": {
+    "category": "others",
+    "item_type": "number",
+    "primary_color": "gray",
+    "usage": "null",
+    "texture": "others",
+    "print_category": "plain"
+  },
+  "14.jpg": {
+    "category": "others",
+    "item_type": "magazine page",
+    "primary_color": "null",
+    "usage": "null",
+    "texture": "null",
+    "print_category": "null"
+  },
+  "15.jpg": {
+    "category": "others",
+    "item_type": "floral design",
+    "primary_color": "green",
+    "usage": "null",
+    "texture": "others",
+    "print_category": "floral"
+  },
+  "16.jpg": {
+    "category": "others",
+    "item_type": "magazine article",
+    "primary_color": "null",
+    "usage": "null",
+    "texture": "null",
+    "print_category": "null"
+  },
+  "17.jpg": {
+    "category": "others",
+    "item_type": "text",
+    "primary_color": "black",
+    "usage": "null",
+    "texture": "null",
+    "print_category": "null"
+  },
+  "18.jpg": {
+    "category": "others",
+    "item_type": "circle",
+    "primary_color": "white",
+    "usage": "null",
+    "texture": "null",
+    "print_category": "null"
+  },
+  "19.jpg": {
+    "category": "others",
+    "item_type": "magazine page",
+    "primary_color": "null",
+    "usage": "null",
+    "texture": "null",
+    "print_category": "null"
+  }
+}

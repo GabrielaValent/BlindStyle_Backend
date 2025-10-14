@@ -1,0 +1,41 @@
+{
+  "0.jpg": {
+    "category": "others"
+  },
+  "1.jpg": {
+    "category": "tops",
+    "item_type": "lace top",
+    "primary_color": "white",
+    "usage": "party",
+    "texture": "lace",
+    "print_category": "plain"
+  },
+  "2.jpg": {
+    "category": "shoes",
+    "item_type": "high heels",
+    "primary_color": "burgundy",
+    "usage": "party",
+    "texture": "suede",
+    "print_category": "plain"
+  },
+  "3.jpg": {
+    "category": "bottoms",
+    "item_type": "leggings",
+    "primary_color": "multicolored",
+    "usage": "casual",
+    "texture": "polyester",
+    "print_category": "abstract"
+  },
+  "4.jpg": {
+    "category": "others"
+  },
+  "5.jpg": {
+    "category": "others"
+  },
+  "6.jpg": {
+    "category": "others"
+  },
+  "7.jpg": {
+    "category": "others"
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "0.jpg": {
+    "category": "tops",
+    "item_type": "gown",
+    "primary_color": "pink",
+    "usage": "party",
+    "texture": "silk",
+    "print_category": "plain"
+  },
+  "1.jpg": {
+    "category": "shoes",
+    "item_type": "high heels",
+    "primary_color": "gold",
+    "usage": "party",
+    "texture": "leather",
+    "print_category": "plain"
+  },
+  "2.jpg": {
+    "category": "others",
+    "item_type": "handbag",
+    "primary_color": "white",
+    "usage": "party",
+    "texture": "others",
+    "print_category": "plain"
+  },
+  "3.jpg": {
+    "category": "others",
+    "item_type": "necklace",
+    "primary_color": "gold",
+    "usage": "party",
+    "texture": "others",
+    "print_category": "floral"
+  },
+  "4.jpg": {
+    "category": "others",
+    "item_type": "ring",
+    "primary_color": "gold",
+    "usage": "party",
+    "texture": "others",
+    "print_category": "plain"
+  },
+  "5.jpg": {
+    "category": "others",
+    "item_type": "bolero",
+    "primary_color": "pink",
+    "usage": "party",
+    "texture": "others",
+    "print_category": "plain"
+  },
+  "6.jpg": {
+    "category": "others",
+    "item_type": "makeup",
+    "primary_color": "beige",
+    "usage": "others",
+    "texture": "others",
+    "print_category": "plain"
+  },
+  "7.jpg": {
+    "category": "others",
+    "item_type": "eyeshadow palette",
+    "primary_color": "blue",
+    "usage": "others",
+    "texture": "others",
+    "print_category": "plain"
+  },
+  "8.jpg": {
+    "category": "others",
+    "item_type": "nail polish",
+    "primary_color": "pink",
+    "usage": "others",
+    "texture": "others",
+    "print_category": "plain"
+  },
+  "9.jpg": {
+    "category": "tops",
+    "item_type": "gown",
+    "primary_color": "pink",
+    "usage": "party",
+    "texture": "silk",
+    "print_category": "plain"
+  },
+  "10.jpg": {
+    "category": "tops",
+    "item_type": "gown",
+    "primary_color": "white",
+    "usage": "party",
+    "texture": "silk",
+    "print_category": "plain"
+  },
+  "11.jpg": {
+    "category": "others",
+    "item_type": "image",
+    "primary_color": "red",
+    "usage": "others",
+    "texture": "others",
+    "print_category": "floral"
+  },
+  "12.jpg": {
+    "category": "others",
+    "item_type": "image",
+    "primary_color": "beige",
+    "usage": "others",
+    "texture": "others",
+    "print_category": "floral"
+  },
+  "13.jpg": {
+    "category": "others",
+    "item_type": "image",
+    "primary_color": "pink",
+    "usage": "others",
+    "texture": "others",
+    "print_category": "floral"
+  },
+  "14.jpg": {
+    "category": "others",
+    "item_type": "logo",
+    "primary_color": "black",
+    "usage": "others",
+    "texture": "others",
+    "print_category": "logo"
+  },
+  "15.jpg": {
+    "category": "tops",
+    "item_type": "top",
+    "primary_color": "white",
+    "usage": "formal",
+    "texture": "others",
+    "print_category": "plain"
+  },
+  "16.jpg": {
+    "category": "others",
+    "item_type": "text",
+    "primary_color": "black",
+    "usage": "others",
+    "texture": "others",
+    "print_category": "plain"
+  }
+}

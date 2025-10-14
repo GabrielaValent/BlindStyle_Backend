@@ -1,0 +1,202 @@
+{
+  "0.jpg": {
+    "category": "others",
+    "item_type": "room decor",
+    "primary_color": "beige",
+    "usage": "casual",
+    "texture": "others",
+    "print_category": "plain"
+  },
+  "1.jpg": {
+    "category": "others",
+    "item_type": "sofa",
+    "primary_color": "beige",
+    "usage": "casual",
+    "texture": "linen",
+    "print_category": "plain"
+  },
+  "2.jpg": {
+    "category": "others",
+    "item_type": "armchair",
+    "primary_color": "beige",
+    "usage": "casual",
+    "texture": "linen",
+    "print_category": "plain"
+  },
+  "3.jpg": {
+    "category": "others",
+    "item_type": "coffee table",
+    "primary_color": "multicolored",
+    "usage": "casual",
+    "texture": "metal",
+    "print_category": "abstract"
+  },
+  "4.jpg": {
+    "category": "others",
+    "item_type": "side table",
+    "primary_color": "black",
+    "usage": "casual",
+    "texture": "wood",
+    "print_category": "plain"
+  },
+  "5.jpg": {
+    "category": "others",
+    "item_type": "chandelier",
+    "primary_color": "gold",
+    "usage": "casual",
+    "texture": "metal",
+    "print_category": "geometric"
+  },
+  "6.jpg": {
+    "category": "others",
+    "item_type": "table lamp",
+    "primary_color": "silver",
+    "usage": "casual",
+    "texture": "metal",
+    "print_category": "plain"
+  },
+  "7.jpg": {
+    "category": "others",
+    "item_type": "rug",
+    "primary_color": "beige",
+    "usage": "casual",
+    "texture": "leather",
+    "print_category": "geometric"
+  },
+  "8.jpg": {
+    "category": "others",
+    "item_type": "throw",
+    "primary_color": "beige",
+    "usage": "casual",
+    "texture": "wool",
+    "print_category": "plain"
+  },
+  "9.jpg": {
+    "category": "others",
+    "item_type": "wall mirror",
+    "primary_color": "gold",
+    "usage": "casual",
+    "texture": "metal",
+    "print_category": "plain"
+  },
+  "10.jpg": {
+    "category": "others",
+    "item_type": "wall art",
+    "primary_color": "black",
+    "usage": "casual",
+    "texture": "paper",
+    "print_category": "floral"
+  },
+  "11.jpg": {
+    "category": "others",
+    "item_type": "flowers",
+    "primary_color": "white",
+    "usage": "casual",
+    "texture": "others",
+    "print_category": "plain"
+  },
+  "12.jpg": {
+    "category": "others",
+    "item_type": "wall art",
+    "primary_color": "black",
+    "usage": "casual",
+    "texture": "paper",
+    "print_category": "logo"
+  },
+  "13.jpg": {
+    "category": "others",
+    "item_type": "wall art",
+    "primary_color": "black",
+    "usage": "casual",
+    "texture": "paper",
+    "print_category": "floral"
+  },
+  "14.jpg": {
+    "category": "others",
+    "item_type": "cushion",
+    "primary_color": "black",
+    "usage": "casual",
+    "texture": "others",
+    "print_category": "striped"
+  },
+  "15.jpg": {
+    "category": "others",
+    "item_type": "cushion",
+    "primary_color": "black",
+    "usage": "casual",
+    "texture": "velvet",
+    "print_category": "abstract"
+  },
+  "16.jpg": {
+    "category": "others",
+    "item_type": "candle holder",
+    "primary_color": "red",
+    "usage": "casual",
+    "texture": "glass",
+    "print_category": "plain"
+  },
+  "17.jpg": {
+    "category": "others",
+    "item_type": "tissue box",
+    "primary_color": "gold",
+    "usage": "casual",
+    "texture": "metal",
+    "print_category": "floral"
+  },
+  "18.jpg": {
+    "category": "others",
+    "item_type": "books",
+    "primary_color": "red",
+    "usage": "casual",
+    "texture": "paper",
+    "print_category": "plain"
+  },
+  "19.jpg": {
+    "category": "others",
+    "item_type": "magazine",
+    "primary_color": "beige",
+    "usage": "casual",
+    "texture": "paper",
+    "print_category": "plain"
+  },
+  "20.jpg": {
+    "category": "others",
+    "item_type": "number",
+    "primary_color": "grey",
+    "usage": "casual",
+    "texture": "others",
+    "print_category": "plain"
+  },
+  "21.jpg": {
+    "category": "others",
+    "item_type": "logo",
+    "primary_color": "black",
+    "usage": "casual",
+    "texture": "others",
+    "print_category": "plain"
+  },
+  "22.jpg": {
+    "category": "others",
+    "item_type": "logo",
+    "primary_color": "black",
+    "usage": "casual",
+    "texture": "others",
+    "print_category": "plain"
+  },
+  "23.jpg": {
+    "category": "others",
+    "item_type": "color swatch",
+    "primary_color": "beige",
+    "usage": "casual",
+    "texture": "others",
+    "print_category": "plain"
+  },
+  "24.jpg": {
+    "category": "others",
+    "item_type": "background",
+    "primary_color": "grey",
+    "usage": "casual",
+    "texture": "stone",
+    "print_category": "plain"
+  }
+}

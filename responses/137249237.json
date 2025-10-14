@@ -1,0 +1,61 @@
+{
+  "0.jpg": {
+    "category": "others"
+  },
+  "1.jpg": {
+    "category": "tops",
+    "item_type": "sweatshirt",
+    "primary_color": "blue",
+    "usage": "casual",
+    "texture": "knit",
+    "print_category": "abstract"
+  },
+  "2.jpg": {
+    "category": "tops",
+    "item_type": "coat",
+    "primary_color": "pink",
+    "usage": "outerwear",
+    "texture": "fleece",
+    "print_category": "plain"
+  },
+  "3.jpg": {
+    "category": "bottoms",
+    "item_type": "skirt",
+    "primary_color": "blue",
+    "usage": "casual",
+    "texture": "polyester",
+    "print_category": "striped"
+  },
+  "4.jpg": {
+    "category": "shoes",
+    "item_type": "sneakers",
+    "primary_color": "white",
+    "usage": "casual",
+    "texture": "leather",
+    "print_category": "plain"
+  },
+  "5.jpg": {
+    "category": "others"
+  },
+  "6.jpg": {
+    "category": "others"
+  },
+  "7.jpg": {
+    "category": "others"
+  },
+  "8.jpg": {
+    "category": "others"
+  },
+  "9.jpg": {
+    "category": "others"
+  },
+  "10.jpg": {
+    "category": "others"
+  },
+  "11.jpg": {
+    "category": "others"
+  },
+  "12.jpg": {
+    "category": "others"
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "0.jpg": {
+    "category": "others"
+  },
+  "1.jpg": {
+    "category": "tops",
+    "item_type": "blouse",
+    "primary_color": "purple",
+    "usage": "casual",
+    "texture": "polyester",
+    "print_category": "plain"
+  },
+  "2.jpg": {
+    "category": "tops",
+    "item_type": "coat",
+    "primary_color": "gray",
+    "usage": "outerwear",
+    "texture": "wool",
+    "print_category": "plaid"
+  },
+  "3.jpg": {
+    "category": "bottoms",
+    "item_type": "pants",
+    "primary_color": "yellow",
+    "usage": "casual",
+    "texture": "cotton",
+    "print_category": "plain"
+  },
+  "4.jpg": {
+    "category": "shoes",
+    "item_type": "pumps",
+    "primary_color": "white",
+    "usage": "formal",
+    "texture": "leather",
+    "print_category": "animal"
+  },
+  "5.jpg": {
+    "category": "others"
+  },
+  "6.jpg": {
+    "category": "others"
+  },
+  "7.jpg": {
+    "category": "others"
+  },
+  "8.jpg": {
+    "category": "others"
+  },
+  "9.jpg": {
+    "category": "others"
+  },
+  "10.jpg": {
+    "category": "others"
+  },
+  "11.jpg": {
+    "category": "others"
+  }
+}

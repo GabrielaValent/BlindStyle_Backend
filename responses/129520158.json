@@ -1,0 +1,114 @@
+{
+  "0.jpg": {
+    "category": "others",
+    "item_type": null,
+    "primary_color": null,
+    "usage": null,
+    "texture": null,
+    "print_category": null
+  },
+  "1.jpg": {
+    "category": "others",
+    "item_type": "throw blanket",
+    "primary_color": "beige",
+    "usage": "casual",
+    "texture": "knit",
+    "print_category": "plain"
+  },
+  "2.jpg": {
+    "category": "others",
+    "item_type": "floor cushions",
+    "primary_color": "green",
+    "usage": "casual",
+    "texture": "others",
+    "print_category": "abstract"
+  },
+  "3.jpg": {
+    "category": "others",
+    "item_type": "serving spoons",
+    "primary_color": "brown",
+    "usage": null,
+    "texture": "others",
+    "print_category": "plain"
+  },
+  "4.jpg": {
+    "category": "others",
+    "item_type": "wall decor",
+    "primary_color": "white",
+    "usage": null,
+    "texture": "others",
+    "print_category": "logo"
+  },
+  "5.jpg": {
+    "category": "others",
+    "item_type": "plant arrangement",
+    "primary_color": "green",
+    "usage": null,
+    "texture": "others",
+    "print_category": "plain"
+  },
+  "6.jpg": {
+    "category": "others",
+    "item_type": "decorative bowl",
+    "primary_color": "beige",
+    "usage": null,
+    "texture": "others",
+    "print_category": "plain"
+  },
+  "7.jpg": {
+    "category": "others",
+    "item_type": "sofa",
+    "primary_color": "beige",
+    "usage": "casual",
+    "texture": "others",
+    "print_category": "striped"
+  },
+  "8.jpg": {
+    "category": "others",
+    "item_type": "wall decor",
+    "primary_color": "brown",
+    "usage": null,
+    "texture": "others",
+    "print_category": "plain"
+  },
+  "9.jpg": {
+    "category": "others",
+    "item_type": null,
+    "primary_color": null,
+    "usage": null,
+    "texture": null,
+    "print_category": null
+  },
+  "10.jpg": {
+    "category": "bottoms",
+    "item_type": "pants",
+    "primary_color": "white",
+    "usage": "casual",
+    "texture": "others",
+    "print_category": "plain"
+  },
+  "11.jpg": {
+    "category": "others",
+    "item_type": null,
+    "primary_color": null,
+    "usage": null,
+    "texture": null,
+    "print_category": null
+  },
+  "12.jpg": {
+    "category": "others",
+    "item_type": "baskets",
+    "primary_color": "beige",
+    "usage": null,
+    "texture": "others",
+    "print_category": "plain"
+  },
+  "13.jpg": {
+    "category": "others",
+    "item_type": "light fixture",
+    "primary_color": "brown",
+    "usage": null,
+    "texture": "others",
+    "print_category": "plain"
+  }
+}

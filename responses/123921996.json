@@ -1,0 +1,98 @@
+{
+  "0.jpg": {
+    "category": "tops",
+    "item_type": "denim jacket",
+    "primary_color": "blue",
+    "usage": "casual",
+    "texture": "denim",
+    "print_category": "plain"
+  },
+  "1.jpg": {
+    "category": "tops",
+    "item_type": "crop top",
+    "primary_color": "white",
+    "usage": "casual",
+    "texture": "knit",
+    "print_category": "plain"
+  },
+  "2.jpg": {
+    "category": "tops",
+    "item_type": "denim jacket",
+    "primary_color": "blue",
+    "usage": "casual",
+    "texture": "denim",
+    "print_category": "floral"
+  },
+  "3.jpg": {
+    "category": "bottoms",
+    "item_type": "skirt",
+    "primary_color": "white",
+    "usage": "casual",
+    "texture": "others",
+    "print_category": "floral"
+  },
+  "4.jpg": {
+    "category": "shoes",
+    "item_type": "boots",
+    "primary_color": "blue",
+    "usage": "casual",
+    "texture": "denim",
+    "print_category": "plain"
+  },
+  "5.jpg": {
+    "category": "others",
+    "item_type": "handbag",
+    "primary_color": "blue",
+    "usage": "others",
+    "texture": "leather",
+    "print_category": "plain"
+  },
+  "6.jpg": {
+    "category": "others",
+    "item_type": "necklace",
+    "primary_color": "gold",
+    "usage": "others",
+    "texture": "others",
+    "print_category": "plain"
+  },
+  "7.jpg": {
+    "category": "others",
+    "item_type": "multiple items",
+    "primary_color": "others",
+    "usage": "others",
+    "texture": "others",
+    "print_category": "others"
+  },
+  "8.jpg": {
+    "category": "others",
+    "item_type": "unidentifiable",
+    "primary_color": "others",
+    "usage": "others",
+    "texture": "others",
+    "print_category": "others"
+  },
+  "9.jpg": {
+    "category": "others",
+    "item_type": "unidentifiable",
+    "primary_color": "others",
+    "usage": "others",
+    "texture": "others",
+    "print_category": "others"
+  },
+  "10.jpg": {
+    "category": "others",
+    "item_type": "unidentifiable",
+    "primary_color": "others",
+    "usage": "others",
+    "texture": "others",
+    "print_category": "others"
+  },
+  "11.jpg": {
+    "category": "others",
+    "item_type": "unidentifiable",
+    "primary_color": "others",
+    "usage": "others",
+    "texture": "others",
+    "print_category": "others"
+  }
+}

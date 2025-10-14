@@ -1,0 +1,218 @@
+{
+  "0.jpg": {
+    "category": "others",
+    "item_type": null,
+    "primary_color": null,
+    "usage": null,
+    "texture": null,
+    "print_category": null
+  },
+  "1.jpg": {
+    "category": "others",
+    "item_type": "sofa",
+    "primary_color": "black",
+    "usage": null,
+    "texture": "leather",
+    "print_category": "plain"
+  },
+  "2.jpg": {
+    "category": "others",
+    "item_type": "armchair",
+    "primary_color": "white",
+    "usage": null,
+    "texture": "linen",
+    "print_category": "plain"
+  },
+  "3.jpg": {
+    "category": "others",
+    "item_type": "chair",
+    "primary_color": "black",
+    "usage": null,
+    "texture": "leather",
+    "print_category": "plain"
+  },
+  "4.jpg": {
+    "category": "others",
+    "item_type": "table",
+    "primary_color": "black",
+    "usage": null,
+    "texture": "others",
+    "print_category": "plain"
+  },
+  "5.jpg": {
+    "category": "others",
+    "item_type": "floor lamp",
+    "primary_color": "black",
+    "usage": null,
+    "texture": "metal",
+    "print_category": "plain"
+  },
+  "6.jpg": {
+    "category": "others",
+    "item_type": "table lamp",
+    "primary_color": "white",
+    "usage": null,
+    "texture": "glass",
+    "print_category": "plain"
+  },
+  "7.jpg": {
+    "category": "others",
+    "item_type": "rug",
+    "primary_color": "white",
+    "usage": null,
+    "texture": "others",
+    "print_category": "abstract"
+  },
+  "8.jpg": {
+    "category": "others",
+    "item_type": "pillow",
+    "primary_color": "white",
+    "usage": "sleepwear",
+    "texture": "cotton",
+    "print_category": "logo"
+  },
+  "9.jpg": {
+    "category": "others",
+    "item_type": "towel",
+    "primary_color": "white",
+    "usage": null,
+    "texture": "cotton",
+    "print_category": "plain"
+  },
+  "10.jpg": {
+    "category": "others",
+    "item_type": "bowl",
+    "primary_color": "black",
+    "usage": null,
+    "texture": "others",
+    "print_category": "plain"
+  },
+  "11.jpg": {
+    "category": "others",
+    "item_type": "cake stand",
+    "primary_color": "white",
+    "usage": null,
+    "texture": "ceramic",
+    "print_category": "plain"
+  },
+  "12.jpg": {
+    "category": "others",
+    "item_type": "plate",
+    "primary_color": "white",
+    "usage": null,
+    "texture": "ceramic",
+    "print_category": "plain"
+  },
+  "13.jpg": {
+    "category": "others",
+    "item_type": "wine glasses",
+    "primary_color": "black",
+    "usage": null,
+    "texture": "glass",
+    "print_category": "plain"
+  },
+  "14.jpg": {
+    "category": "others",
+    "item_type": "pitcher",
+    "primary_color": "black",
+    "usage": null,
+    "texture": "glass",
+    "print_category": "plain"
+  },
+  "15.jpg": {
+    "category": "others",
+    "item_type": "plate",
+    "primary_color": "white",
+    "usage": null,
+    "texture": "ceramic",
+    "print_category": "plain"
+  },
+  "16.jpg": {
+    "category": "others",
+    "item_type": "tea cup and saucer",
+    "primary_color": "white",
+    "usage": null,
+    "texture": "ceramic",
+    "print_category": "plain"
+  },
+  "17.jpg": {
+    "category": "others",
+    "item_type": "glasses",
+    "primary_color": "black",
+    "usage": null,
+    "texture": "glass",
+    "print_category": "plain"
+  },
+  "18.jpg": {
+    "category": "others",
+    "item_type": "knife",
+    "primary_color": "black",
+    "usage": null,
+    "texture": "others",
+    "print_category": "plain"
+  },
+  "19.jpg": {
+    "category": "others",
+    "item_type": "wine glass",
+    "primary_color": "black",
+    "usage": null,
+    "texture": "glass",
+    "print_category": "plain"
+  },
+  "20.jpg": {
+    "category": "others",
+    "item_type": "curtain",
+    "primary_color": "grey",
+    "usage": null,
+    "texture": "linen",
+    "print_category": "plain"
+  },
+  "21.jpg": {
+    "category": "others",
+    "item_type": null,
+    "primary_color": null,
+    "usage": null,
+    "texture": null,
+    "print_category": null
+  },
+  "22.jpg": {
+    "category": "others",
+    "item_type": "clock",
+    "primary_color": "white",
+    "usage": null,
+    "texture": "glass",
+    "print_category": "plain"
+  },
+  "23.jpg": {
+    "category": "others",
+    "item_type": null,
+    "primary_color": null,
+    "usage": null,
+    "texture": null,
+    "print_category": null
+  },
+  "24.jpg": {
+    "category": "others",
+    "item_type": null,
+    "primary_color": null,
+    "usage": null,
+    "texture": null,
+    "print_category": null
+  },
+  "25.jpg": {
+    "category": "others",
+    "item_type": null,
+    "primary_color": null,
+    "usage": null,
+    "texture": null,
+    "print_category": null
+  },
+  "26.jpg": {
+    "category": "others",
+    "item_type": null,
+    "primary_color": null,
+    "usage": null,
+    "texture": null,
+    "print_category": null
+  }
+}

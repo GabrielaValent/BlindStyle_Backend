@@ -1,0 +1,82 @@
+{
+  "0.jpg": {
+    "category": "tops",
+    "item_type": "dress",
+    "primary_color": "red",
+    "usage": "party",
+    "texture": "others",
+    "print_category": "plain"
+  },
+  "1.jpg": {
+    "category": "others",
+    "item_type": "clutch",
+    "primary_color": "red",
+    "usage": "party",
+    "texture": "others",
+    "print_category": "plain"
+  },
+  "2.jpg": {
+    "category": "others",
+    "item_type": "earrings",
+    "primary_color": "red",
+    "usage": "party",
+    "texture": "others",
+    "print_category": "plain"
+  },
+  "3.jpg": {
+    "category": "others",
+    "item_type": "fabric swatch",
+    "primary_color": "red",
+    "usage": "others",
+    "texture": "others",
+    "print_category": "striped"
+  },
+  "4.jpg": {
+    "category": "others",
+    "item_type": "hat",
+    "primary_color": "red",
+    "usage": "party",
+    "texture": "others",
+    "print_category": "plain"
+  },
+  "5.jpg": {
+    "category": "others",
+    "item_type": "lipstick swatch",
+    "primary_color": "red",
+    "usage": "others",
+    "texture": "others",
+    "print_category": "plain"
+  },
+  "6.jpg": {
+    "category": "tops",
+    "item_type": "dress",
+    "primary_color": "red",
+    "usage": "party",
+    "texture": "others",
+    "print_category": "plain"
+  },
+  "7.jpg": {
+    "category": "shoes",
+    "item_type": "high heels",
+    "primary_color": "red",
+    "usage": "party",
+    "texture": "suede",
+    "print_category": "plain"
+  },
+  "8.jpg": {
+    "category": "tops",
+    "item_type": "dress",
+    "primary_color": "red",
+    "usage": "party",
+    "texture": "others",
+    "print_category": "plain"
+  },
+  "9.jpg": {
+    "category": "others",
+    "item_type": "blank",
+    "primary_color": "white",
+    "usage": "others",
+    "texture": "others",
+    "print_category": "plain"
+  }
+}

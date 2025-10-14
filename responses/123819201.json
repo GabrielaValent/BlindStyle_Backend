@@ -1,0 +1,50 @@
+{
+  "0.jpg": {
+    "category": "others",
+    "note": "The image contains multiple clothing items and other objects, making individual classification impossible."
+  },
+  "1.jpg": {
+    "category": "tops",
+    "item_type": "crop top",
+    "primary_color": "black and white",
+    "usage": "casual",
+    "texture": "others",
+    "print_category": "abstract"
+  },
+  "2.jpg": {
+    "category": "tops",
+    "item_type": "jacket",
+    "primary_color": "army green",
+    "usage": "outerwear",
+    "texture": "cotton",
+    "print_category": "plain"
+  },
+  "3.jpg": {
+    "category": "bottoms",
+    "item_type": "denim shorts",
+    "primary_color": "light blue",
+    "usage": "casual",
+    "texture": "denim",
+    "print_category": "plain"
+  },
+  "4.jpg": {
+    "category": "shoes",
+    "item_type": "sneakers",
+    "primary_color": "white",
+    "usage": "casual",
+    "texture": "canvas",
+    "print_category": "plain"
+  },
+  "5.jpg": {
+    "category": "others",
+    "note": "The image contains a hat, which doesn't neatly fit into the defined categories."
+  },
+  "6.jpg": {
+    "category": "others",
+    "note": "The image contains a longboard, which is not clothing."
+  },
+  "7.jpg": {
+    "category": "others",
+    "note": "The image contains multiple clothing items and other objects, making individual classification impossible."
+  }
+}

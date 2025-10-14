@@ -1,0 +1,38 @@
+{
+  "0.jpg": {
+    "category": "others",
+    "description": "This image contains multiple clothing items and accessories, making it difficult to provide a detailed description for each one."
+  },
+  "1.jpg": {
+    "category": "tops",
+    "item_type": "cropped sweater",
+    "primary_color": "white",
+    "usage": "casual",
+    "texture": "knit",
+    "print_category": "plain"
+  },
+  "2.jpg": {
+    "category": "bottoms",
+    "item_type": "pleated trousers",
+    "primary_color": "black",
+    "usage": "formal",
+    "texture": "others",
+    "print_category": "plain"
+  },
+  "3.jpg": {
+    "category": "shoes",
+    "item_type": "high heels",
+    "primary_color": "silver",
+    "usage": "party",
+    "texture": "others",
+    "print_category": "abstract"
+  },
+  "4.jpg": {
+    "category": "others",
+    "description": "This image contains a cosmetic product (mascara), which is not a clothing item."
+  },
+  "5.jpg": {
+    "category": "others",
+    "description": "This image contains multiple clothing items making it difficult to provide a detailed description for each one."
+  }
+}

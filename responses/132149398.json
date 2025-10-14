@@ -1,0 +1,57 @@
+{
+  "0.jpg": {
+    "category": "others"
+  },
+  "1.jpg": {
+    "category": "others"
+  },
+  "2.jpg": {
+    "category": "others"
+  },
+  "3.jpg": {
+    "category": "others"
+  },
+  "4.jpg": {
+    "category": "others"
+  },
+  "5.jpg": {
+    "category": "others"
+  },
+  "6.jpg": {
+    "category": "others"
+  },
+  "7.jpg": {
+    "category": "others"
+  },
+  "8.jpg": {
+    "category": "others"
+  },
+  "9.jpg": {
+    "category": "others"
+  },
+  "10.jpg": {
+    "category": "others"
+  },
+  "11.jpg": {
+    "category": "tops",
+    "item_type": "dress",
+    "primary_color": "light pink",
+    "usage": "party",
+    "texture": "polyester",
+    "print_category": "plain"
+  },
+  "12.jpg": {
+    "category": "shoes",
+    "item_type": "heeled sandal",
+    "primary_color": "beige",
+    "usage": "party",
+    "texture": "suede",
+    "print_category": "plain"
+  },
+  "13.jpg": {
+    "category": "others"
+  },
+  "14.jpg": {
+    "category": "others"
+  }
+}

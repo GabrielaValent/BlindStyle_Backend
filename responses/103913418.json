@@ -1,0 +1,42 @@
+{
+  "0.jpg": {
+    "category": "others",
+    "description": "This image contains multiple clothing items and accessories, making it difficult to provide individual descriptions."
+  },
+  "1.jpg": {
+    "category": "tops",
+    "item_type": "tank top",
+    "primary_color": "grey",
+    "usage": "casual",
+    "texture": "knit",
+    "print_category": "plain"
+  },
+  "2.jpg": {
+    "category": "bottoms",
+    "item_type": "joggers",
+    "primary_color": "black",
+    "usage": "casual",
+    "texture": "cotton",
+    "print_category": "plain"
+  },
+  "3.jpg": {
+    "category": "others",
+    "description": "This image contains multiple bracelets. Detailed description would require separate images for each."
+  },
+  "4.jpg": {
+    "category": "others",
+    "description": "These are earrings shaped like birds. A more detailed description cannot be given without more context."
+  },
+  "5.jpg": {
+    "category": "shoes",
+    "item_type": "boots",
+    "primary_color": "black",
+    "usage": "casual",
+    "texture": "leather",
+    "print_category": "plain"
+  },
+  "6.jpg": {
+    "category": "others",
+    "description": "This image contains multiple clothing items and accessories, making it difficult to provide individual descriptions."
+  }
+}

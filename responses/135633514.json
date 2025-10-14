@@ -1,0 +1,35 @@
+{
+  "0.jpg": {
+    "category": "others"
+  },
+  "1.jpg": {
+    "category": "tops",
+    "item_type": "crop top",
+    "primary_color": "white",
+    "usage": "casual",
+    "texture": "polyester",
+    "print_category": "plain"
+  },
+  "2.jpg": {
+    "category": "bottoms",
+    "item_type": "skater skirt",
+    "primary_color": "magenta",
+    "usage": "casual",
+    "texture": "polyester",
+    "print_category": "plain"
+  },
+  "3.jpg": {
+    "category": "shoes",
+    "item_type": "platform heels",
+    "primary_color": "black",
+    "usage": "party",
+    "texture": "velvet",
+    "print_category": "plain"
+  },
+  "4.jpg": {
+    "category": "others"
+  },
+  "5.jpg": {
+    "category": "others"
+  }
+}

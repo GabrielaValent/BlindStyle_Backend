@@ -1,0 +1,106 @@
+{
+  "0.jpg": {
+    "category": "others",
+    "description": "The image contains multiple clothing items and other elements, making a single-item classification impossible."
+  },
+  "1.jpg": {
+    "category": "tops",
+    "item_type": "cropped sweater",
+    "primary_color": "yellow",
+    "usage": "casual",
+    "texture": "knit",
+    "print_category": "plain"
+  },
+  "2.jpg": {
+    "category": "tops",
+    "item_type": "sweatshirt",
+    "primary_color": "black",
+    "usage": "casual",
+    "texture": "cotton",
+    "print_category": "polka dot"
+  },
+  "3.jpg": {
+    "category": "tops",
+    "item_type": "peacoat",
+    "primary_color": "black",
+    "usage": "outerwear",
+    "texture": "wool",
+    "print_category": "plain"
+  },
+  "4.jpg": {
+    "category": "bottoms",
+    "item_type": "A-line skirt",
+    "primary_color": "burgundy",
+    "usage": "casual",
+    "texture": "leather",
+    "print_category": "plain"
+  },
+  "5.jpg": {
+    "category": "shoes",
+    "item_type": "ankle boots",
+    "primary_color": "burgundy",
+    "usage": "casual",
+    "texture": "leather",
+    "print_category": "plain"
+  },
+  "6.jpg": {
+    "category": "others",
+    "description": "The image contains a handbag, which does not fit into the predefined categories."
+  },
+  "7.jpg": {
+    "category": "others",
+    "description": "The image contains a necklace, which does not fit into the predefined categories."
+  },
+  "8.jpg": {
+    "category": "others",
+    "description": "The image contains text, which does not fit into the predefined categories."
+  },
+  "9.jpg": {
+    "category": "others",
+    "description": "The image contains multiple clothing items and other elements, making a single-item classification impossible."
+  },
+  "10.jpg": {
+    "category": "others",
+    "description": "The image contains text, which does not fit into the predefined categories."
+  },
+  "11.jpg": {
+    "category": "others",
+    "description": "The image contains food, which does not fit into the predefined categories."
+  },
+  "12.jpg": {
+    "category": "others",
+    "description": "The image contains foliage, which does not fit into the predefined categories."
+  },
+  "13.jpg": {
+    "category": "others",
+    "description": "The image contains text, which does not fit into the predefined categories."
+  },
+  "14.jpg": {
+    "category": "others",
+    "description": "The image is blank."
+  },
+  "15.jpg": {
+    "category": "others",
+    "description": "The image is blank."
+  },
+  "16.jpg": {
+    "category": "others",
+    "description": "The image contains text, which does not fit into the predefined categories."
+  },
+  "17.jpg": {
+    "category": "others",
+    "description": "The image contains food, which does not fit into the predefined categories."
+  },
+  "18.jpg": {
+    "category": "others",
+    "description": "The image contains food, which does not fit into the predefined categories."
+  },
+  "19.jpg": {
+    "category": "others",
+    "description": "The image contains food and other elements, making a single-item classification impossible."
+  },
+  "20.jpg": {
+    "category": "others",
+    "description": "The image contains text, which does not fit into the predefined categories."
+  }
+}

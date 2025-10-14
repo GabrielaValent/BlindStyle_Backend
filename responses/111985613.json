@@ -1,0 +1,90 @@
+{
+  "0.jpg": {
+    "category": "bottoms",
+    "item_type": "dress",
+    "primary_color": "black",
+    "usage": "formal",
+    "texture": "knit",
+    "print_category": "plain"
+  },
+  "1.jpg": {
+    "category": "others",
+    "item_type": "bracelet",
+    "primary_color": "gold",
+    "usage": "party",
+    "texture": "metal",
+    "print_category": "animal"
+  },
+  "2.jpg": {
+    "category": "others",
+    "item_type": "ring",
+    "primary_color": "gold",
+    "usage": "party",
+    "texture": "metal",
+    "print_category": "animal"
+  },
+  "3.jpg": {
+    "category": "others",
+    "item_type": "handbag",
+    "primary_color": "black",
+    "usage": "formal",
+    "texture": "suede",
+    "print_category": "logo"
+  },
+  "4.jpg": {
+    "category": "bottoms",
+    "item_type": "dress",
+    "primary_color": "black",
+    "usage": "formal",
+    "texture": "knit",
+    "print_category": "plain"
+  },
+  "5.jpg": {
+    "category": "shoes",
+    "item_type": "sandals",
+    "primary_color": "black",
+    "usage": "party",
+    "texture": "suede",
+    "print_category": "plain"
+  },
+  "6.jpg": {
+    "category": "others",
+    "item_type": "shopping bag",
+    "primary_color": "black",
+    "usage": "others",
+    "texture": "others",
+    "print_category": "logo"
+  },
+  "7.jpg": {
+    "category": "others",
+    "item_type": "hair",
+    "primary_color": "blonde",
+    "usage": "others",
+    "texture": "others",
+    "print_category": "plain"
+  },
+  "8.jpg": {
+    "category": "others",
+    "item_type": "snake",
+    "primary_color": "black",
+    "usage": "others",
+    "texture": "others",
+    "print_category": "plain"
+  },
+  "9.jpg": {
+    "category": "others",
+    "item_type": "flower",
+    "primary_color": "purple",
+    "usage": "others",
+    "texture": "others",
+    "print_category": "plain"
+  },
+  "10.jpg": {
+    "category": "others",
+    "item_type": "frame",
+    "primary_color": "gold",
+    "usage": "others",
+    "texture": "others",
+    "print_category": "plain"
+  }
+}

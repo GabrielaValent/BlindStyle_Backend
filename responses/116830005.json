@@ -1,0 +1,50 @@
+{
+  "0.jpg": {
+    "category": "others",
+    "description": "The image contains multiple clothing items and accessories, making it difficult to classify into a single category."
+  },
+  "1.jpg": {
+    "category": "tops",
+    "item_type": "denim dress",
+    "primary_color": "blue",
+    "usage": "casual",
+    "texture": "denim",
+    "print_category": "plain"
+  },
+  "2.jpg": {
+    "category": "shoes",
+    "item_type": "high heels",
+    "primary_color": "white",
+    "usage": "formal",
+    "texture": "satin",
+    "print_category": "plain"
+  },
+  "3.jpg": {
+    "category": "others",
+    "description": "The image shows a clutch, which doesn't fit into the main categories."
+  },
+  "4.jpg": {
+    "category": "tops",
+    "item_type": "t-shirt",
+    "primary_color": "white",
+    "usage": "casual",
+    "texture": "cotton",
+    "print_category": "plain"
+  },
+  "5.jpg": {
+    "category": "others",
+    "description": "The image contains text and is not a clothing item."
+  },
+  "6.jpg": {
+    "category": "others",
+    "description": "The image contains text and is not a clothing item."
+  },
+  "7.jpg": {
+    "category": "others",
+    "description": "The image contains text and is not a clothing item."
+  },
+  "8.jpg": {
+    "category": "others",
+    "description": "The image is a logo and not a clothing item."
+  }
+}

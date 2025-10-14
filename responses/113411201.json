@@ -1,0 +1,54 @@
+{
+  "0.jpg": {
+    "category": "others",
+    "description": "This image contains multiple items, including a dress, shoes, and accessories.  It is not possible to give a single objective description."
+  },
+  "1.jpg": {
+    "category": "tops",
+    "item_type": "dress",
+    "primary_color": "red",
+    "usage": "party",
+    "texture": "others",
+    "print_category": "floral"
+  },
+  "2.jpg": {
+    "category": "shoes",
+    "item_type": "high heels",
+    "primary_color": "red",
+    "usage": "party",
+    "texture": "satin",
+    "print_category": "plain"
+  },
+  "3.jpg": {
+    "category": "others",
+    "description": "This is a heart-shaped handbag; it does not fit into the predefined categories."
+  },
+  "4.jpg": {
+    "category": "others",
+    "description": "This is a necklace; it does not fit into the predefined categories."
+  },
+  "5.jpg": {
+    "category": "others",
+    "description": "This is a hair bow; it does not fit into the predefined categories."
+  },
+  "6.jpg": {
+    "category": "others",
+    "description": "This is an image of lips with lipstick; it does not fit into the predefined categories."
+  },
+  "7.jpg": {
+    "category": "others",
+    "description": "This is mascara; it does not fit into the predefined categories."
+  },
+  "8.jpg": {
+    "category": "others",
+    "description": "This is nail polish; it does not fit into the predefined categories."
+  },
+  "9.jpg": {
+    "category": "others",
+    "description": "This image contains a person; it is not possible to extract clothing item information."
+  },
+  "10.jpg": {
+    "category": "others",
+    "description": "This image contains text; it is not possible to extract clothing item information."
+  }
+}

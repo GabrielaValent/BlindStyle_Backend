@@ -1,0 +1,82 @@
+{
+  "0.jpg": {
+    "category": "others",
+    "note": "The image contains multiple clothing items and other elements, making it impossible to describe individual pieces accurately."
+  },
+  "1.jpg": {
+    "category": "tops",
+    "item_type": "denim shirt",
+    "primary_color": "blue",
+    "usage": "casual",
+    "texture": "denim",
+    "print_category": "plain"
+  },
+  "2.jpg": {
+    "category": "others",
+    "note": "The image is of a fur coat, and the texture should be more specific than simply \"fur\"."
+  },
+  "3.jpg": {
+    "category": "bottoms",
+    "item_type": "shorts",
+    "primary_color": "gold",
+    "usage": "casual",
+    "texture": "silk",
+    "print_category": "plain"
+  },
+  "4.jpg": {
+    "category": "shoes",
+    "item_type": "boots",
+    "primary_color": "brown",
+    "usage": "casual",
+    "texture": "leather",
+    "print_category": "plain"
+  },
+  "5.jpg": {
+    "category": "others",
+    "note": "This is a piece of jewelry and doesn't fit into the clothing categories."
+  },
+  "6.jpg": {
+    "category": "others",
+    "note": "This is a pair of sunglasses; they are an accessory, not a clothing item."
+  },
+  "7.jpg": {
+    "category": "others",
+    "note": "This is a belt; it's an accessory, not a clothing item."
+  },
+  "8.jpg": {
+    "category": "others",
+    "note": "These appear to be decorative plates, not clothing items."
+  },
+  "9.jpg": {
+    "category": "others",
+    "note": "This is a page of text, not a clothing item."
+  },
+  "10.jpg": {
+    "category": "others",
+    "note": "This is a digital image of flowers, not a clothing item."
+  },
+  "11.jpg": {
+    "category": "others",
+    "note": "This is a text image, not a clothing item."
+  },
+  "12.jpg": {
+    "category": "others",
+    "note": "The image contains a person wearing a top, but it is not clearly defined."
+  },
+  "13.jpg": {
+    "category": "others",
+    "note": "The image contains a person, but the clothing is not clearly defined."
+  },
+  "14.jpg": {
+    "category": "others",
+    "note": "This is a text image, not a clothing item."
+  },
+  "15.jpg": {
+    "category": "others",
+    "note": "The image shows a person wearing a top and bottoms, but it is not possible to accurately describe them."
+  },
+  "16.jpg": {
+    "category": "others",
+    "note": "This is an image of a mobile phone, not a clothing item."
+  }
+}

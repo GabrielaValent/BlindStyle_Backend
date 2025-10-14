@@ -1,0 +1,210 @@
+{
+  "0.jpg": {
+    "category": "others",
+    "item_type": "multiple items",
+    "primary_color": "multicolored",
+    "usage": "casual",
+    "texture": "others",
+    "print_category": "floral"
+  },
+  "1.jpg": {
+    "category": "bottoms",
+    "item_type": "shorts",
+    "primary_color": "light blue",
+    "usage": "casual",
+    "texture": "cotton",
+    "print_category": "floral"
+  },
+  "2.jpg": {
+    "category": "others",
+    "item_type": "scarf",
+    "primary_color": "blue",
+    "usage": "casual",
+    "texture": "cotton",
+    "print_category": "abstract"
+  },
+  "3.jpg": {
+    "category": "others",
+    "item_type": "card holder",
+    "primary_color": "pink",
+    "usage": "casual",
+    "texture": "others",
+    "print_category": "floral"
+  },
+  "4.jpg": {
+    "category": "others",
+    "item_type": "scarf",
+    "primary_color": "light blue",
+    "usage": "casual",
+    "texture": "cotton",
+    "print_category": "abstract"
+  },
+  "5.jpg": {
+    "category": "others",
+    "item_type": "phone case",
+    "primary_color": "teal",
+    "usage": "casual",
+    "texture": "others",
+    "print_category": "animal"
+  },
+  "6.jpg": {
+    "category": "others",
+    "item_type": "power bank",
+    "primary_color": "pink",
+    "usage": "casual",
+    "texture": "others",
+    "print_category": "abstract"
+  },
+  "7.jpg": {
+    "category": "others",
+    "item_type": "eyeglass strap",
+    "primary_color": "light green",
+    "usage": "casual",
+    "texture": "cotton",
+    "print_category": "floral"
+  },
+  "8.jpg": {
+    "category": "others",
+    "item_type": "keychain",
+    "primary_color": "pink",
+    "usage": "casual",
+    "texture": "others",
+    "print_category": "abstract"
+  },
+  "9.jpg": {
+    "category": "others",
+    "item_type": "perfume",
+    "primary_color": "pink",
+    "usage": "casual",
+    "texture": "others",
+    "print_category": "floral"
+  },
+  "10.jpg": {
+    "category": "others",
+    "item_type": "planner",
+    "primary_color": "light blue",
+    "usage": "casual",
+    "texture": "others",
+    "print_category": "abstract"
+  },
+  "11.jpg": {
+    "category": "others",
+    "item_type": "planner",
+    "primary_color": "white",
+    "usage": "casual",
+    "texture": "others",
+    "print_category": "abstract"
+  },
+  "12.jpg": {
+    "category": "others",
+    "item_type": "drink hugger",
+    "primary_color": "light blue",
+    "usage": "casual",
+    "texture": "others",
+    "print_category": "floral"
+  },
+  "13.jpg": {
+    "category": "bottoms",
+    "item_type": "jumpsuit",
+    "primary_color": "white",
+    "usage": "casual",
+    "texture": "cotton",
+    "print_category": "animal"
+  },
+  "14.jpg": {
+    "category": "others",
+    "item_type": "tumbler",
+    "primary_color": "light blue",
+    "usage": "casual",
+    "texture": "others",
+    "print_category": "floral"
+  },
+  "15.jpg": {
+    "category": "others",
+    "item_type": "tumbler",
+    "primary_color": "dark blue",
+    "usage": "casual",
+    "texture": "others",
+    "print_category": "animal"
+  },
+  "16.jpg": {
+    "category": "others",
+    "item_type": "tumbler",
+    "primary_color": "light blue",
+    "usage": "casual",
+    "texture": "others",
+    "print_category": "abstract"
+  },
+  "17.jpg": {
+    "category": "others",
+    "item_type": "tote bag",
+    "primary_color": "dark blue",
+    "usage": "casual",
+    "texture": "cotton",
+    "print_category": "animal"
+  },
+  "18.jpg": {
+    "category": "others",
+    "item_type": "pencils",
+    "primary_color": "multicolored",
+    "usage": "casual",
+    "texture": "others",
+    "print_category": "floral"
+  },
+  "19.jpg": {
+    "category": "others",
+    "item_type": "calculator",
+    "primary_color": "pink",
+    "usage": "casual",
+    "texture": "others",
+    "print_category": "floral"
+  },
+  "20.jpg": {
+    "category": "others",
+    "item_type": "bottle hugger",
+    "primary_color": "pink",
+    "usage": "casual",
+    "texture": "others",
+    "print_category": "floral"
+  },
+  "21.jpg": {
+    "category": "others",
+    "item_type": "drink hugger",
+    "primary_color": "white",
+    "usage": "casual",
+    "texture": "others",
+    "print_category": "floral"
+  },
+  "22.jpg": {
+    "category": "others",
+    "item_type": "drink hugger",
+    "primary_color": "light blue",
+    "usage": "casual",
+    "texture": "others",
+    "print_category": "animal"
+  },
+  "23.jpg": {
+    "category": "tops",
+    "item_type": "dress",
+    "primary_color": "multicolored",
+    "usage": "casual",
+    "texture": "cotton",
+    "print_category": "animal"
+  },
+  "24.jpg": {
+    "category": "others",
+    "item_type": "travel mug",
+    "primary_color": "pink",
+    "usage": "casual",
+    "texture": "others",
+    "print_category": "floral"
+  },
+  "25.jpg": {
+    "category": "tops",
+    "item_type": "t-shirt",
+    "primary_color": "light blue",
+    "usage": "casual",
+    "texture": "cotton",
+    "print_category": "abstract"
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "0.jpg": {
+    "category": "others",
+    "item_type": "collage",
+    "primary_color": null,
+    "usage": null,
+    "texture": null,
+    "print_category": null
+  },
+  "1.jpg": {
+    "category": "tops",
+    "item_type": "dress",
+    "primary_color": "red",
+    "usage": "party",
+    "texture": "others",
+    "print_category": "plain"
+  },
+  "2.jpg": {
+    "category": "shoes",
+    "item_type": "high heels",
+    "primary_color": "black",
+    "usage": "party",
+    "texture": "suede",
+    "print_category": "plain"
+  },
+  "3.jpg": {
+    "category": "others",
+    "item_type": "belt",
+    "primary_color": "gold",
+    "usage": null,
+    "texture": "others",
+    "print_category": "animal"
+  },
+  "4.jpg": {
+    "category": "others",
+    "item_type": "necklace",
+    "primary_color": "white",
+    "usage": null,
+    "texture": "others",
+    "print_category": "floral"
+  },
+  "5.jpg": {
+    "category": "others",
+    "item_type": "hair",
+    "primary_color": null,
+    "usage": null,
+    "texture": null,
+    "print_category": null
+  },
+  "6.jpg": {
+    "category": "others",
+    "item_type": "makeup",
+    "primary_color": null,
+    "usage": null,
+    "texture": null,
+    "print_category": null
+  },
+  "7.jpg": {
+    "category": "others",
+    "item_type": "collage",
+    "primary_color": null,
+    "usage": null,
+    "texture": null,
+    "print_category": null
+  },
+  "8.jpg": {
+    "category": "tops",
+    "item_type": "jacket",
+    "primary_color": "black",
+    "usage": "party",
+    "texture": "others",
+    "print_category": "plain"
+  },
+  "9.jpg": {
+    "category": "others",
+    "item_type": "necklace",
+    "primary_color": "gold",
+    "usage": null,
+    "texture": "others",
+    "print_category": "plain"
+  }
+}

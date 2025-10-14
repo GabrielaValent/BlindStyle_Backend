@@ -1,0 +1,130 @@
+{
+  "0.jpg": {
+    "category": "others",
+    "item_type": null,
+    "primary_color": null,
+    "usage": null,
+    "texture": null,
+    "print_category": null
+  },
+  "1.jpg": {
+    "category": "tops",
+    "item_type": "blazer",
+    "primary_color": "black",
+    "usage": "formal",
+    "texture": "polyester",
+    "print_category": "plain"
+  },
+  "2.jpg": {
+    "category": "bottoms",
+    "item_type": "shorts",
+    "primary_color": "black",
+    "usage": "casual",
+    "texture": "others",
+    "print_category": "floral"
+  },
+  "3.jpg": {
+    "category": "shoes",
+    "item_type": "heels",
+    "primary_color": "black",
+    "usage": "formal",
+    "texture": "leather",
+    "print_category": "plain"
+  },
+  "4.jpg": {
+    "category": "others",
+    "item_type": "bag",
+    "primary_color": "yellow",
+    "usage": "casual",
+    "texture": "others",
+    "print_category": "plain"
+  },
+  "5.jpg": {
+    "category": "others",
+    "item_type": "necklace",
+    "primary_color": "black",
+    "usage": "casual",
+    "texture": "others",
+    "print_category": "graphic"
+  },
+  "6.jpg": {
+    "category": "others",
+    "item_type": "bracelets",
+    "primary_color": "gold",
+    "usage": "party",
+    "texture": "others",
+    "print_category": "animal"
+  },
+  "7.jpg": {
+    "category": "others",
+    "item_type": "sunglasses",
+    "primary_color": "black",
+    "usage": "casual",
+    "texture": "others",
+    "print_category": "plain"
+  },
+  "8.jpg": {
+    "category": "others",
+    "item_type": null,
+    "primary_color": null,
+    "usage": null,
+    "texture": null,
+    "print_category": null
+  },
+  "9.jpg": {
+    "category": "others",
+    "item_type": "clutch",
+    "primary_color": "yellow",
+    "usage": "casual",
+    "texture": "leather",
+    "print_category": "abstract"
+  },
+  "10.jpg": {
+    "category": "others",
+    "item_type": null,
+    "primary_color": null,
+    "usage": null,
+    "texture": null,
+    "print_category": null
+  },
+  "11.jpg": {
+    "category": "tops",
+    "item_type": "tank top",
+    "primary_color": "white",
+    "usage": "casual",
+    "texture": "cotton",
+    "print_category": "plain"
+  },
+  "12.jpg": {
+    "category": "tops",
+    "item_type": "shirt",
+    "primary_color": "red",
+    "usage": "casual",
+    "texture": "silk",
+    "print_category": "animal"
+  },
+  "13.jpg": {
+    "category": "others",
+    "item_type": null,
+    "primary_color": null,
+    "usage": null,
+    "texture": null,
+    "print_category": null
+  },
+  "14.jpg": {
+    "category": "tops",
+    "item_type": "jacket",
+    "primary_color": "yellow",
+    "usage": "casual",
+    "texture": "mesh",
+    "print_category": "plain"
+  },
+  "15.jpg": {
+    "category": "tops",
+    "item_type": "t-shirt",
+    "primary_color": "white",
+    "usage": "casual",
+    "texture": "cotton",
+    "print_category": "plain"
+  }
+}

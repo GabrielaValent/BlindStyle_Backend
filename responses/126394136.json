@@ -1,0 +1,178 @@
+{
+  "0.jpg": {
+    "category": "others",
+    "item_type": null,
+    "primary_color": null,
+    "usage": null,
+    "texture": null,
+    "print_category": null
+  },
+  "1.jpg": {
+    "category": "tops",
+    "item_type": "tank top",
+    "primary_color": "white",
+    "usage": "casual",
+    "texture": "knit",
+    "print_category": "plain"
+  },
+  "2.jpg": {
+    "category": "tops",
+    "item_type": "t-shirt",
+    "primary_color": "multicolored",
+    "usage": "casual",
+    "texture": "others",
+    "print_category": "floral"
+  },
+  "3.jpg": {
+    "category": "tops",
+    "item_type": "camisole",
+    "primary_color": "light green",
+    "usage": "casual",
+    "texture": "others",
+    "print_category": "plain"
+  },
+  "4.jpg": {
+    "category": "bottoms",
+    "item_type": "shorts",
+    "primary_color": "beige",
+    "usage": "casual",
+    "texture": "others",
+    "print_category": "animal"
+  },
+  "5.jpg": {
+    "category": "bottoms",
+    "item_type": "skirt",
+    "primary_color": "light pink",
+    "usage": "casual",
+    "texture": "others",
+    "print_category": "plain"
+  },
+  "6.jpg": {
+    "category": "bottoms",
+    "item_type": "shorts",
+    "primary_color": "off-white",
+    "usage": "casual",
+    "texture": "others",
+    "print_category": "striped"
+  },
+  "7.jpg": {
+    "category": "shoes",
+    "item_type": "sandals",
+    "primary_color": "light teal",
+    "usage": "casual",
+    "texture": "leather",
+    "print_category": "plain"
+  },
+  "8.jpg": {
+    "category": "shoes",
+    "item_type": "sandals",
+    "primary_color": "white",
+    "usage": "casual",
+    "texture": "leather",
+    "print_category": "plain"
+  },
+  "9.jpg": {
+    "category": "others",
+    "item_type": null,
+    "primary_color": null,
+    "usage": null,
+    "texture": null,
+    "print_category": null
+  },
+  "10.jpg": {
+    "category": "others",
+    "item_type": null,
+    "primary_color": null,
+    "usage": null,
+    "texture": null,
+    "print_category": null
+  },
+  "11.jpg": {
+    "category": "others",
+    "item_type": null,
+    "primary_color": null,
+    "usage": null,
+    "texture": null,
+    "print_category": null
+  },
+  "12.jpg": {
+    "category": "others",
+    "item_type": "sun hat",
+    "primary_color": "beige",
+    "usage": "casual",
+    "texture": "others",
+    "print_category": "striped"
+  },
+  "13.jpg": {
+    "category": "others",
+    "item_type": "sunglasses",
+    "primary_color": "beige",
+    "usage": "casual",
+    "texture": "others",
+    "print_category": "plain"
+  },
+  "14.jpg": {
+    "category": "others",
+    "item_type": null,
+    "primary_color": null,
+    "usage": null,
+    "texture": null,
+    "print_category": null
+  },
+  "15.jpg": {
+    "category": "others",
+    "item_type": null,
+    "primary_color": null,
+    "usage": null,
+    "texture": null,
+    "print_category": null
+  },
+  "16.jpg": {
+    "category": "others",
+    "item_type": null,
+    "primary_color": null,
+    "usage": null,
+    "texture": null,
+    "print_category": null
+  },
+  "17.jpg": {
+    "category": "others",
+    "item_type": null,
+    "primary_color": null,
+    "usage": null,
+    "texture": null,
+    "print_category": null
+  },
+  "18.jpg": {
+    "category": "others",
+    "item_type": null,
+    "primary_color": null,
+    "usage": null,
+    "texture": null,
+    "print_category": null
+  },
+  "19.jpg": {
+    "category": "shoes",
+    "item_type": "sandals",
+    "primary_color": "silver",
+    "usage": "casual",
+    "texture": "leather",
+    "print_category": "plain"
+  },
+  "20.jpg": {
+    "category": "others",
+    "item_type": null,
+    "primary_color": null,
+    "usage": null,
+    "texture": null,
+    "print_category": null
+  },
+  "21.jpg": {
+    "category": "others",
+    "item_type": null,
+    "primary_color": null,
+    "usage": null,
+    "texture": null,
+    "print_category": null
+  }
+}

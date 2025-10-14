@@ -1,0 +1,94 @@
+{
+  "0.jpg": {
+    "category": "others",
+    "description": "This image contains multiple clothing items and accessories, making it difficult to provide individual descriptions."
+  },
+  "1.jpg": {
+    "category": "tops",
+    "item_type": "tank top",
+    "primary_color": "white",
+    "usage": "casual",
+    "texture": "cotton",
+    "print_category": "graphic"
+  },
+  "2.jpg": {
+    "category": "tops",
+    "item_type": "cami top",
+    "primary_color": "multicolored",
+    "usage": "casual",
+    "texture": "polyester",
+    "print_category": "abstract"
+  },
+  "3.jpg": {
+    "category": "bottoms",
+    "item_type": "maxi skirt",
+    "primary_color": "blue",
+    "usage": "casual",
+    "texture": "knit",
+    "print_category": "plain"
+  },
+  "4.jpg": {
+    "category": "bottoms",
+    "item_type": "bikini bottom",
+    "primary_color": "blue",
+    "usage": "swimwear",
+    "texture": "polyester",
+    "print_category": "plain"
+  },
+  "5.jpg": {
+    "category": "shoes",
+    "item_type": "sandals",
+    "primary_color": "gold",
+    "usage": "casual",
+    "texture": "leather",
+    "print_category": "plain"
+  },
+  "6.jpg": {
+    "category": "others",
+    "description": "This image contains a set of bracelets; not a single clothing item."
+  },
+  "7.jpg": {
+    "category": "others",
+    "description": "This is a phone case; not a clothing item."
+  },
+  "8.jpg": {
+    "category": "others",
+    "description": "This image contains a pair of sunglasses; not a clothing item."
+  },
+  "9.jpg": {
+    "category": "others",
+    "description": "This image contains makeup products; not clothing items."
+  },
+  "10.jpg": {
+    "category": "others",
+    "description": "This image contains a lipstick; not a clothing item."
+  },
+  "11.jpg": {
+    "category": "bottoms",
+    "item_type": "denim shorts",
+    "primary_color": "light blue",
+    "usage": "casual",
+    "texture": "denim",
+    "print_category": "plain"
+  },
+  "12.jpg": {
+    "category": "others",
+    "description": "This image contains a handbag; not a clothing item."
+  },
+  "13.jpg": {
+    "category": "others",
+    "description": "This image shows legs and feet; not a clothing item."
+  },
+  "14.jpg": {
+    "category": "others",
+    "description": "This image contains a beach scene; not a clothing item."
+  },
+  "15.jpg": {
+    "category": "others",
+    "description": "This image contains a person wearing a swimsuit and a sheer cover-up; multiple items make it difficult to describe individually."
+  },
+  "16.jpg": {
+    "category": "others",
+    "description": "This image is an illustration; not a clothing item."
+  }
+}

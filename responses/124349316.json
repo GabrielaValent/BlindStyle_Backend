@@ -1,0 +1,58 @@
+{
+  "0.jpg": {
+    "category": "others",
+    "description": "This image contains multiple items, including a dress, denim vest, sandals, and accessories.  A complete description is not possible."
+  },
+  "1.jpg": {
+    "category": "bottoms",
+    "item_type": "maxi dress",
+    "primary_color": "blue",
+    "usage": "casual",
+    "texture": "others",
+    "print_category": "plain"
+  },
+  "2.jpg": {
+    "category": "tops",
+    "item_type": "denim vest",
+    "primary_color": "light blue",
+    "usage": "casual",
+    "texture": "denim",
+    "print_category": "plain"
+  },
+  "3.jpg": {
+    "category": "shoes",
+    "item_type": "sandals",
+    "primary_color": "silver",
+    "usage": "casual",
+    "texture": "leather",
+    "print_category": "plain"
+  },
+  "4.jpg": {
+    "category": "others",
+    "description": "This image shows a fringed bag. It's not a clothing item."
+  },
+  "5.jpg": {
+    "category": "others",
+    "description": "This image contains multiple bracelets. They are accessories, not clothing items."
+  },
+  "6.jpg": {
+    "category": "others",
+    "description": "This is a lip gloss, not a clothing item."
+  },
+  "7.jpg": {
+    "category": "others",
+    "description": "This is a nail polish, not a clothing item."
+  },
+  "8.jpg": {
+    "category": "others",
+    "description": "This is a hairbrush, not a clothing item."
+  },
+  "9.jpg": {
+    "category": "others",
+    "description": "This image shows a pair of sunglasses. It's not a clothing item."
+  },
+  "10.jpg": {
+    "category": "others",
+    "description": "This image contains a person wearing a top, but the focus is not on the clothing item itself."
+  }
+}

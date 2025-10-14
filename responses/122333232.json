@@ -1,0 +1,122 @@
+{
+  "0.jpg": {
+    "category": "others",
+    "item_type": null,
+    "primary_color": null,
+    "usage": null,
+    "texture": null,
+    "print_category": null
+  },
+  "1.jpg": {
+    "category": "tops",
+    "item_type": "sweater",
+    "primary_color": "black",
+    "usage": "casual",
+    "texture": "knit",
+    "print_category": "graphic"
+  },
+  "2.jpg": {
+    "category": "tops",
+    "item_type": "sweater",
+    "primary_color": "blue",
+    "usage": "casual",
+    "texture": "knit",
+    "print_category": "plain"
+  },
+  "3.jpg": {
+    "category": "tops",
+    "item_type": "shirt",
+    "primary_color": "light green",
+    "usage": "casual",
+    "texture": "cotton",
+    "print_category": "plain"
+  },
+  "4.jpg": {
+    "category": "tops",
+    "item_type": "shirt",
+    "primary_color": "white",
+    "usage": "casual",
+    "texture": "cotton",
+    "print_category": "striped"
+  },
+  "5.jpg": {
+    "category": "others",
+    "item_type": null,
+    "primary_color": null,
+    "usage": null,
+    "texture": null,
+    "print_category": null
+  },
+  "6.jpg": {
+    "category": "bottoms",
+    "item_type": "dress",
+    "primary_color": "yellow",
+    "usage": "casual",
+    "texture": "cotton",
+    "print_category": "polka dot"
+  },
+  "7.jpg": {
+    "category": "tops",
+    "item_type": "shirt",
+    "primary_color": "light blue",
+    "usage": "casual",
+    "texture": "cotton",
+    "print_category": "plain"
+  },
+  "8.jpg": {
+    "category": "others",
+    "item_type": null,
+    "primary_color": null,
+    "usage": null,
+    "texture": null,
+    "print_category": null
+  },
+  "9.jpg": {
+    "category": "tops",
+    "item_type": "top",
+    "primary_color": "white",
+    "usage": "casual",
+    "texture": "cotton",
+    "print_category": "plain"
+  },
+  "10.jpg": {
+    "category": "tops",
+    "item_type": "tshirt",
+    "primary_color": "black",
+    "usage": "casual",
+    "texture": "cotton",
+    "print_category": "plain"
+  },
+  "11.jpg": {
+    "category": "tops",
+    "item_type": "sweater",
+    "primary_color": "red",
+    "usage": "casual",
+    "texture": "knit",
+    "print_category": "graphic"
+  },
+  "12.jpg": {
+    "category": "tops",
+    "item_type": "sweater",
+    "primary_color": "off-white",
+    "usage": "casual",
+    "texture": "knit",
+    "print_category": "striped"
+  },
+  "13.jpg": {
+    "category": "bottoms",
+    "item_type": "skirt",
+    "primary_color": "grey",
+    "usage": "casual",
+    "texture": "wool",
+    "print_category": "plaid"
+  },
+  "14.jpg": {
+    "category": "tops",
+    "item_type": "tshirt",
+    "primary_color": "grey",
+    "usage": "sportswear",
+    "texture": "cotton",
+    "print_category": "logo"
+  }
+}

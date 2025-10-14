@@ -1,0 +1,61 @@
+{
+  "0.jpg": {
+    "category": "others"
+  },
+  "1.jpg": {
+    "category": "tops",
+    "item_type": "tank top",
+    "primary_color": "black",
+    "usage": "casual",
+    "texture": "cotton",
+    "print_category": "graphic"
+  },
+  "2.jpg": {
+    "category": "tops",
+    "item_type": "varsity jacket",
+    "primary_color": "black",
+    "usage": "outerwear",
+    "texture": "cotton",
+    "print_category": "abstract"
+  },
+  "3.jpg": {
+    "category": "bottoms",
+    "item_type": "skinny jeans",
+    "primary_color": "white",
+    "usage": "casual",
+    "texture": "denim",
+    "print_category": "plain"
+  },
+  "4.jpg": {
+    "category": "shoes",
+    "item_type": "wedge sneakers",
+    "primary_color": "blue",
+    "usage": "casual",
+    "texture": "leather",
+    "print_category": "animal"
+  },
+  "5.jpg": {
+    "category": "others"
+  },
+  "6.jpg": {
+    "category": "others"
+  },
+  "7.jpg": {
+    "category": "others"
+  },
+  "8.jpg": {
+    "category": "others"
+  },
+  "9.jpg": {
+    "category": "others"
+  },
+  "10.jpg": {
+    "category": "others"
+  },
+  "11.jpg": {
+    "category": "others"
+  },
+  "12.jpg": {
+    "category": "others"
+  }
+}

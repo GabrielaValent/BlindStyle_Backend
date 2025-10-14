@@ -1,0 +1,274 @@
+{
+  "0.jpg": {
+    "category": "others",
+    "item_type": "room decor",
+    "primary_color": "null",
+    "usage": "null",
+    "texture": "null",
+    "print_category": "null"
+  },
+  "1.jpg": {
+    "category": "others",
+    "item_type": "sofa",
+    "primary_color": "beige",
+    "usage": "null",
+    "texture": "others",
+    "print_category": "plain"
+  },
+  "2.jpg": {
+    "category": "others",
+    "item_type": "chair",
+    "primary_color": "white",
+    "usage": "null",
+    "texture": "leather",
+    "print_category": "plain"
+  },
+  "3.jpg": {
+    "category": "others",
+    "item_type": "table",
+    "primary_color": "grey",
+    "usage": "null",
+    "texture": "others",
+    "print_category": "plain"
+  },
+  "4.jpg": {
+    "category": "others",
+    "item_type": "shelving unit",
+    "primary_color": "brown",
+    "usage": "null",
+    "texture": "wood",
+    "print_category": "plain"
+  },
+  "5.jpg": {
+    "category": "others",
+    "item_type": "table",
+    "primary_color": "gold",
+    "usage": "null",
+    "texture": "metal",
+    "print_category": "plain"
+  },
+  "6.jpg": {
+    "category": "others",
+    "item_type": "lamp",
+    "primary_color": "black",
+    "usage": "null",
+    "texture": "metal",
+    "print_category": "plain"
+  },
+  "7.jpg": {
+    "category": "others",
+    "item_type": "lamp",
+    "primary_color": "gold",
+    "usage": "null",
+    "texture": "metal",
+    "print_category": "plain"
+  },
+  "8.jpg": {
+    "category": "others",
+    "item_type": "mirror",
+    "primary_color": "white",
+    "usage": "null",
+    "texture": "others",
+    "print_category": "plain"
+  },
+  "9.jpg": {
+    "category": "others",
+    "item_type": "pictures",
+    "primary_color": "black and white",
+    "usage": "null",
+    "texture": "paper",
+    "print_category": "plain"
+  },
+  "10.jpg": {
+    "category": "others",
+    "item_type": "flowers",
+    "primary_color": "white",
+    "usage": "null",
+    "texture": "null",
+    "print_category": "plain"
+  },
+  "11.jpg": {
+    "category": "others",
+    "item_type": "cushion",
+    "primary_color": "black",
+    "usage": "null",
+    "texture": "others",
+    "print_category": "animal"
+  },
+  "12.jpg": {
+    "category": "others",
+    "item_type": "wall art",
+    "primary_color": "off-white",
+    "usage": "null",
+    "texture": "others",
+    "print_category": "graphic"
+  },
+  "13.jpg": {
+    "category": "others",
+    "item_type": "picture",
+    "primary_color": "black and white",
+    "usage": "null",
+    "texture": "paper",
+    "print_category": "plain"
+  },
+  "14.jpg": {
+    "category": "others",
+    "item_type": "cushion",
+    "primary_color": "gold",
+    "usage": "null",
+    "texture": "others",
+    "print_category": "animal"
+  },
+  "15.jpg": {
+    "category": "others",
+    "item_type": "pot",
+    "primary_color": "white",
+    "usage": "null",
+    "texture": "ceramic",
+    "print_category": "abstract"
+  },
+  "16.jpg": {
+    "category": "others",
+    "item_type": "books",
+    "primary_color": "white",
+    "usage": "null",
+    "texture": "paper",
+    "print_category": "plain"
+  },
+  "17.jpg": {
+    "category": "others",
+    "item_type": "box",
+    "primary_color": "silver",
+    "usage": "null",
+    "texture": "metal",
+    "print_category": "plain"
+  },
+  "18.jpg": {
+    "category": "others",
+    "item_type": "statue",
+    "primary_color": "black",
+    "usage": "null",
+    "texture": "others",
+    "print_category": "plain"
+  },
+  "19.jpg": {
+    "category": "others",
+    "item_type": "bookends",
+    "primary_color": "off-white",
+    "usage": "null",
+    "texture": "metal",
+    "print_category": "plain"
+  },
+  "20.jpg": {
+    "category": "others",
+    "item_type": "rug",
+    "primary_color": "black and white",
+    "usage": "null",
+    "texture": "others",
+    "print_category": "abstract"
+  },
+  "21.jpg": {
+    "category": "others",
+    "item_type": "decorative object",
+    "primary_color": "gold",
+    "usage": "null",
+    "texture": "metal",
+    "print_category": "plain"
+  },
+  "22.jpg": {
+    "category": "others",
+    "item_type": "throw",
+    "primary_color": "cream",
+    "usage": "null",
+    "texture": "wool",
+    "print_category": "plain"
+  },
+  "23.jpg": {
+    "category": "others",
+    "item_type": "magazine page",
+    "primary_color": "null",
+    "usage": "null",
+    "texture": "null",
+    "print_category": "null"
+  },
+  "24.jpg": {
+    "category": "others",
+    "item_type": "text",
+    "primary_color": "black",
+    "usage": "null",
+    "texture": "null",
+    "print_category": "null"
+  },
+  "25.jpg": {
+    "category": "others",
+    "item_type": "text",
+    "primary_color": "white",
+    "usage": "null",
+    "texture": "null",
+    "print_category": "null"
+  },
+  "26.jpg": {
+    "category": "others",
+    "item_type": "logo",
+    "primary_color": "black and white",
+    "usage": "null",
+    "texture": "null",
+    "print_category": "null"
+  },
+  "27.jpg": {
+    "category": "others",
+    "item_type": "graphic",
+    "primary_color": "black and white",
+    "usage": "null",
+    "texture": "null",
+    "print_category": "null"
+  },
+  "28.jpg": {
+    "category": "others",
+    "item_type": "books and shoes",
+    "primary_color": "black",
+    "usage": "null",
+    "texture": "null",
+    "print_category": "null"
+  },
+  "29.jpg": {
+    "category": "others",
+    "item_type": "magazine page",
+    "primary_color": "null",
+    "usage": "null",
+    "texture": "null",
+    "print_category": "null"
+  },
+  "30.jpg": {
+    "category": "others",
+    "item_type": "text",
+    "primary_color": "black",
+    "usage": "null",
+    "texture": "null",
+    "print_category": "null"
+  },
+  "31.jpg": {
+    "category": "others",
+    "item_type": "text",
+    "primary_color": "black",
+    "usage": "null",
+    "texture": "null",
+    "print_category": "null"
+  },
+  "32.jpg": {
+    "category": "others",
+    "item_type": "telephone",
+    "primary_color": "black",
+    "usage": "null",
+    "texture": "plastic",
+    "print_category": "plain"
+  },
+  "33.jpg": {
+    "category": "others",
+    "item_type": "sculpture",
+    "primary_color": "gold",
+    "usage": "null",
+    "texture": "metal",
+    "print_category": "plain"
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "0.jpg": {
+    "category": "others",
+    "description": "The image contains multiple items and other elements making a complete classification impossible."
+  },
+  "1.jpg": {
+    "category": "tops",
+    "item_type": "dress",
+    "primary_color": "orange",
+    "usage": "casual",
+    "texture": "others",
+    "print_category": "plaid"
+  },
+  "2.jpg": {
+    "category": "tops",
+    "item_type": "cardigan",
+    "primary_color": "black",
+    "usage": "casual",
+    "texture": "wool",
+    "print_category": "plain"
+  },
+  "3.jpg": {
+    "category": "shoes",
+    "item_type": "high heels",
+    "primary_color": "black",
+    "usage": "formal",
+    "texture": "suede",
+    "print_category": "plain"
+  },
+  "4.jpg": {
+    "category": "others",
+    "description": "The image contains a handbag, which does not fit into the predefined categories."
+  },
+  "5.jpg": {
+    "category": "others",
+    "description": "The image contains a rug, which does not fit into the predefined categories."
+  },
+  "6.jpg": {
+    "category": "others",
+    "description": "The image contains people, which does not fit into the predefined categories."
+  },
+  "7.jpg": {
+    "category": "others",
+    "description": "The image contains a building, which does not fit into the predefined categories."
+  },
+  "8.jpg": {
+    "category": "others",
+    "description": "The image contains a floor plan, which does not fit into the predefined categories."
+  },
+  "9.jpg": {
+    "category": "others",
+    "description": "The image contains a building, which does not fit into the predefined categories."
+  },
+  "10.jpg": {
+    "category": "others",
+    "description": "The image contains text, which does not fit into the predefined categories."
+  },
+  "11.jpg": {
+    "category": "others",
+    "description": "The image contains text, which does not fit into the predefined categories."
+  },
+  "12.jpg": {
+    "category": "others",
+    "description": "The image contains text, which does not fit into the predefined categories."
+  }
+}

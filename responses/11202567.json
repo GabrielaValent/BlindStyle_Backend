@@ -1,0 +1,154 @@
+{
+  "0.jpg": {
+    "category": "others",
+    "item_type": "multiple items",
+    "primary_color": null,
+    "usage": null,
+    "texture": null,
+    "print_category": null
+  },
+  "1.jpg": {
+    "category": "tops",
+    "item_type": "sundress",
+    "primary_color": "red",
+    "usage": "casual",
+    "texture": "knit",
+    "print_category": "striped"
+  },
+  "2.jpg": {
+    "category": "tops",
+    "item_type": "trench coat",
+    "primary_color": "red",
+    "usage": "outerwear",
+    "texture": "cotton",
+    "print_category": "plain"
+  },
+  "3.jpg": {
+    "category": "bottoms",
+    "item_type": "underwear",
+    "primary_color": "red",
+    "usage": "sleepwear",
+    "texture": "cotton",
+    "print_category": "logo"
+  },
+  "4.jpg": {
+    "category": "shoes",
+    "item_type": "wedges",
+    "primary_color": "red",
+    "usage": "casual",
+    "texture": "cotton",
+    "print_category": "striped"
+  },
+  "5.jpg": {
+    "category": "others",
+    "item_type": "purse",
+    "primary_color": "red",
+    "usage": null,
+    "texture": "leather",
+    "print_category": "animal"
+  },
+  "6.jpg": {
+    "category": "others",
+    "item_type": "ring",
+    "primary_color": "white",
+    "usage": null,
+    "texture": "others",
+    "print_category": "plain"
+  },
+  "7.jpg": {
+    "category": "others",
+    "item_type": "makeup",
+    "primary_color": "red",
+    "usage": null,
+    "texture": "others",
+    "print_category": "plain"
+  },
+  "8.jpg": {
+    "category": "others",
+    "item_type": "perfume",
+    "primary_color": "red",
+    "usage": null,
+    "texture": "others",
+    "print_category": "plain"
+  },
+  "9.jpg": {
+    "category": "others",
+    "item_type": "lip balm",
+    "primary_color": "red",
+    "usage": null,
+    "texture": "others",
+    "print_category": "plain"
+  },
+  "10.jpg": {
+    "category": "others",
+    "item_type": "nail polish",
+    "primary_color": "red",
+    "usage": null,
+    "texture": "others",
+    "print_category": "graphic"
+  },
+  "11.jpg": {
+    "category": "others",
+    "item_type": "decorative item",
+    "primary_color": null,
+    "usage": null,
+    "texture": null,
+    "print_category": null
+  },
+  "12.jpg": {
+    "category": "others",
+    "item_type": "decorative item",
+    "primary_color": "beige",
+    "usage": null,
+    "texture": "others",
+    "print_category": "plain"
+  },
+  "13.jpg": {
+    "category": "others",
+    "item_type": "decorative item",
+    "primary_color": "black",
+    "usage": null,
+    "texture": "metal",
+    "print_category": "plain"
+  },
+  "14.jpg": {
+    "category": "others",
+    "item_type": "multiple items",
+    "primary_color": null,
+    "usage": null,
+    "texture": null,
+    "print_category": null
+  },
+  "15.jpg": {
+    "category": "others",
+    "item_type": "decorative item",
+    "primary_color": "beige",
+    "usage": null,
+    "texture": "others",
+    "print_category": "plain"
+  },
+  "16.jpg": {
+    "category": "others",
+    "item_type": "decorative item",
+    "primary_color": "blue",
+    "usage": null,
+    "texture": "others",
+    "print_category": "plain"
+  },
+  "17.jpg": {
+    "category": "others",
+    "item_type": "decorative item",
+    "primary_color": "grey",
+    "usage": null,
+    "texture": "others",
+    "print_category": "plain"
+  },
+  "18.jpg": {
+    "category": "others",
+    "item_type": "text",
+    "primary_color": null,
+    "usage": null,
+    "texture": null,
+    "print_category": null
+  }
+}

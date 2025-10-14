@@ -1,0 +1,146 @@
+{
+  "0.jpg": {
+    "category": "tops",
+    "item_type": "dress",
+    "primary_color": "beige",
+    "usage": "formal",
+    "texture": "silk",
+    "print_category": "plain"
+  },
+  "1.jpg": {
+    "category": "tops",
+    "item_type": "dress",
+    "primary_color": "beige",
+    "usage": "formal",
+    "texture": "silk",
+    "print_category": "plain"
+  },
+  "2.jpg": {
+    "category": "tops",
+    "item_type": "dress",
+    "primary_color": "white",
+    "usage": "party",
+    "texture": "satin",
+    "print_category": "plain"
+  },
+  "3.jpg": {
+    "category": "others",
+    "item_type": "gloves",
+    "primary_color": "white",
+    "usage": "others",
+    "texture": "satin",
+    "print_category": "plain"
+  },
+  "4.jpg": {
+    "category": "others",
+    "item_type": "headband",
+    "primary_color": "gold",
+    "usage": "others",
+    "texture": "leather",
+    "print_category": "plain"
+  },
+  "5.jpg": {
+    "category": "shoes",
+    "item_type": "espadrilles",
+    "primary_color": "beige",
+    "usage": "casual",
+    "texture": "canvas",
+    "print_category": "logo"
+  },
+  "6.jpg": {
+    "category": "others",
+    "item_type": "handbag",
+    "primary_color": "white",
+    "usage": "casual",
+    "texture": "leather",
+    "print_category": "logo"
+  },
+  "7.jpg": {
+    "category": "others",
+    "item_type": "compact",
+    "primary_color": "pink",
+    "usage": "others",
+    "texture": "others",
+    "print_category": "plain"
+  },
+  "8.jpg": {
+    "category": "shoes",
+    "item_type": "boots",
+    "primary_color": "red",
+    "usage": "party",
+    "texture": "leather",
+    "print_category": "plain"
+  },
+  "9.jpg": {
+    "category": "others",
+    "item_type": "perfume",
+    "primary_color": "pink",
+    "usage": "others",
+    "texture": "glass",
+    "print_category": "plain"
+  },
+  "10.jpg": {
+    "category": "others",
+    "item_type": "pens",
+    "primary_color": "multicolored",
+    "usage": "others",
+    "texture": "others",
+    "print_category": "graphic"
+  },
+  "11.jpg": {
+    "category": "tops",
+    "item_type": "dress",
+    "primary_color": "light purple",
+    "usage": "casual",
+    "texture": "knit",
+    "print_category": "plain"
+  },
+  "12.jpg": {
+    "category": "tops",
+    "item_type": "dress",
+    "primary_color": "black",
+    "usage": "casual",
+    "texture": "knit",
+    "print_category": "plain"
+  },
+  "13.jpg": {
+    "category": "others",
+    "item_type": "jumpsuit",
+    "primary_color": "black",
+    "usage": "sportswear",
+    "texture": "polyester",
+    "print_category": "abstract"
+  },
+  "14.jpg": {
+    "category": "tops",
+    "item_type": "jacket",
+    "primary_color": "brown",
+    "usage": "outerwear",
+    "texture": "leather",
+    "print_category": "plain"
+  },
+  "15.jpg": {
+    "category": "others",
+    "item_type": "brooch",
+    "primary_color": "gold",
+    "usage": "others",
+    "texture": "metal",
+    "print_category": "plain"
+  },
+  "16.jpg": {
+    "category": "others",
+    "item_type": "wand",
+    "primary_color": "pink",
+    "usage": "others",
+    "texture": "plastic",
+    "print_category": "plain"
+  },
+  "17.jpg": {
+    "category": "others",
+    "item_type": "brooch",
+    "primary_color": "pink",
+    "usage": "others",
+    "texture": "others",
+    "print_category": "plain"
+  }
+}

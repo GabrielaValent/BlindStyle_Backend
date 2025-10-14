@@ -1,0 +1,55 @@
+{
+  "0.jpg": {
+    "category": "others"
+  },
+  "1.jpg": {
+    "category": "tops",
+    "item_type": "tank top",
+    "primary_color": "teal",
+    "usage": "sportswear",
+    "texture": "polyester",
+    "print_category": "plain"
+  },
+  "2.jpg": {
+    "category": "bottoms",
+    "item_type": "leggings",
+    "primary_color": "grey",
+    "usage": "sportswear",
+    "texture": "polyester",
+    "print_category": "plain"
+  },
+  "3.jpg": {
+    "category": "tops",
+    "item_type": "long-sleeve t-shirt",
+    "primary_color": "yellow",
+    "usage": "sportswear",
+    "texture": "knit",
+    "print_category": "plain"
+  },
+  "4.jpg": {
+    "category": "shoes",
+    "item_type": "sneakers",
+    "primary_color": "teal",
+    "usage": "sportswear",
+    "texture": "mesh",
+    "print_category": "logo"
+  },
+  "5.jpg": {
+    "category": "others"
+  },
+  "6.jpg": {
+    "category": "others"
+  },
+  "7.jpg": {
+    "category": "others"
+  },
+  "8.jpg": {
+    "category": "others"
+  },
+  "9.jpg": {
+    "category": "others"
+  },
+  "10.jpg": {
+    "category": "others"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "0.jpg": {
+    "category": "others",
+    "note": "multiple items in the image"
+  },
+  "1.jpg": {
+    "category": "tops",
+    "item_type": "sweater",
+    "primary_color": "grey",
+    "usage": "casual",
+    "texture": "knit",
+    "print_category": "plain"
+  },
+  "2.jpg": {
+    "category": "bottoms",
+    "item_type": "jeans",
+    "primary_color": "black",
+    "usage": "casual",
+    "texture": "denim",
+    "print_category": "plain"
+  },
+  "3.jpg": {
+    "category": "shoes",
+    "item_type": "slip-on sneakers",
+    "primary_color": "black",
+    "usage": "casual",
+    "texture": "suede",
+    "print_category": "plain"
+  },
+  "4.jpg": {
+    "category": "others",
+    "note": "not clothing item"
+  },
+  "5.jpg": {
+    "category": "others",
+    "note": "not clothing item"
+  },
+  "6.jpg": {
+    "category": "others",
+    "note": "not clothing item"
+  },
+  "7.jpg": {
+    "category": "others",
+    "note": "not clothing item"
+  },
+  "8.jpg": {
+    "category": "others",
+    "note": "multiple items in the image"
+  }
+}

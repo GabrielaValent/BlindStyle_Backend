@@ -1,0 +1,66 @@
+{
+  "0.jpg": {
+    "category": "others",
+    "description": "This image contains multiple clothing items and accessories, making it difficult to give a single detailed description."
+  },
+  "1.jpg": {
+    "category": "tops",
+    "item_type": "dress",
+    "primary_color": "teal",
+    "usage": "party",
+    "texture": "lace",
+    "print_category": "floral"
+  },
+  "2.jpg": {
+    "category": "tops",
+    "item_type": "vest",
+    "primary_color": "black",
+    "usage": "casual",
+    "texture": "leather",
+    "print_category": "plain"
+  },
+  "3.jpg": {
+    "category": "shoes",
+    "item_type": "sneakers",
+    "primary_color": "black",
+    "usage": "casual",
+    "texture": "canvas",
+    "print_category": "plain"
+  },
+  "4.jpg": {
+    "category": "others",
+    "description": "This is a suitcase, not clothing."
+  },
+  "5.jpg": {
+    "category": "others",
+    "description": "This is a backpack, not clothing."
+  },
+  "6.jpg": {
+    "category": "others",
+    "description": "This is a handbag, not clothing."
+  },
+  "7.jpg": {
+    "category": "others",
+    "description": "This is a hat, not clothing."
+  },
+  "8.jpg": {
+    "category": "others",
+    "description": "This is a cellphone, not clothing."
+  },
+  "9.jpg": {
+    "category": "others",
+    "description": "These are sunglasses, not clothing."
+  },
+  "10.jpg": {
+    "category": "others",
+    "description": "This is a beverage, not clothing."
+  },
+  "11.jpg": {
+    "category": "others",
+    "description": "This is a person's face, not clothing."
+  },
+  "12.jpg": {
+    "category": "others",
+    "description": "This is an image of money, not clothing."
+  }
+}

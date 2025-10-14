@@ -1,0 +1,74 @@
+{
+  "0.jpg": {
+    "category": "others",
+    "item_type": "multiple items",
+    "primary_color": null,
+    "usage": null,
+    "texture": null,
+    "print_category": null
+  },
+  "1.jpg": {
+    "category": "shoes",
+    "item_type": "high heels",
+    "primary_color": "white",
+    "usage": "party",
+    "texture": "knit",
+    "print_category": "plain"
+  },
+  "2.jpg": {
+    "category": "others",
+    "item_type": "handbag",
+    "primary_color": "beige",
+    "usage": null,
+    "texture": "leather",
+    "print_category": "plain"
+  },
+  "3.jpg": {
+    "category": "others",
+    "item_type": "earrings",
+    "primary_color": "gold",
+    "usage": null,
+    "texture": "metal",
+    "print_category": "plain"
+  },
+  "4.jpg": {
+    "category": "others",
+    "item_type": "necklace",
+    "primary_color": "rose gold",
+    "usage": null,
+    "texture": "metal",
+    "print_category": "plain"
+  },
+  "5.jpg": {
+    "category": "others",
+    "item_type": "ring",
+    "primary_color": "rose gold",
+    "usage": null,
+    "texture": "metal",
+    "print_category": "plain"
+  },
+  "6.jpg": {
+    "category": "others",
+    "item_type": "baseball cap",
+    "primary_color": "black",
+    "usage": "casual",
+    "texture": "others",
+    "print_category": "logo"
+  },
+  "7.jpg": {
+    "category": "others",
+    "item_type": "eyeglasses",
+    "primary_color": "black",
+    "usage": null,
+    "texture": "others",
+    "print_category": "plain"
+  },
+  "8.jpg": {
+    "category": "tops",
+    "item_type": "dress",
+    "primary_color": "white",
+    "usage": "party",
+    "texture": "knit",
+    "print_category": "plain"
+  }
+}

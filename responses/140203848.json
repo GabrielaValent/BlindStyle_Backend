@@ -1,0 +1,69 @@
+{
+  "0.jpg": {
+    "category": "others"
+  },
+  "1.jpg": {
+    "category": "bottoms",
+    "item_type": "skirt",
+    "primary_color": "red",
+    "usage": "casual",
+    "texture": "polyester",
+    "print_category": "floral"
+  },
+  "2.jpg": {
+    "category": "bottoms",
+    "item_type": "skirt",
+    "primary_color": "pink",
+    "usage": "casual",
+    "texture": "polyester",
+    "print_category": "floral"
+  },
+  "3.jpg": {
+    "category": "bottoms",
+    "item_type": "skirt",
+    "primary_color": "black",
+    "usage": "casual",
+    "texture": "polyester",
+    "print_category": "floral"
+  },
+  "4.jpg": {
+    "category": "bottoms",
+    "item_type": "skirt",
+    "primary_color": "black",
+    "usage": "casual",
+    "texture": "polyester",
+    "print_category": "floral"
+  },
+  "5.jpg": {
+    "category": "bottoms",
+    "item_type": "skirt",
+    "primary_color": "light blue",
+    "usage": "casual",
+    "texture": "polyester",
+    "print_category": "floral"
+  },
+  "6.jpg": {
+    "category": "bottoms",
+    "item_type": "skirt",
+    "primary_color": "green",
+    "usage": "casual",
+    "texture": "polyester",
+    "print_category": "floral"
+  },
+  "7.jpg": {
+    "category": "bottoms",
+    "item_type": "skirt",
+    "primary_color": "green",
+    "usage": "casual",
+    "texture": "polyester",
+    "print_category": "floral"
+  },
+  "8.jpg": {
+    "category": "bottoms",
+    "item_type": "skirt",
+    "primary_color": "brown",
+    "usage": "casual",
+    "texture": "polyester",
+    "print_category": "floral"
+  }
+}

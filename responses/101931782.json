@@ -1,0 +1,82 @@
+{
+  "0.jpg": {
+    "category": "others",
+    "item_type": "multiple items",
+    "primary_color": null,
+    "usage": null,
+    "texture": null,
+    "print_category": null
+  },
+  "1.jpg": {
+    "category": "tops",
+    "item_type": "dress",
+    "primary_color": "beige",
+    "usage": "casual",
+    "texture": "silk",
+    "print_category": "floral"
+  },
+  "2.jpg": {
+    "category": "shoes",
+    "item_type": "sandals",
+    "primary_color": "beige",
+    "usage": "casual",
+    "texture": "leather",
+    "print_category": "plain"
+  },
+  "3.jpg": {
+    "category": "others",
+    "item_type": "earrings",
+    "primary_color": "silver",
+    "usage": null,
+    "texture": "metal",
+    "print_category": "plain"
+  },
+  "4.jpg": {
+    "category": "others",
+    "item_type": "hair clips",
+    "primary_color": "black",
+    "usage": null,
+    "texture": "plastic",
+    "print_category": "plain"
+  },
+  "5.jpg": {
+    "category": "others",
+    "item_type": "bath salts",
+    "primary_color": null,
+    "usage": null,
+    "texture": null,
+    "print_category": null
+  },
+  "6.jpg": {
+    "category": "others",
+    "item_type": "paint brushes",
+    "primary_color": null,
+    "usage": null,
+    "texture": null,
+    "print_category": null
+  },
+  "7.jpg": {
+    "category": "others",
+    "item_type": "candle",
+    "primary_color": "beige",
+    "usage": null,
+    "texture": null,
+    "print_category": "plain"
+  },
+  "8.jpg": {
+    "category": "others",
+    "item_type": "notebook",
+    "primary_color": "brown",
+    "usage": null,
+    "texture": "paper",
+    "print_category": "plain"
+  },
+  "9.jpg": {
+    "category": "others",
+    "item_type": "coffee cup",
+    "primary_color": "white",
+    "usage": null,
+    "texture": "paper",
+    "print_category": "plain"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "0.jpg": {
+    "category": "others",
+    "description": "This image contains multiple clothing items and accessories making it difficult to provide individual descriptions."
+  },
+  "1.jpg": {
+    "category": "tops",
+    "item_type": "blouse",
+    "primary_color": "coral",
+    "usage": "casual",
+    "texture": "polyester",
+    "print_category": "plain"
+  },
+  "2.jpg": {
+    "category": "bottoms",
+    "item_type": "jeans",
+    "primary_color": "dark blue",
+    "usage": "casual",
+    "texture": "denim",
+    "print_category": "plain"
+  },
+  "3.jpg": {
+    "category": "shoes",
+    "item_type": "sneakers",
+    "primary_color": "white",
+    "usage": "casual",
+    "texture": "canvas",
+    "print_category": "plain"
+  },
+  "4.jpg": {
+    "category": "others",
+    "description": "This image contains a set of rings, which are accessories rather than clothing."
+  },
+  "5.jpg": {
+    "category": "others",
+    "description": "This image contains a handbag, which is an accessory rather than clothing."
+  },
+  "6.jpg": {
+    "category": "others",
+    "description": "This image contains multiple unrelated items and is not suitable for clothing classification."
+  },
+  "7.jpg": {
+    "category": "others",
+    "description": "This image contains a person and does not show any clothing items that can be classified"
+  }
+}

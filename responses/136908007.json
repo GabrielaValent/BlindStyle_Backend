@@ -1,0 +1,71 @@
+{
+  "0.jpg": {
+    "category": "others"
+  },
+  "1.jpg": {
+    "category": "others"
+  },
+  "2.jpg": {
+    "category": "tops",
+    "item_type": "tshirt",
+    "primary_color": "gray",
+    "usage": "casual",
+    "texture": "cotton",
+    "print_category": "graphic"
+  },
+  "3.jpg": {
+    "category": "tops",
+    "item_type": "tank top",
+    "primary_color": "gray",
+    "usage": "casual",
+    "texture": "cotton",
+    "print_category": "graphic"
+  },
+  "4.jpg": {
+    "category": "bottoms",
+    "item_type": "shorts",
+    "primary_color": "gray",
+    "usage": "casual",
+    "texture": "cotton",
+    "print_category": "plain"
+  },
+  "5.jpg": {
+    "category": "bottoms",
+    "item_type": "shorts",
+    "primary_color": "black",
+    "usage": "casual",
+    "texture": "others",
+    "print_category": "plain"
+  },
+  "6.jpg": {
+    "category": "shoes",
+    "item_type": "boot",
+    "primary_color": "green",
+    "usage": "casual",
+    "texture": "suede",
+    "print_category": "plain"
+  },
+  "7.jpg": {
+    "category": "shoes",
+    "item_type": "boot",
+    "primary_color": "pink",
+    "usage": "casual",
+    "texture": "suede",
+    "print_category": "plain"
+  },
+  "8.jpg": {
+    "category": "others"
+  },
+  "9.jpg": {
+    "category": "others"
+  },
+  "10.jpg": {
+    "category": "others"
+  },
+  "11.jpg": {
+    "category": "others"
+  },
+  "12.jpg": {
+    "category": "others"
+  }
+}

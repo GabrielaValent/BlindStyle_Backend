@@ -1,0 +1,54 @@
+{
+  "0.jpg": {
+    "category": "others",
+    "description": "The image contains multiple clothing items and other elements, making it difficult to provide a single description"
+  },
+  "1.jpg": {
+    "category": "tops",
+    "item_type": "sweater",
+    "primary_color": "white",
+    "usage": "casual",
+    "texture": "knit",
+    "print_category": "plain"
+  },
+  "2.jpg": {
+    "category": "bottoms",
+    "item_type": "joggers",
+    "primary_color": "black",
+    "usage": "casual",
+    "texture": "others",
+    "print_category": "plain"
+  },
+  "3.jpg": {
+    "category": "shoes",
+    "item_type": "pumps",
+    "primary_color": "white",
+    "usage": "formal",
+    "texture": "mesh",
+    "print_category": "plain"
+  },
+  "4.jpg": {
+    "category": "others",
+    "description": "The image contains a handbag, which does not fall into the defined clothing categories."
+  },
+  "5.jpg": {
+    "category": "others",
+    "description": "The image shows a book, which does not fall into the defined clothing categories."
+  },
+  "6.jpg": {
+    "category": "others",
+    "description": "The image contains multiple decorative elements which does not fall into the defined clothing categories."
+  },
+  "7.jpg": {
+    "category": "others",
+    "description": "The image contains multiple clothing items and other elements, making it difficult to provide a single description"
+  },
+  "8.jpg": {
+    "category": "others",
+    "description": "The image contains text, which does not fall into the defined clothing categories."
+  },
+  "9.jpg": {
+    "category": "others",
+    "description": "The image contains text, which does not fall into the defined clothing categories."
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "0.jpg": {
+    "category": "others"
+  },
+  "1.jpg": {
+    "category": "tops",
+    "item_type": "dress",
+    "primary_color": "black",
+    "usage": "party",
+    "texture": "polyester",
+    "print_category": "plain"
+  },
+  "2.jpg": {
+    "category": "shoes",
+    "item_type": "high-heeled sandals",
+    "primary_color": "burgundy",
+    "usage": "party",
+    "texture": "suede",
+    "print_category": "animal"
+  },
+  "3.jpg": {
+    "category": "others"
+  },
+  "4.jpg": {
+    "category": "others"
+  },
+  "5.jpg": {
+    "category": "others"
+  },
+  "6.jpg": {
+    "category": "others"
+  },
+  "7.jpg": {
+    "category": "others"
+  },
+  "8.jpg": {
+    "category": "others"
+  },
+  "9.jpg": {
+    "category": "others"
+  },
+  "10.jpg": {
+    "category": "tops",
+    "item_type": "long-sleeve t-shirt",
+    "primary_color": "gray",
+    "usage": "casual",
+    "texture": "cotton",
+    "print_category": "striped"
+  }
+}

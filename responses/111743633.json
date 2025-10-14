@@ -1,0 +1,66 @@
+{
+  "0.jpg": {
+    "category": "others",
+    "item_type": null,
+    "primary_color": null,
+    "usage": null,
+    "texture": null,
+    "print_category": null
+  },
+  "1.jpg": {
+    "category": "tops",
+    "item_type": "shirt dress",
+    "primary_color": "white",
+    "usage": "casual",
+    "texture": "cotton",
+    "print_category": "plain"
+  },
+  "2.jpg": {
+    "category": "bottoms",
+    "item_type": "tights",
+    "primary_color": "black",
+    "usage": "casual",
+    "texture": "others",
+    "print_category": "striped"
+  },
+  "3.jpg": {
+    "category": "others",
+    "item_type": null,
+    "primary_color": null,
+    "usage": null,
+    "texture": null,
+    "print_category": null
+  },
+  "4.jpg": {
+    "category": "others",
+    "item_type": "beanie",
+    "primary_color": "pink",
+    "usage": "casual",
+    "texture": "knit",
+    "print_category": "logo"
+  },
+  "5.jpg": {
+    "category": "others",
+    "item_type": "bow tie",
+    "primary_color": "red",
+    "usage": "formal",
+    "texture": "cotton",
+    "print_category": "plain"
+  },
+  "6.jpg": {
+    "category": "shoes",
+    "item_type": "boots",
+    "primary_color": "black",
+    "usage": "casual",
+    "texture": "leather",
+    "print_category": "plain"
+  },
+  "7.jpg": {
+    "category": "others",
+    "item_type": null,
+    "primary_color": null,
+    "usage": null,
+    "texture": null,
+    "print_category": null
+  }
+}

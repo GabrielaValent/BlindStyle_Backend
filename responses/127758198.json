@@ -1,0 +1,136 @@
+{
+  "0.jpg": {
+    "category": "others",
+    "item_type": null,
+    "primary_color": null,
+    "usage": null,
+    "texture": null,
+    "print_category": null
+  },
+  "1.jpg": {
+    "category": "others",
+    "item_type": null,
+    "primary_color": null,
+    "usage": null,
+    "texture": null,
+    "print_category": null
+  },
+  "2.jpg": {
+    "category": "others",
+    "item_type": "rug",
+    "primary_color": "beige",
+    "usage": "home decor",
+    "texture": "wool",
+    "print_category": "abstract"
+  },
+  "3.jpg": {
+    "category": "others",
+    "item_type": "blanket",
+    "primary_color": "beige",
+    "usage": "home decor",
+    "texture": "wool",
+    "print_category": "abstract"
+  },
+  "4.jpg": {
+    "category": "others",
+    "item_type": "plates",
+    "primary_color": "brown",
+    "usage": "dining",
+    "texture": "wood",
+    "print_category": "plain"
+  },
+  "5.jpg": {
+    "category": "others",
+    "item_type": "tray",
+    "primary_color": "blue",
+    "usage": "home decor",
+    "texture": "others",
+    "print_category": "abstract"
+  },
+  "6.jpg": {
+    "category": "others",
+    "item_type": "mugs",
+    "primary_color": "blue",
+    "usage": "home decor",
+    "texture": "ceramic",
+    "print_category": [
+      "striped",
+      "plain"
+    ]
+  },
+  "7.jpg": {
+    "category": "others",
+    "item_type": "mugs",
+    "primary_color": "black",
+    "usage": "home decor",
+    "texture": "ceramic",
+    "print_category": [
+      "striped",
+      "plain"
+    ]
+  },
+  "8.jpg": {
+    "category": "others",
+    "item_type": "clock",
+    "primary_color": "black",
+    "usage": "home decor",
+    "texture": "others",
+    "print_category": "plain"
+  },
+  "9.jpg": {
+    "category": "others",
+    "item_type": "cushion",
+    "primary_color": "beige",
+    "usage": "home decor",
+    "texture": "cotton",
+    "print_category": "graphic"
+  },
+  "10.jpg": {
+    "category": "others",
+    "item_type": "plant pots",
+    "primary_color": "black",
+    "usage": "home decor",
+    "texture": "others",
+    "print_category": "plain"
+  },
+  "11.jpg": {
+    "category": "others",
+    "item_type": "chair",
+    "primary_color": "black",
+    "usage": "home decor",
+    "texture": "wood",
+    "print_category": "striped"
+  },
+  "12.jpg": {
+    "category": "others",
+    "item_type": null,
+    "primary_color": null,
+    "usage": null,
+    "texture": null,
+    "print_category": null
+  },
+  "13.jpg": {
+    "category": "shoes",
+    "item_type": "boots",
+    "primary_color": "black",
+    "usage": "casual",
+    "texture": "rubber",
+    "print_category": "plain"
+  },
+  "14.jpg": {
+    "category": "others",
+    "item_type": null,
+    "primary_color": null,
+    "usage": null,
+    "texture": null,
+    "print_category": null
+  },
+  "15.jpg": {
+    "category": "others",
+    "item_type": "pattern",
+    "primary_color": "black",
+    "usage": null,
+    "texture": null,
+    "print_category": "others"
+  }
+}

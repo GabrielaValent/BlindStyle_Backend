@@ -1,0 +1,90 @@
+{
+  "0.jpg": {
+    "category": "others",
+    "description": "This image contains multiple clothing items and cannot be classified into a single category."
+  },
+  "1.jpg": {
+    "category": "tops",
+    "item_type": "blouse",
+    "primary_color": "beige",
+    "usage": "casual",
+    "texture": "silk",
+    "print_category": "floral"
+  },
+  "2.jpg": {
+    "category": "tops",
+    "item_type": "blazer",
+    "primary_color": "beige",
+    "usage": "formal",
+    "texture": "linen",
+    "print_category": "plain"
+  },
+  "3.jpg": {
+    "category": "bottoms",
+    "item_type": "trousers",
+    "primary_color": "pink",
+    "usage": "casual",
+    "texture": "cotton",
+    "print_category": "plain"
+  },
+  "4.jpg": {
+    "category": "shoes",
+    "item_type": "pumps",
+    "primary_color": "beige",
+    "usage": "formal",
+    "texture": "leather",
+    "print_category": "plain"
+  },
+  "5.jpg": {
+    "category": "others",
+    "description": "This image contains a handbag, which is not included in the predefined categories."
+  },
+  "6.jpg": {
+    "category": "others",
+    "description": "This image contains a lipstick, which is not included in the predefined categories."
+  },
+  "7.jpg": {
+    "category": "others",
+    "description": "This image contains a book, which is not included in the predefined categories."
+  },
+  "8.jpg": {
+    "category": "others",
+    "description": "This image contains a plant, which is not included in the predefined categories."
+  },
+  "9.jpg": {
+    "category": "others",
+    "description": "This image contains a drink, which is not included in the predefined categories."
+  },
+  "10.jpg": {
+    "category": "others",
+    "description": "This image contains multiple clothing items and cannot be classified into a single category."
+  },
+  "11.jpg": {
+    "category": "others",
+    "description": "This image contains text, which is not included in the predefined categories."
+  },
+  "12.jpg": {
+    "category": "others",
+    "description": "This image contains a book, which is not included in the predefined categories."
+  },
+  "13.jpg": {
+    "category": "others",
+    "description": "This image contains text, which is not included in the predefined categories."
+  },
+  "14.jpg": {
+    "category": "others",
+    "description": "This image contains text, which is not included in the predefined categories."
+  },
+  "15.jpg": {
+    "category": "others",
+    "description": "This image contains a building, which is not included in the predefined categories."
+  },
+  "16.jpg": {
+    "category": "others",
+    "description": "This image contains multiple clothing items and cannot be classified into a single category."
+  },
+  "17.jpg": {
+    "category": "others",
+    "description": "This image contains text, which is not included in the predefined categories."
+  }
+}

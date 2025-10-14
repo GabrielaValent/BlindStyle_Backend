@@ -1,0 +1,46 @@
+{
+  "0.jpg": {
+    "category": "others"
+  },
+  "1.jpg": {
+    "category": "tops",
+    "item_type": "long-sleeve sweater",
+    "primary_color": "grey",
+    "usage": "casual",
+    "texture": "knit",
+    "print_category": "animal"
+  },
+  "2.jpg": {
+    "category": "tops",
+    "item_type": "jacket",
+    "primary_color": "green",
+    "usage": "outerwear",
+    "texture": "cotton",
+    "print_category": "plain"
+  },
+  "3.jpg": {
+    "category": "bottoms",
+    "item_type": "mini skirt",
+    "primary_color": "black",
+    "usage": "casual",
+    "texture": "velvet",
+    "print_category": "plain"
+  },
+  "4.jpg": {
+    "category": "others"
+  },
+  "5.jpg": {
+    "category": "others"
+  },
+  "6.jpg": {
+    "category": "shoes",
+    "item_type": "ankle boots",
+    "primary_color": "brown",
+    "usage": "casual",
+    "texture": "suede",
+    "print_category": "plain"
+  },
+  "7.jpg": {
+    "category": "others"
+  }
+}

@@ -1,0 +1,210 @@
+{
+  "0.jpg": {
+    "category": "others",
+    "item_type": "collage",
+    "primary_color": "beige",
+    "usage": null,
+    "texture": null,
+    "print_category": null
+  },
+  "1.jpg": {
+    "category": "others",
+    "item_type": "sofa",
+    "primary_color": "beige",
+    "usage": null,
+    "texture": "linen",
+    "print_category": "plain"
+  },
+  "2.jpg": {
+    "category": "others",
+    "item_type": "coffee table",
+    "primary_color": "brown",
+    "usage": null,
+    "texture": "wood",
+    "print_category": "plain"
+  },
+  "3.jpg": {
+    "category": "others",
+    "item_type": "side table",
+    "primary_color": "grey",
+    "usage": null,
+    "texture": "stone",
+    "print_category": "plain"
+  },
+  "4.jpg": {
+    "category": "others",
+    "item_type": "floor lamp",
+    "primary_color": "beige",
+    "usage": null,
+    "texture": "others",
+    "print_category": "plain"
+  },
+  "5.jpg": {
+    "category": "others",
+    "item_type": "pendant lamp",
+    "primary_color": "silver",
+    "usage": null,
+    "texture": "glass",
+    "print_category": "plain"
+  },
+  "6.jpg": {
+    "category": "others",
+    "item_type": "table lamp",
+    "primary_color": "white",
+    "usage": null,
+    "texture": "ceramic",
+    "print_category": "plain"
+  },
+  "7.jpg": {
+    "category": "others",
+    "item_type": "rug",
+    "primary_color": "grey",
+    "usage": null,
+    "texture": "fleece",
+    "print_category": "plain"
+  },
+  "8.jpg": {
+    "category": "others",
+    "item_type": "throw",
+    "primary_color": "grey",
+    "usage": null,
+    "texture": "velvet",
+    "print_category": "plain"
+  },
+  "9.jpg": {
+    "category": "others",
+    "item_type": "throw",
+    "primary_color": "beige",
+    "usage": null,
+    "texture": "fur",
+    "print_category": "animal"
+  },
+  "10.jpg": {
+    "category": "others",
+    "item_type": "plate",
+    "primary_color": "beige",
+    "usage": null,
+    "texture": "ceramic",
+    "print_category": "striped"
+  },
+  "11.jpg": {
+    "category": "others",
+    "item_type": "mug",
+    "primary_color": "white",
+    "usage": null,
+    "texture": "ceramic",
+    "print_category": "plain"
+  },
+  "12.jpg": {
+    "category": "others",
+    "item_type": "salt and pepper shakers",
+    "primary_color": "grey",
+    "usage": null,
+    "texture": "ceramic",
+    "print_category": "plain"
+  },
+  "13.jpg": {
+    "category": "others",
+    "item_type": "salt and pepper shakers",
+    "primary_color": "black",
+    "usage": null,
+    "texture": "ceramic",
+    "print_category": "abstract"
+  },
+  "14.jpg": {
+    "category": "others",
+    "item_type": "coffee cup and saucer",
+    "primary_color": "brown",
+    "usage": null,
+    "texture": "ceramic",
+    "print_category": "animal"
+  },
+  "15.jpg": {
+    "category": "others",
+    "item_type": "place card holder",
+    "primary_color": "silver",
+    "usage": null,
+    "texture": "metal",
+    "print_category": "plain"
+  },
+  "16.jpg": {
+    "category": "others",
+    "item_type": "wall decoration",
+    "primary_color": "white",
+    "usage": null,
+    "texture": "resin",
+    "print_category": "plain"
+  },
+  "17.jpg": {
+    "category": "others",
+    "item_type": "cushion",
+    "primary_color": "white",
+    "usage": null,
+    "texture": "fabric",
+    "print_category": "graphic"
+  },
+  "18.jpg": {
+    "category": "others",
+    "item_type": "sculpture",
+    "primary_color": "white",
+    "usage": null,
+    "texture": "resin",
+    "print_category": "plain"
+  },
+  "19.jpg": {
+    "category": "others",
+    "item_type": "cushion",
+    "primary_color": "beige",
+    "usage": null,
+    "texture": "linen",
+    "print_category": "animal"
+  },
+  "20.jpg": {
+    "category": "others",
+    "item_type": "rug",
+    "primary_color": "beige",
+    "usage": null,
+    "texture": "leather",
+    "print_category": "plain"
+  },
+  "21.jpg": {
+    "category": "others",
+    "item_type": "collage",
+    "primary_color": "beige",
+    "usage": null,
+    "texture": null,
+    "print_category": null
+  },
+  "22.jpg": {
+    "category": "others",
+    "item_type": "blank",
+    "primary_color": "white",
+    "usage": null,
+    "texture": null,
+    "print_category": null
+  },
+  "23.jpg": {
+    "category": "others",
+    "item_type": "image",
+    "primary_color": "white",
+    "usage": null,
+    "texture": null,
+    "print_category": null
+  },
+  "24.jpg": {
+    "category": "others",
+    "item_type": "blank",
+    "primary_color": "white",
+    "usage": null,
+    "texture": null,
+    "print_category": null
+  },
+  "25.jpg": {
+    "category": "others",
+    "item_type": "blank",
+    "primary_color": "black",
+    "usage": null,
+    "texture": null,
+    "print_category": null
+  }
+}

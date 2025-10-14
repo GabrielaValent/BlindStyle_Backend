@@ -1,0 +1,258 @@
+{
+  "0.jpg": {
+    "category": "others",
+    "item_type": "multiple items",
+    "primary_color": "purple",
+    "usage": null,
+    "texture": null,
+    "print_category": null
+  },
+  "1.jpg": {
+    "category": "others",
+    "item_type": "sofa",
+    "primary_color": "purple",
+    "usage": "casual",
+    "texture": "velvet",
+    "print_category": "plain"
+  },
+  "2.jpg": {
+    "category": "others",
+    "item_type": "chaise lounge",
+    "primary_color": "pink",
+    "usage": "casual",
+    "texture": "linen",
+    "print_category": "plain"
+  },
+  "3.jpg": {
+    "category": "others",
+    "item_type": "coffee table",
+    "primary_color": "gold",
+    "usage": null,
+    "texture": "metal",
+    "print_category": "plain"
+  },
+  "4.jpg": {
+    "category": "others",
+    "item_type": "chair",
+    "primary_color": "beige",
+    "usage": "casual",
+    "texture": "linen",
+    "print_category": "plain"
+  },
+  "5.jpg": {
+    "category": "others",
+    "item_type": "ottoman",
+    "primary_color": "beige",
+    "usage": "casual",
+    "texture": "linen",
+    "print_category": "plain"
+  },
+  "6.jpg": {
+    "category": "others",
+    "item_type": "table lamp",
+    "primary_color": "black",
+    "usage": null,
+    "texture": "glass",
+    "print_category": "plain"
+  },
+  "7.jpg": {
+    "category": "others",
+    "item_type": "pendant lamp",
+    "primary_color": "black",
+    "usage": null,
+    "texture": "metal",
+    "print_category": "plain"
+  },
+  "8.jpg": {
+    "category": "others",
+    "item_type": "rug",
+    "primary_color": "purple",
+    "usage": null,
+    "texture": "wool",
+    "print_category": "plain"
+  },
+  "9.jpg": {
+    "category": "others",
+    "item_type": "throw blanket",
+    "primary_color": "purple",
+    "usage": "casual",
+    "texture": "linen",
+    "print_category": "plain"
+  },
+  "10.jpg": {
+    "category": "others",
+    "item_type": "mirror",
+    "primary_color": "gold",
+    "usage": null,
+    "texture": "metal",
+    "print_category": "plain"
+  },
+  "11.jpg": {
+    "category": "others",
+    "item_type": "chandelier",
+    "primary_color": "pink",
+    "usage": null,
+    "texture": "metal",
+    "print_category": "plain"
+  },
+  "12.jpg": {
+    "category": "others",
+    "item_type": "cushion",
+    "primary_color": "purple",
+    "usage": "casual",
+    "texture": "silk",
+    "print_category": "abstract"
+  },
+  "13.jpg": {
+    "category": "others",
+    "item_type": "cushion",
+    "primary_color": "purple",
+    "usage": "casual",
+    "texture": "velvet",
+    "print_category": "plain"
+  },
+  "14.jpg": {
+    "category": "others",
+    "item_type": "decorative bottles",
+    "primary_color": "purple",
+    "usage": null,
+    "texture": "glass",
+    "print_category": "plain"
+  },
+  "15.jpg": {
+    "category": "others",
+    "item_type": "cushion",
+    "primary_color": "pink",
+    "usage": "casual",
+    "texture": "velvet",
+    "print_category": "plain"
+  },
+  "16.jpg": {
+    "category": "others",
+    "item_type": "cushion",
+    "primary_color": "purple",
+    "usage": "casual",
+    "texture": "silk",
+    "print_category": "plain"
+  },
+  "17.jpg": {
+    "category": "others",
+    "item_type": "cushion",
+    "primary_color": "purple",
+    "usage": "casual",
+    "texture": "cotton",
+    "print_category": "floral"
+  },
+  "18.jpg": {
+    "category": "others",
+    "item_type": "cushion",
+    "primary_color": "purple",
+    "usage": "casual",
+    "texture": "silk",
+    "print_category": "plain"
+  },
+  "19.jpg": {
+    "category": "others",
+    "item_type": "flowers",
+    "primary_color": "pink",
+    "usage": null,
+    "texture": null,
+    "print_category": null
+  },
+  "20.jpg": {
+    "category": "others",
+    "item_type": "clock",
+    "primary_color": "gold",
+    "usage": null,
+    "texture": "metal",
+    "print_category": "plain"
+  },
+  "21.jpg": {
+    "category": "others",
+    "item_type": "telephone",
+    "primary_color": "black",
+    "usage": null,
+    "texture": "metal",
+    "print_category": "plain"
+  },
+  "22.jpg": {
+    "category": "others",
+    "item_type": "candlestick",
+    "primary_color": "black",
+    "usage": null,
+    "texture": "glass",
+    "print_category": "plain"
+  },
+  "23.jpg": {
+    "category": "others",
+    "item_type": "flowers",
+    "primary_color": "pink",
+    "usage": null,
+    "texture": null,
+    "print_category": null
+  },
+  "24.jpg": {
+    "category": "others",
+    "item_type": "candlestick",
+    "primary_color": "black",
+    "usage": null,
+    "texture": "glass",
+    "print_category": "plain"
+  },
+  "25.jpg": {
+    "category": "others",
+    "item_type": "side table",
+    "primary_color": "black",
+    "usage": null,
+    "texture": "metal",
+    "print_category": "plain"
+  },
+  "26.jpg": {
+    "category": "others",
+    "item_type": "text",
+    "primary_color": "black",
+    "usage": null,
+    "texture": null,
+    "print_category": null
+  },
+  "27.jpg": {
+    "category": "others",
+    "item_type": "text",
+    "primary_color": "black",
+    "usage": null,
+    "texture": null,
+    "print_category": null
+  },
+  "28.jpg": {
+    "category": "others",
+    "item_type": "text",
+    "primary_color": "black",
+    "usage": null,
+    "texture": null,
+    "print_category": null
+  },
+  "29.jpg": {
+    "category": "others",
+    "item_type": "multiple items",
+    "primary_color": "purple",
+    "usage": null,
+    "texture": null,
+    "print_category": null
+  },
+  "30.jpg": {
+    "category": "others",
+    "item_type": "multiple items",
+    "primary_color": "purple",
+    "usage": null,
+    "texture": null,
+    "print_category": null
+  },
+  "31.jpg": {
+    "category": "others",
+    "item_type": "text",
+    "primary_color": "black",
+    "usage": null,
+    "texture": null,
+    "print_category": null
+  }
+}

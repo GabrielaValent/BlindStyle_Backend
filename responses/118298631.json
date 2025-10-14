@@ -1,0 +1,34 @@
+{
+  "0.jpg": {
+    "category": "others",
+    "description": "The image contains multiple clothing items and accessories, making it difficult to provide a single item description."
+  },
+  "1.jpg": {
+    "category": "tops",
+    "item_type": "dress",
+    "primary_color": "pale yellow",
+    "usage": "party",
+    "texture": "cotton",
+    "print_category": "plain"
+  },
+  "2.jpg": {
+    "category": "others",
+    "description": "The image contains a necklace, which is considered an accessory and not a clothing item."
+  },
+  "3.jpg": {
+    "category": "others",
+    "description": "The image contains a pair of earrings, which are considered accessories and not clothing items."
+  },
+  "4.jpg": {
+    "category": "others",
+    "description": "The image contains a belt, which is considered an accessory and not a clothing item."
+  },
+  "5.jpg": {
+    "category": "others",
+    "description": "The image contains a wig, which is not a clothing item."
+  },
+  "6.jpg": {
+    "category": "others",
+    "description": "The image contains multiple clothing items and a person, making it difficult to provide a single item description."
+  }
+}

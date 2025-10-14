@@ -1,0 +1,38 @@
+{
+  "0.jpg": {
+    "category": "others",
+    "note": "The image contains multiple clothing items and other elements."
+  },
+  "1.jpg": {
+    "category": "tops",
+    "item_type": "sweater",
+    "primary_color": "beige",
+    "usage": "casual",
+    "texture": "knit",
+    "print_category": "plain"
+  },
+  "2.jpg": {
+    "category": "bottoms",
+    "item_type": "jeans",
+    "primary_color": "blue",
+    "usage": "casual",
+    "texture": "denim",
+    "print_category": "plain"
+  },
+  "3.jpg": {
+    "category": "shoes",
+    "item_type": "boots",
+    "primary_color": "beige",
+    "usage": "casual",
+    "texture": "suede",
+    "print_category": "plain"
+  },
+  "4.jpg": {
+    "category": "others",
+    "note": "The image contains an accessory (handbag)."
+  },
+  "5.jpg": {
+    "category": "others",
+    "note": "The image contains a person's hair; it is not a clothing item."
+  }
+}

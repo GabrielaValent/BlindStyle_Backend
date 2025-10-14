@@ -1,0 +1,54 @@
+{
+  "0.jpg": {
+    "category": "others"
+  },
+  "1.jpg": {
+    "category": "tops",
+    "item_type": "crop top",
+    "primary_color": "red",
+    "usage": "party",
+    "texture": "others",
+    "print_category": "plain"
+  },
+  "2.jpg": {
+    "category": "tops",
+    "item_type": "tshirt",
+    "primary_color": "multicolored",
+    "usage": "casual",
+    "texture": "others",
+    "print_category": "abstract"
+  },
+  "3.jpg": {
+    "category": "tops",
+    "item_type": "tank top",
+    "primary_color": "red",
+    "usage": "sportswear",
+    "texture": "others",
+    "print_category": "plain"
+  },
+  "4.jpg": {
+    "category": "others"
+  },
+  "5.jpg": {
+    "category": "bottoms",
+    "item_type": "pants",
+    "primary_color": "black and white",
+    "usage": "casual",
+    "texture": "denim",
+    "print_category": "striped"
+  },
+  "6.jpg": {
+    "category": "others"
+  },
+  "7.jpg": {
+    "category": "tops",
+    "item_type": "tank top",
+    "primary_color": "black",
+    "usage": "casual",
+    "texture": "others",
+    "print_category": "plain"
+  },
+  "8.jpg": {
+    "category": "others"
+  }
+}

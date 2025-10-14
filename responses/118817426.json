@@ -1,0 +1,138 @@
+{
+  "0.jpg": {
+    "category": "others",
+    "item_type": null,
+    "primary_color": null,
+    "usage": null,
+    "texture": null,
+    "print_category": null
+  },
+  "1.jpg": {
+    "category": "others",
+    "item_type": "gym bag",
+    "primary_color": "pink",
+    "usage": "sportswear",
+    "texture": "nylon",
+    "print_category": "logo"
+  },
+  "2.jpg": {
+    "category": "others",
+    "item_type": "towel",
+    "primary_color": "black",
+    "usage": "sportswear",
+    "texture": "cotton",
+    "print_category": "graphic"
+  },
+  "3.jpg": {
+    "category": "others",
+    "item_type": "water bottle",
+    "primary_color": "clear",
+    "usage": null,
+    "texture": "plastic",
+    "print_category": "plain"
+  },
+  "4.jpg": {
+    "category": "others",
+    "item_type": "treadmill",
+    "primary_color": "grey",
+    "usage": null,
+    "texture": "others",
+    "print_category": "plain"
+  },
+  "5.jpg": {
+    "category": "others",
+    "item_type": "boxing gloves",
+    "primary_color": "pink",
+    "usage": "sportswear",
+    "texture": "leather",
+    "print_category": "logo"
+  },
+  "6.jpg": {
+    "category": "others",
+    "item_type": "socks and roller skates",
+    "primary_color": "pink",
+    "usage": "sportswear",
+    "texture": "others",
+    "print_category": "plain"
+  },
+  "7.jpg": {
+    "category": "others",
+    "item_type": null,
+    "primary_color": null,
+    "usage": null,
+    "texture": null,
+    "print_category": null
+  },
+  "8.jpg": {
+    "category": "others",
+    "item_type": null,
+    "primary_color": null,
+    "usage": null,
+    "texture": null,
+    "print_category": null
+  },
+  "9.jpg": {
+    "category": "others",
+    "item_type": "towel",
+    "primary_color": "purple",
+    "usage": "sleepwear",
+    "texture": "cotton",
+    "print_category": "plain"
+  },
+  "10.jpg": {
+    "category": "others",
+    "item_type": "radio",
+    "primary_color": "yellow",
+    "usage": null,
+    "texture": "others",
+    "print_category": "plain"
+  },
+  "11.jpg": {
+    "category": "others",
+    "item_type": "jump rope",
+    "primary_color": "pink",
+    "usage": "sportswear",
+    "texture": "plastic",
+    "print_category": "striped"
+  },
+  "12.jpg": {
+    "category": "others",
+    "item_type": "dumbbells",
+    "primary_color": "pink",
+    "usage": "sportswear",
+    "texture": "others",
+    "print_category": "logo"
+  },
+  "13.jpg": {
+    "category": "others",
+    "item_type": null,
+    "primary_color": null,
+    "usage": null,
+    "texture": null,
+    "print_category": null
+  },
+  "14.jpg": {
+    "category": "others",
+    "item_type": null,
+    "primary_color": null,
+    "usage": null,
+    "texture": null,
+    "print_category": null
+  },
+  "15.jpg": {
+    "category": "others",
+    "item_type": null,
+    "primary_color": null,
+    "usage": null,
+    "texture": null,
+    "print_category": null
+  },
+  "16.jpg": {
+    "category": "others",
+    "item_type": null,
+    "primary_color": null,
+    "usage": null,
+    "texture": null,
+    "print_category": null
+  }
+}

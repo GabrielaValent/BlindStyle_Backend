@@ -1,0 +1,234 @@
+{
+  "0.jpg": {
+    "category": "others",
+    "item_type": "bedroom scene",
+    "primary_color": "null",
+    "usage": "null",
+    "texture": "null",
+    "print_category": "null"
+  },
+  "1.jpg": {
+    "category": "others",
+    "item_type": "bed",
+    "primary_color": "beige",
+    "usage": "null",
+    "texture": "null",
+    "print_category": "null"
+  },
+  "2.jpg": {
+    "category": "others",
+    "item_type": "nightstand",
+    "primary_color": "off-white",
+    "usage": "null",
+    "texture": "null",
+    "print_category": "null"
+  },
+  "3.jpg": {
+    "category": "others",
+    "item_type": "shelves",
+    "primary_color": "brown",
+    "usage": "null",
+    "texture": "wood",
+    "print_category": "plain"
+  },
+  "4.jpg": {
+    "category": "others",
+    "item_type": "table",
+    "primary_color": "bronze",
+    "usage": "null",
+    "texture": "others",
+    "print_category": "plain"
+  },
+  "5.jpg": {
+    "category": "others",
+    "item_type": "rug",
+    "primary_color": "purple",
+    "usage": "null",
+    "texture": "wool",
+    "print_category": "abstract"
+  },
+  "6.jpg": {
+    "category": "others",
+    "item_type": "rug",
+    "primary_color": "white",
+    "usage": "null",
+    "texture": "others",
+    "print_category": "plain"
+  },
+  "7.jpg": {
+    "category": "others",
+    "item_type": "rug",
+    "primary_color": "beige",
+    "usage": "null",
+    "texture": "others",
+    "print_category": "plain"
+  },
+  "8.jpg": {
+    "category": "others",
+    "item_type": "throw",
+    "primary_color": "purple",
+    "usage": "casual",
+    "texture": "wool",
+    "print_category": "plaid"
+  },
+  "9.jpg": {
+    "category": "others",
+    "item_type": "pillow",
+    "primary_color": "coral",
+    "usage": "sleepwear",
+    "texture": "velvet",
+    "print_category": "plain"
+  },
+  "10.jpg": {
+    "category": "others",
+    "item_type": "throw",
+    "primary_color": "purple",
+    "usage": "casual",
+    "texture": "cotton",
+    "print_category": "plain"
+  },
+  "11.jpg": {
+    "category": "others",
+    "item_type": "curtains",
+    "primary_color": "beige",
+    "usage": "null",
+    "texture": "linen",
+    "print_category": "plain"
+  },
+  "12.jpg": {
+    "category": "others",
+    "item_type": "baskets",
+    "primary_color": "purple",
+    "usage": "null",
+    "texture": "others",
+    "print_category": "striped"
+  },
+  "13.jpg": {
+    "category": "others",
+    "item_type": "artwork",
+    "primary_color": "blue",
+    "usage": "null",
+    "texture": "null",
+    "print_category": "plain"
+  },
+  "14.jpg": {
+    "category": "others",
+    "item_type": "books",
+    "primary_color": "purple",
+    "usage": "null",
+    "texture": "null",
+    "print_category": "plain"
+  },
+  "15.jpg": {
+    "category": "others",
+    "item_type": "plant",
+    "primary_color": "purple",
+    "usage": "null",
+    "texture": "null",
+    "print_category": "null"
+  },
+  "16.jpg": {
+    "category": "others",
+    "item_type": "candle holder",
+    "primary_color": "purple",
+    "usage": "null",
+    "texture": "glass",
+    "print_category": "plain"
+  },
+  "17.jpg": {
+    "category": "tops",
+    "item_type": "pajama top",
+    "primary_color": "light purple",
+    "usage": "sleepwear",
+    "texture": "silk",
+    "print_category": "plain"
+  },
+  "18.jpg": {
+    "category": "others",
+    "item_type": "fabric swatch",
+    "primary_color": "grey",
+    "usage": "null",
+    "texture": "others",
+    "print_category": "abstract"
+  },
+  "19.jpg": {
+    "category": "others",
+    "item_type": "pillow",
+    "primary_color": "beige",
+    "usage": "casual",
+    "texture": "linen",
+    "print_category": "plain"
+  },
+  "20.jpg": {
+    "category": "others",
+    "item_type": "wall art",
+    "primary_color": "brown",
+    "usage": "null",
+    "texture": "metal",
+    "print_category": "null"
+  },
+  "21.jpg": {
+    "category": "others",
+    "item_type": "chair",
+    "primary_color": "taupe",
+    "usage": "null",
+    "texture": "velvet",
+    "print_category": "plain"
+  },
+  "22.jpg": {
+    "category": "others",
+    "item_type": "chair",
+    "primary_color": "taupe",
+    "usage": "null",
+    "texture": "velvet",
+    "print_category": "plain"
+  },
+  "23.jpg": {
+    "category": "others",
+    "item_type": "wall lamp",
+    "primary_color": "coral",
+    "usage": "null",
+    "texture": "glass",
+    "print_category": "plain"
+  },
+  "24.jpg": {
+    "category": "others",
+    "item_type": "sculpture",
+    "primary_color": "brown",
+    "usage": "null",
+    "texture": "wood",
+    "print_category": "plain"
+  },
+  "25.jpg": {
+    "category": "others",
+    "item_type": "flowers",
+    "primary_color": "coral",
+    "usage": "null",
+    "texture": "null",
+    "print_category": "null"
+  },
+  "26.jpg": {
+    "category": "others",
+    "item_type": "cat",
+    "primary_color": "grey",
+    "usage": "null",
+    "texture": "fur",
+    "print_category": "striped"
+  },
+  "27.jpg": {
+    "category": "others",
+    "item_type": "cat",
+    "primary_color": "orange",
+    "usage": "null",
+    "texture": "fur",
+    "print_category": "plain"
+  },
+  "28.jpg": {
+    "category": "others",
+    "item_type": "wall panel",
+    "primary_color": "white",
+    "usage": "null",
+    "texture": "others",
+    "print_category": "plain"
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "0.jpg": {
+    "category": "others",
+    "note": "Multiple clothing items and accessories are present in this collage."
+  },
+  "1.jpg": {
+    "category": "tops",
+    "item_type": "crop top",
+    "primary_color": "white",
+    "usage": "casual",
+    "texture": "cotton",
+    "print_category": "graphic"
+  },
+  "2.jpg": {
+    "category": "bottoms",
+    "item_type": "shorts",
+    "primary_color": "white",
+    "usage": "casual",
+    "texture": "knit",
+    "print_category": "plain"
+  },
+  "3.jpg": {
+    "category": "bottoms",
+    "item_type": "bikini bottoms",
+    "primary_color": "navy blue",
+    "usage": "swimwear",
+    "texture": "knit",
+    "print_category": "striped"
+  },
+  "4.jpg": {
+    "category": "tops",
+    "item_type": "bikini top",
+    "primary_color": "navy blue",
+    "usage": "swimwear",
+    "texture": "knit",
+    "print_category": "striped"
+  },
+  "5.jpg": {
+    "category": "shoes",
+    "item_type": "espadrilles",
+    "primary_color": "white",
+    "usage": "casual",
+    "texture": "leather",
+    "print_category": "logo"
+  },
+  "6.jpg": {
+    "category": "others",
+    "note": "This is a bag, not clothing."
+  },
+  "7.jpg": {
+    "category": "others",
+    "note": "This is a bracelet, not clothing."
+  },
+  "8.jpg": {
+    "category": "others",
+    "note": "This image contains furniture and accessories, not clothing."
+  },
+  "9.jpg": {
+    "category": "others",
+    "note": "This image contains home decor items, not clothing."
+  },
+  "10.jpg": {
+    "category": "others",
+    "note": "This is a phone case, not clothing."
+  },
+  "11.jpg": {
+    "category": "tops",
+    "item_type": "crop top",
+    "primary_color": "white",
+    "usage": "casual",
+    "texture": "cotton",
+    "print_category": "logo"
+  },
+  "12.jpg": {
+    "category": "others",
+    "note": "This is text, not clothing."
+  }
+}

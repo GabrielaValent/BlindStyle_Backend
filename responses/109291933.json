@@ -1,0 +1,66 @@
+{
+  "0.jpg": {
+    "category": "others",
+    "description": "This image contains multiple clothing items and accessories, making it difficult to provide individual classifications."
+  },
+  "1.jpg": {
+    "category": "tops",
+    "item_type": "tank top",
+    "primary_color": "brown",
+    "usage": "casual",
+    "texture": "knit",
+    "print_category": "plain"
+  },
+  "2.jpg": {
+    "category": "tops",
+    "item_type": "camisole",
+    "primary_color": "beige",
+    "usage": "casual",
+    "texture": "cotton",
+    "print_category": "plain"
+  },
+  "3.jpg": {
+    "category": "tops",
+    "item_type": "jacket",
+    "primary_color": "olive green",
+    "usage": "casual",
+    "texture": "cotton",
+    "print_category": "plain"
+  },
+  "4.jpg": {
+    "category": "tops",
+    "item_type": "jacket",
+    "primary_color": "olive green",
+    "usage": "casual",
+    "texture": "polyester",
+    "print_category": "plain"
+  },
+  "5.jpg": {
+    "category": "bottoms",
+    "item_type": "cargo pants",
+    "primary_color": "olive green",
+    "usage": "casual",
+    "texture": "cotton",
+    "print_category": "plain"
+  },
+  "6.jpg": {
+    "category": "shoes",
+    "item_type": "boots",
+    "primary_color": "brown",
+    "usage": "casual",
+    "texture": "leather",
+    "print_category": "plain"
+  },
+  "7.jpg": {
+    "category": "others",
+    "description": "This is an accessory (sling bag), not a clothing item."
+  },
+  "8.jpg": {
+    "category": "others",
+    "description": "This image contains a person, not a clothing item."
+  },
+  "9.jpg": {
+    "category": "others",
+    "description": "This image contains multiple clothing items and a person, making it difficult to provide individual classifications."
+  }
+}

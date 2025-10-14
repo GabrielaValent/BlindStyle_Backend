@@ -1,0 +1,106 @@
+{
+  "0.jpg": {
+    "category": "others",
+    "description": "This image contains multiple clothing items and other objects, making it difficult to classify each individually."
+  },
+  "1.jpg": {
+    "category": "tops",
+    "item_type": "sweater",
+    "primary_color": "burgundy",
+    "usage": "casual",
+    "texture": "knit",
+    "print_category": "plain"
+  },
+  "2.jpg": {
+    "category": "bottoms",
+    "item_type": "jeans",
+    "primary_color": "light blue",
+    "usage": "casual",
+    "texture": "denim",
+    "print_category": "plain"
+  },
+  "3.jpg": {
+    "category": "shoes",
+    "item_type": "boots",
+    "primary_color": "black",
+    "usage": "casual",
+    "texture": "leather",
+    "print_category": "plain"
+  },
+  "4.jpg": {
+    "category": "others",
+    "description": "This is a handbag, not directly classified as tops, bottoms, or shoes."
+  },
+  "5.jpg": {
+    "category": "others",
+    "description": "This is a ring, not directly classified as tops, bottoms, or shoes."
+  },
+  "6.jpg": {
+    "category": "others",
+    "description": "These are earrings, not directly classified as tops, bottoms, or shoes."
+  },
+  "7.jpg": {
+    "category": "others",
+    "description": "This is a hat, not directly classified as tops, bottoms, or shoes."
+  },
+  "8.jpg": {
+    "category": "others",
+    "description": "These are sunglasses, not directly classified as tops, bottoms, or shoes."
+  },
+  "9.jpg": {
+    "category": "others",
+    "description": "This is a perfume bottle, not directly classified as tops, bottoms, or shoes."
+  },
+  "10.jpg": {
+    "category": "others",
+    "description": "This is nail polish, not directly classified as tops, bottoms, or shoes."
+  },
+  "11.jpg": {
+    "category": "others",
+    "description": "This appears to be wall art, not clothing or shoes."
+  },
+  "12.jpg": {
+    "category": "others",
+    "description": "These are books, not clothing or shoes."
+  },
+  "13.jpg": {
+    "category": "others",
+    "description": "This is a wallet, not directly classified as tops, bottoms, or shoes."
+  },
+  "14.jpg": {
+    "category": "others",
+    "description": "This image shows a hairstyle, not clothing or shoes."
+  },
+  "15.jpg": {
+    "category": "others",
+    "description": "These are chocolate-covered pretzels, not clothing or shoes."
+  },
+  "16.jpg": {
+    "category": "others",
+    "description": "This image contains multiple pictures of a person, not a clothing item."
+  },
+  "17.jpg": {
+    "category": "others",
+    "description": "This image contains multiple people and it's difficult to classify individual clothing items."
+  },
+  "18.jpg": {
+    "category": "others",
+    "description": "This is a cup of hot chocolate, not clothing or shoes."
+  },
+  "19.jpg": {
+    "category": "others",
+    "description": "This is an illustration of cats, not clothing or shoes."
+  },
+  "20.jpg": {
+    "category": "others",
+    "description": "This is text art, not clothing or shoes."
+  },
+  "21.jpg": {
+    "category": "others",
+    "description": "This image contains multiple cameras, not clothing or shoes."
+  },
+  "22.jpg": {
+    "category": "others",
+    "description": "This is a piece of blueberry cake, not clothing or shoes."
+  }
+}

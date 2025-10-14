@@ -1,0 +1,58 @@
+{
+  "0.jpg": {
+    "category": "others",
+    "description": "This image contains multiple clothing items and accessories, making it difficult to provide individual descriptions."
+  },
+  "1.jpg": {
+    "category": "tops",
+    "item_type": "cowl neck top",
+    "primary_color": "mint green",
+    "usage": "casual",
+    "texture": "knit",
+    "print_category": "plain"
+  },
+  "2.jpg": {
+    "category": "tops",
+    "item_type": "denim jacket",
+    "primary_color": "dark blue",
+    "usage": "casual",
+    "texture": "denim",
+    "print_category": "plain"
+  },
+  "3.jpg": {
+    "category": "bottoms",
+    "item_type": "skater skirt",
+    "primary_color": "light pink",
+    "usage": "casual",
+    "texture": "cotton",
+    "print_category": "plain"
+  },
+  "4.jpg": {
+    "category": "shoes",
+    "item_type": "high-top sneakers",
+    "primary_color": "pink",
+    "usage": "casual",
+    "texture": "leather",
+    "print_category": "plain"
+  },
+  "5.jpg": {
+    "category": "others",
+    "description": "This image contains a necklace which is classified as 'others'."
+  },
+  "6.jpg": {
+    "category": "others",
+    "description": "This image contains a wig, which is classified as 'others'."
+  },
+  "7.jpg": {
+    "category": "others",
+    "description": "This image contains a person, and it's difficult to extract clothing information."
+  },
+  "8.jpg": {
+    "category": "others",
+    "description": "This image contains text only, it's not an image of clothing."
+  },
+  "9.jpg": {
+    "category": "others",
+    "description": "This image contains multiple outfits, making it difficult to provide individual descriptions."
+  }
+}

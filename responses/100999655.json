@@ -1,0 +1,178 @@
+{
+  "0.jpg": {
+    "category": "others",
+    "item_type": null,
+    "primary_color": null,
+    "usage": null,
+    "texture": null,
+    "print_category": null
+  },
+  "1.jpg": {
+    "category": "others",
+    "item_type": "ottoman",
+    "primary_color": "pink",
+    "usage": "casual",
+    "texture": "cotton",
+    "print_category": "striped"
+  },
+  "2.jpg": {
+    "category": "others",
+    "item_type": "shower curtain",
+    "primary_color": null,
+    "usage": "home decor",
+    "texture": "cotton",
+    "print_category": [
+      "floral",
+      "plain"
+    ]
+  },
+  "3.jpg": {
+    "category": "others",
+    "item_type": "throw blanket",
+    "primary_color": [
+      "red",
+      "navy"
+    ],
+    "usage": "home decor",
+    "texture": "wool",
+    "print_category": [
+      "plaid",
+      "striped"
+    ]
+  },
+  "4.jpg": {
+    "category": "others",
+    "item_type": "planner",
+    "primary_color": "pink",
+    "usage": "office supplies",
+    "texture": "others",
+    "print_category": [
+      "floral",
+      "animal"
+    ]
+  },
+  "5.jpg": {
+    "category": "others",
+    "item_type": "picture frame",
+    "primary_color": [
+      "pink",
+      "orange"
+    ],
+    "usage": "home decor",
+    "texture": "others",
+    "print_category": "striped"
+  },
+  "6.jpg": {
+    "category": "others",
+    "item_type": "tray",
+    "primary_color": "light blue",
+    "usage": "home decor",
+    "texture": "others",
+    "print_category": "abstract"
+  },
+  "7.jpg": {
+    "category": "others",
+    "item_type": "candle",
+    "primary_color": "white",
+    "usage": "home decor",
+    "texture": "others",
+    "print_category": "plain"
+  },
+  "8.jpg": {
+    "category": "others",
+    "item_type": "candle",
+    "primary_color": "white",
+    "usage": "home decor",
+    "texture": "others",
+    "print_category": "floral"
+  },
+  "9.jpg": {
+    "category": "others",
+    "item_type": "door knocker",
+    "primary_color": "gold",
+    "usage": "home decor",
+    "texture": "others",
+    "print_category": "plain"
+  },
+  "10.jpg": {
+    "category": "others",
+    "item_type": "lampshade",
+    "primary_color": [
+      "brown",
+      "white"
+    ],
+    "usage": "home decor",
+    "texture": "linen",
+    "print_category": "striped"
+  },
+  "11.jpg": {
+    "category": "others",
+    "item_type": "baskets",
+    "primary_color": [
+      "black",
+      "yellow"
+    ],
+    "usage": "home decor",
+    "texture": "others",
+    "print_category": "striped"
+  },
+  "12.jpg": {
+    "category": "others",
+    "item_type": "pillow",
+    "primary_color": [
+      "teal",
+      "pink"
+    ],
+    "usage": "home decor",
+    "texture": "cotton",
+    "print_category": "abstract"
+  },
+  "13.jpg": {
+    "category": "others",
+    "item_type": null,
+    "primary_color": null,
+    "usage": null,
+    "texture": null,
+    "print_category": null
+  },
+  "14.jpg": {
+    "category": "others",
+    "item_type": "bow tie",
+    "primary_color": "light blue",
+    "usage": "formal",
+    "texture": "others",
+    "print_category": "plain"
+  },
+  "15.jpg": {
+    "category": "others",
+    "item_type": null,
+    "primary_color": null,
+    "usage": null,
+    "texture": null,
+    "print_category": null
+  },
+  "16.jpg": {
+    "category": "others",
+    "item_type": "pillow",
+    "primary_color": "beige",
+    "usage": "home decor",
+    "texture": "linen",
+    "print_category": "striped"
+  },
+  "17.jpg": {
+    "category": "others",
+    "item_type": null,
+    "primary_color": null,
+    "usage": null,
+    "texture": null,
+    "print_category": null
+  },
+  "18.jpg": {
+    "category": "others",
+    "item_type": "print",
+    "primary_color": "black",
+    "usage": "home decor",
+    "texture": "others",
+    "print_category": "plain"
+  }
+}

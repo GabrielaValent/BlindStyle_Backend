@@ -1,0 +1,226 @@
+{
+  "0.jpg": {
+    "category": "others",
+    "item_type": "room scene",
+    "primary_color": "null",
+    "usage": "null",
+    "texture": "null",
+    "print_category": "null"
+  },
+  "1.jpg": {
+    "category": "others",
+    "item_type": "sofa",
+    "primary_color": "brown",
+    "usage": "null",
+    "texture": "leather",
+    "print_category": "plain"
+  },
+  "2.jpg": {
+    "category": "others",
+    "item_type": "bookshelf",
+    "primary_color": "grey",
+    "usage": "null",
+    "texture": "wood",
+    "print_category": "plain"
+  },
+  "3.jpg": {
+    "category": "others",
+    "item_type": "armchair",
+    "primary_color": "blue",
+    "usage": "null",
+    "texture": "linen",
+    "print_category": "plain"
+  },
+  "4.jpg": {
+    "category": "others",
+    "item_type": "console table",
+    "primary_color": "blue",
+    "usage": "null",
+    "texture": "wood",
+    "print_category": "plain"
+  },
+  "5.jpg": {
+    "category": "others",
+    "item_type": "nightstand",
+    "primary_color": "brown",
+    "usage": "null",
+    "texture": "wood",
+    "print_category": "plain"
+  },
+  "6.jpg": {
+    "category": "others",
+    "item_type": "ottoman",
+    "primary_color": "beige",
+    "usage": "null",
+    "texture": "others",
+    "print_category": "plain"
+  },
+  "7.jpg": {
+    "category": "others",
+    "item_type": "floor lamp",
+    "primary_color": "beige",
+    "usage": "null",
+    "texture": "wood",
+    "print_category": "plain"
+  },
+  "8.jpg": {
+    "category": "others",
+    "item_type": "table lamp",
+    "primary_color": "brown",
+    "usage": "null",
+    "texture": "ceramic",
+    "print_category": "floral"
+  },
+  "9.jpg": {
+    "category": "others",
+    "item_type": "table lamp",
+    "primary_color": "light green",
+    "usage": "null",
+    "texture": "ceramic",
+    "print_category": "plain"
+  },
+  "10.jpg": {
+    "category": "others",
+    "item_type": "rug",
+    "primary_color": "blue",
+    "usage": "null",
+    "texture": "wool",
+    "print_category": "abstract"
+  },
+  "11.jpg": {
+    "category": "others",
+    "item_type": "throw",
+    "primary_color": "beige",
+    "usage": "null",
+    "texture": "knit",
+    "print_category": "plain"
+  },
+  "12.jpg": {
+    "category": "others",
+    "item_type": "pot",
+    "primary_color": "orange",
+    "usage": "null",
+    "texture": "ceramic",
+    "print_category": "floral"
+  },
+  "13.jpg": {
+    "category": "others",
+    "item_type": "pot",
+    "primary_color": "brown",
+    "usage": "null",
+    "texture": "ceramic",
+    "print_category": "abstract"
+  },
+  "14.jpg": {
+    "category": "others",
+    "item_type": "monogram",
+    "primary_color": "off-white",
+    "usage": "null",
+    "texture": "wood",
+    "print_category": "plain"
+  },
+  "15.jpg": {
+    "category": "others",
+    "item_type": "mirror",
+    "primary_color": "beige",
+    "usage": "null",
+    "texture": "wicker",
+    "print_category": "plain"
+  },
+  "16.jpg": {
+    "category": "others",
+    "item_type": "boxes",
+    "primary_color": "brown",
+    "usage": "null",
+    "texture": "wood",
+    "print_category": "plain"
+  },
+  "17.jpg": {
+    "category": "others",
+    "item_type": "floral arrangement",
+    "primary_color": "white",
+    "usage": "null",
+    "texture": "null",
+    "print_category": "null"
+  },
+  "18.jpg": {
+    "category": "others",
+    "item_type": "mirror",
+    "primary_color": "brown",
+    "usage": "null",
+    "texture": "wood",
+    "print_category": "plain"
+  },
+  "19.jpg": {
+    "category": "others",
+    "item_type": "cushion",
+    "primary_color": "brown",
+    "usage": "null",
+    "texture": "suede",
+    "print_category": "plaid"
+  },
+  "20.jpg": {
+    "category": "others",
+    "item_type": "plant",
+    "primary_color": "green",
+    "usage": "null",
+    "texture": "null",
+    "print_category": "null"
+  },
+  "21.jpg": {
+    "category": "others",
+    "item_type": "floor lamp",
+    "primary_color": "grey",
+    "usage": "null",
+    "texture": "metal",
+    "print_category": "striped"
+  },
+  "22.jpg": {
+    "category": "others",
+    "item_type": "basket",
+    "primary_color": "beige",
+    "usage": "null",
+    "texture": "wicker",
+    "print_category": "plain"
+  },
+  "23.jpg": {
+    "category": "others",
+    "item_type": "box",
+    "primary_color": "brown",
+    "usage": "null",
+    "texture": "wood",
+    "print_category": "plain"
+  },
+  "24.jpg": {
+    "category": "others",
+    "item_type": "vase",
+    "primary_color": "brown",
+    "usage": "null",
+    "texture": "ceramic",
+    "print_category": "plain"
+  },
+  "25.jpg": {
+    "category": "others",
+    "item_type": "photo frame",
+    "primary_color": "black",
+    "usage": "null",
+    "texture": "wood",
+    "print_category": "striped"
+  },
+  "26.jpg": {
+    "category": "others",
+    "item_type": "vase",
+    "primary_color": "blue",
+    "usage": "null",
+    "texture": "ceramic",
+    "print_category": "striped"
+  },
+  "27.jpg": {
+    "category": "others",
+    "item_type": "plant",
+    "primary_color": "green",
+    "usage": "null",
+    "texture": "null",
+    "print_category": "null"
+  }
+}

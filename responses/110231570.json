@@ -1,0 +1,58 @@
+{
+  "0.jpg": {
+    "category": "others",
+    "description": "This image contains multiple clothing items and cannot be categorized individually."
+  },
+  "1.jpg": {
+    "category": "tops",
+    "item_type": "peplum top",
+    "primary_color": "black",
+    "usage": "formal",
+    "texture": "knit",
+    "print_category": "plain"
+  },
+  "2.jpg": {
+    "category": "tops",
+    "item_type": "flannel shirt",
+    "primary_color": "red",
+    "usage": "casual",
+    "texture": "cotton",
+    "print_category": "plaid"
+  },
+  "3.jpg": {
+    "category": "bottoms",
+    "item_type": "jeans",
+    "primary_color": "black",
+    "usage": "casual",
+    "texture": "denim",
+    "print_category": "plain"
+  },
+  "4.jpg": {
+    "category": "shoes",
+    "item_type": "combat boots",
+    "primary_color": "black",
+    "usage": "casual",
+    "texture": "leather",
+    "print_category": "plaid"
+  },
+  "5.jpg": {
+    "category": "others",
+    "description": "This image contains an accessory (necklace) and cannot be categorized as clothing."
+  },
+  "6.jpg": {
+    "category": "others",
+    "description": "This image contains multiple clothing items and cannot be categorized individually."
+  },
+  "7.jpg": {
+    "category": "others",
+    "description": "This image is blank or contains an unidentifiable item."
+  },
+  "8.jpg": {
+    "category": "others",
+    "description": "This image contains text and is not a clothing item."
+  },
+  "9.jpg": {
+    "category": "others",
+    "description": "This image contains text and is not a clothing item."
+  }
+}

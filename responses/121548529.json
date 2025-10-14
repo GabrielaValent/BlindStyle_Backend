@@ -1,0 +1,154 @@
+{
+  "0.jpg": {
+    "category": "others",
+    "item_type": "multiple items",
+    "primary_color": "null",
+    "usage": "null",
+    "texture": "null",
+    "print_category": "null"
+  },
+  "1.jpg": {
+    "category": "tops",
+    "item_type": "dress",
+    "primary_color": "pink",
+    "usage": "party",
+    "texture": "others",
+    "print_category": "plain"
+  },
+  "2.jpg": {
+    "category": "shoes",
+    "item_type": "wedge sandals",
+    "primary_color": "brown",
+    "usage": "casual",
+    "texture": "leather",
+    "print_category": "plain"
+  },
+  "3.jpg": {
+    "category": "others",
+    "item_type": "handbag",
+    "primary_color": "beige",
+    "usage": "null",
+    "texture": "leather",
+    "print_category": "plain"
+  },
+  "4.jpg": {
+    "category": "others",
+    "item_type": "necklace",
+    "primary_color": "gold",
+    "usage": "null",
+    "texture": "others",
+    "print_category": "plain"
+  },
+  "5.jpg": {
+    "category": "others",
+    "item_type": "bracelet",
+    "primary_color": "multicolored",
+    "usage": "null",
+    "texture": "others",
+    "print_category": "floral"
+  },
+  "6.jpg": {
+    "category": "bottoms",
+    "item_type": "belt",
+    "primary_color": "brown",
+    "usage": "casual",
+    "texture": "leather",
+    "print_category": "plain"
+  },
+  "7.jpg": {
+    "category": "others",
+    "item_type": "multiple items",
+    "primary_color": "pink",
+    "usage": "null",
+    "texture": "null",
+    "print_category": "abstract"
+  },
+  "8.jpg": {
+    "category": "others",
+    "item_type": "makeup",
+    "primary_color": "brown",
+    "usage": "null",
+    "texture": "null",
+    "print_category": "plain"
+  },
+  "9.jpg": {
+    "category": "others",
+    "item_type": "text",
+    "primary_color": "pink",
+    "usage": "null",
+    "texture": "null",
+    "print_category": "plain"
+  },
+  "10.jpg": {
+    "category": "others",
+    "item_type": "lipstick",
+    "primary_color": "pink",
+    "usage": "null",
+    "texture": "null",
+    "print_category": "plain"
+  },
+  "11.jpg": {
+    "category": "others",
+    "item_type": "drink",
+    "primary_color": "pink",
+    "usage": "null",
+    "texture": "null",
+    "print_category": "plain"
+  },
+  "12.jpg": {
+    "category": "others",
+    "item_type": "popsicle",
+    "primary_color": "pink",
+    "usage": "null",
+    "texture": "null",
+    "print_category": "plain"
+  },
+  "13.jpg": {
+    "category": "tops",
+    "item_type": "blouse",
+    "primary_color": "white",
+    "usage": "casual",
+    "texture": "knit",
+    "print_category": "abstract"
+  },
+  "14.jpg": {
+    "category": "others",
+    "item_type": "text",
+    "primary_color": "null",
+    "usage": "null",
+    "texture": "null",
+    "print_category": "null"
+  },
+  "15.jpg": {
+    "category": "others",
+    "item_type": "food",
+    "primary_color": "beige",
+    "usage": "null",
+    "texture": "null",
+    "print_category": "plain"
+  },
+  "16.jpg": {
+    "category": "others",
+    "item_type": "plant",
+    "primary_color": "green",
+    "usage": "null",
+    "texture": "null",
+    "print_category": "plain"
+  },
+  "17.jpg": {
+    "category": "others",
+    "item_type": "flowers",
+    "primary_color": "purple",
+    "usage": "null",
+    "texture": "null",
+    "print_category": "floral"
+  },
+  "18.jpg": {
+    "category": "others",
+    "item_type": "text",
+    "primary_color": "null",
+    "usage": "null",
+    "texture": "null",
+    "print_category": "null"
+  }
+}

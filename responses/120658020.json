@@ -1,0 +1,50 @@
+{
+  "0.jpg": {
+    "category": "others",
+    "description": "This image contains multiple clothing items and accessories, making a complete outfit."
+  },
+  "1.jpg": {
+    "category": "tops",
+    "item_type": "t-shirt",
+    "primary_color": "beige",
+    "usage": "casual",
+    "texture": "knit",
+    "print_category": "plain"
+  },
+  "2.jpg": {
+    "category": "bottoms",
+    "item_type": "pencil skirt",
+    "primary_color": "gold",
+    "usage": "formal",
+    "texture": "others",
+    "print_category": "plain"
+  },
+  "3.jpg": {
+    "category": "shoes",
+    "item_type": "pumps",
+    "primary_color": "brown",
+    "usage": "formal",
+    "texture": "leather",
+    "print_category": "plain"
+  },
+  "4.jpg": {
+    "category": "others",
+    "description": "This is a handbag."
+  },
+  "5.jpg": {
+    "category": "others",
+    "description": "These are earrings."
+  },
+  "6.jpg": {
+    "category": "tops",
+    "item_type": "t-shirt",
+    "primary_color": "beige",
+    "usage": "casual",
+    "texture": "knit",
+    "print_category": "plain"
+  },
+  "7.jpg": {
+    "category": "others",
+    "description": "This image contains text only."
+  }
+}

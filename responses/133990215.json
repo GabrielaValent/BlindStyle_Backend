@@ -1,0 +1,100 @@
+{
+  "0.jpg": {
+    "category": "others"
+  },
+  "1.jpg": {
+    "category": "others"
+  },
+  "2.jpg": {
+    "category": "others"
+  },
+  "3.jpg": {
+    "category": "others"
+  },
+  "4.jpg": {
+    "category": "others"
+  },
+  "5.jpg": {
+    "category": "others"
+  },
+  "6.jpg": {
+    "category": "others"
+  },
+  "7.jpg": {
+    "category": "others"
+  },
+  "8.jpg": {
+    "category": "others"
+  },
+  "9.jpg": {
+    "category": "others"
+  },
+  "10.jpg": {
+    "category": "tops",
+    "item_type": "sleeveless top",
+    "primary_color": "beige",
+    "usage": "casual",
+    "texture": "silk",
+    "print_category": "floral"
+  },
+  "11.jpg": {
+    "category": "tops",
+    "item_type": "crop top",
+    "primary_color": "pink",
+    "usage": "casual",
+    "texture": "knit",
+    "print_category": "plain"
+  },
+  "12.jpg": {
+    "category": "tops",
+    "item_type": "jacket",
+    "primary_color": "black",
+    "usage": "outerwear",
+    "texture": "wool",
+    "print_category": "plain"
+  },
+  "13.jpg": {
+    "category": "bottoms",
+    "item_type": "jeans",
+    "primary_color": "blue",
+    "usage": "casual",
+    "texture": "denim",
+    "print_category": "plain"
+  },
+  "14.jpg": {
+    "category": "shoes",
+    "item_type": "boot",
+    "primary_color": "brown",
+    "usage": "casual",
+    "texture": "suede",
+    "print_category": "plain"
+  },
+  "15.jpg": {
+    "category": "shoes",
+    "item_type": "boot",
+    "primary_color": "black",
+    "usage": "casual",
+    "texture": "leather",
+    "print_category": "plain"
+  },
+  "16.jpg": {
+    "category": "others"
+  },
+  "17.jpg": {
+    "category": "others"
+  },
+  "18.jpg": {
+    "category": "others"
+  },
+  "19.jpg": {
+    "category": "bottoms",
+    "item_type": "shorts",
+    "primary_color": "blue",
+    "usage": "casual",
+    "texture": "denim",
+    "print_category": "plain"
+  },
+  "20.jpg": {
+    "category": "others"
+  }
+}

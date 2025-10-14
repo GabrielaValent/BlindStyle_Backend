@@ -1,0 +1,98 @@
+{
+  "0.jpg": {
+    "category": "bottoms",
+    "item_type": "dress",
+    "primary_color": "coral",
+    "usage": "party",
+    "texture": "others",
+    "print_category": "animal"
+  },
+  "1.jpg": {
+    "category": "shoes",
+    "item_type": "high heels",
+    "primary_color": "black",
+    "usage": "party",
+    "texture": "satin",
+    "print_category": "plain"
+  },
+  "2.jpg": {
+    "category": "others",
+    "item_type": "clutch",
+    "primary_color": "coral",
+    "usage": "party",
+    "texture": "velvet",
+    "print_category": "plain"
+  },
+  "3.jpg": {
+    "category": "others",
+    "item_type": "bracelet",
+    "primary_color": "black",
+    "usage": "casual",
+    "texture": "others",
+    "print_category": "plain"
+  },
+  "4.jpg": {
+    "category": "others",
+    "item_type": "earrings",
+    "primary_color": "white",
+    "usage": "casual",
+    "texture": "others",
+    "print_category": "plain"
+  },
+  "5.jpg": {
+    "category": "others",
+    "item_type": "headband",
+    "primary_color": "black",
+    "usage": "casual",
+    "texture": "satin",
+    "print_category": "plain"
+  },
+  "6.jpg": {
+    "category": "others",
+    "item_type": "hair accessory",
+    "primary_color": "black",
+    "usage": "casual",
+    "texture": "mesh",
+    "print_category": "plain"
+  },
+  "7.jpg": {
+    "category": "others",
+    "item_type": "makeup",
+    "primary_color": "black",
+    "usage": "others",
+    "texture": "others",
+    "print_category": "plain"
+  },
+  "8.jpg": {
+    "category": "bottoms",
+    "item_type": "dress",
+    "primary_color": "coral",
+    "usage": "party",
+    "texture": "others",
+    "print_category": "animal"
+  },
+  "9.jpg": {
+    "category": "others",
+    "item_type": "hair",
+    "primary_color": "blonde",
+    "usage": "others",
+    "texture": "others",
+    "print_category": "plain"
+  },
+  "10.jpg": {
+    "category": "others",
+    "item_type": "makeup",
+    "primary_color": "coral",
+    "usage": "others",
+    "texture": "others",
+    "print_category": "plain"
+  },
+  "11.jpg": {
+    "category": "others",
+    "item_type": "unknown",
+    "primary_color": "white",
+    "usage": "others",
+    "texture": "others",
+    "print_category": "plain"
+  }
+}

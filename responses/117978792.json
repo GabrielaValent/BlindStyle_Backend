@@ -1,0 +1,322 @@
+{
+  "0.jpg": {
+    "category": "others",
+    "item_type": "multiple kitchen items",
+    "primary_color": "pink and green",
+    "usage": "kitchen",
+    "texture": "others",
+    "print_category": "others"
+  },
+  "1.jpg": {
+    "category": "others",
+    "item_type": "lamp",
+    "primary_color": "pink",
+    "usage": "home decor",
+    "texture": "others",
+    "print_category": "plain"
+  },
+  "2.jpg": {
+    "category": "others",
+    "item_type": "lamp",
+    "primary_color": "pink",
+    "usage": "home decor",
+    "texture": "glass",
+    "print_category": "plain"
+  },
+  "3.jpg": {
+    "category": "others",
+    "item_type": "lamp",
+    "primary_color": "green",
+    "usage": "home decor",
+    "texture": "metal",
+    "print_category": "plain"
+  },
+  "4.jpg": {
+    "category": "others",
+    "item_type": "apron",
+    "primary_color": "pink",
+    "usage": "kitchen",
+    "texture": "cotton",
+    "print_category": "plaid"
+  },
+  "5.jpg": {
+    "category": "others",
+    "item_type": "apron",
+    "primary_color": "white",
+    "usage": "kitchen",
+    "texture": "cotton",
+    "print_category": "plaid"
+  },
+  "6.jpg": {
+    "category": "others",
+    "item_type": "plate",
+    "primary_color": "multicolored",
+    "usage": "kitchen",
+    "texture": "others",
+    "print_category": "plaid"
+  },
+  "7.jpg": {
+    "category": "others",
+    "item_type": "stand mixer",
+    "primary_color": "pink",
+    "usage": "kitchen",
+    "texture": "others",
+    "print_category": "plain"
+  },
+  "8.jpg": {
+    "category": "others",
+    "item_type": "plate",
+    "primary_color": "multicolored",
+    "usage": "kitchen",
+    "texture": "others",
+    "print_category": "striped"
+  },
+  "9.jpg": {
+    "category": "others",
+    "item_type": "stand mixer",
+    "primary_color": "pink",
+    "usage": "kitchen",
+    "texture": "others",
+    "print_category": "plain"
+  },
+  "10.jpg": {
+    "category": "others",
+    "item_type": "food processor",
+    "primary_color": "pink",
+    "usage": "kitchen",
+    "texture": "plastic",
+    "print_category": "plain"
+  },
+  "11.jpg": {
+    "category": "others",
+    "item_type": "plate",
+    "primary_color": "pink",
+    "usage": "kitchen",
+    "texture": "paper",
+    "print_category": "striped"
+  },
+  "12.jpg": {
+    "category": "others",
+    "item_type": "mixing bowls",
+    "primary_color": "pink",
+    "usage": "kitchen",
+    "texture": "plastic",
+    "print_category": "plain"
+  },
+  "13.jpg": {
+    "category": "others",
+    "item_type": "placemat",
+    "primary_color": "multicolored",
+    "usage": "kitchen",
+    "texture": "cotton",
+    "print_category": "striped"
+  },
+  "14.jpg": {
+    "category": "others",
+    "item_type": "drinking glasses",
+    "primary_color": "multicolored",
+    "usage": "kitchen",
+    "texture": "glass",
+    "print_category": "plain"
+  },
+  "15.jpg": {
+    "category": "others",
+    "item_type": "plates",
+    "primary_color": "pink and green",
+    "usage": "kitchen",
+    "texture": "enamel",
+    "print_category": "plain"
+  },
+  "16.jpg": {
+    "category": "others",
+    "item_type": "wine glasses",
+    "primary_color": "multicolored",
+    "usage": "kitchen",
+    "texture": "glass",
+    "print_category": "plain"
+  },
+  "17.jpg": {
+    "category": "others",
+    "item_type": "bowl",
+    "primary_color": "pink and beige",
+    "usage": "kitchen",
+    "texture": "bamboo",
+    "print_category": "plain"
+  },
+  "18.jpg": {
+    "category": "others",
+    "item_type": "placemat",
+    "primary_color": "pink and white",
+    "usage": "kitchen",
+    "texture": "cotton",
+    "print_category": "striped"
+  },
+  "19.jpg": {
+    "category": "others",
+    "item_type": "baking dish",
+    "primary_color": "green",
+    "usage": "kitchen",
+    "texture": "ceramic",
+    "print_category": "plain"
+  },
+  "20.jpg": {
+    "category": "others",
+    "item_type": "tea towels",
+    "primary_color": "multicolored",
+    "usage": "kitchen",
+    "texture": "cotton",
+    "print_category": "plaid"
+  },
+  "21.jpg": {
+    "category": "others",
+    "item_type": "tea towels",
+    "primary_color": "multicolored",
+    "usage": "kitchen",
+    "texture": "cotton",
+    "print_category": "plaid"
+  },
+  "22.jpg": {
+    "category": "others",
+    "item_type": "spatulas",
+    "primary_color": "green",
+    "usage": "kitchen",
+    "texture": "silicone",
+    "print_category": "plain"
+  },
+  "23.jpg": {
+    "category": "others",
+    "item_type": "mug",
+    "primary_color": "pink",
+    "usage": "kitchen",
+    "texture": "ceramic",
+    "print_category": "striped"
+  },
+  "24.jpg": {
+    "category": "others",
+    "item_type": "napkin",
+    "primary_color": "green",
+    "usage": "kitchen",
+    "texture": "paper",
+    "print_category": "abstract"
+  },
+  "25.jpg": {
+    "category": "others",
+    "item_type": "pot holder",
+    "primary_color": "multicolored",
+    "usage": "kitchen",
+    "texture": "cotton",
+    "print_category": "plaid"
+  },
+  "26.jpg": {
+    "category": "others",
+    "item_type": "pot holder",
+    "primary_color": "white",
+    "usage": "kitchen",
+    "texture": "cotton",
+    "print_category": "plaid"
+  },
+  "27.jpg": {
+    "category": "others",
+    "item_type": "spoon",
+    "primary_color": "green",
+    "usage": "kitchen",
+    "texture": "silicone",
+    "print_category": "plain"
+  },
+  "28.jpg": {
+    "category": "others",
+    "item_type": "spoon",
+    "primary_color": "pink",
+    "usage": "kitchen",
+    "texture": "silicone",
+    "print_category": "plain"
+  },
+  "29.jpg": {
+    "category": "others",
+    "item_type": "spoon",
+    "primary_color": "pink",
+    "usage": "kitchen",
+    "texture": "silicone",
+    "print_category": "plain"
+  },
+  "30.jpg": {
+    "category": "others",
+    "item_type": "knife",
+    "primary_color": "pink",
+    "usage": "kitchen",
+    "texture": "ceramic",
+    "print_category": "plain"
+  },
+  "31.jpg": {
+    "category": "others",
+    "item_type": "stand mixer",
+    "primary_color": "green",
+    "usage": "kitchen",
+    "texture": "others",
+    "print_category": "plain"
+  },
+  "32.jpg": {
+    "category": "others",
+    "item_type": "blender",
+    "primary_color": "pink",
+    "usage": "kitchen",
+    "texture": "plastic",
+    "print_category": "plain"
+  },
+  "33.jpg": {
+    "category": "others",
+    "item_type": "coffee maker",
+    "primary_color": "green",
+    "usage": "kitchen",
+    "texture": "aluminum",
+    "print_category": "plain"
+  },
+  "34.jpg": {
+    "category": "others",
+    "item_type": "lamp",
+    "primary_color": "green",
+    "usage": "home decor",
+    "texture": "metal",
+    "print_category": "plain"
+  },
+  "35.jpg": {
+    "category": "others",
+    "item_type": "blender",
+    "primary_color": "green",
+    "usage": "kitchen",
+    "texture": "plastic",
+    "print_category": "plain"
+  },
+  "36.jpg": {
+    "category": "others",
+    "item_type": "coaster",
+    "primary_color": "pink and green",
+    "usage": "kitchen",
+    "texture": "others",
+    "print_category": "abstract"
+  },
+  "37.jpg": {
+    "category": "others",
+    "item_type": "text",
+    "primary_color": "black",
+    "usage": "others",
+    "texture": "others",
+    "print_category": "plain"
+  },
+  "38.jpg": {
+    "category": "others",
+    "item_type": "blender",
+    "primary_color": "pink",
+    "usage": "kitchen",
+    "texture": "plastic",
+    "print_category": "plain"
+  },
+  "39.jpg": {
+    "category": "others",
+    "item_type": "text",
+    "primary_color": "black",
+    "usage": "others",
+    "texture": "others",
+    "print_category": "plain"
+  }
+}

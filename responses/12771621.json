@@ -1,0 +1,162 @@
+{
+  "0.jpg": {
+    "category": "tops",
+    "item_type": "dress",
+    "primary_color": "dark blue",
+    "usage": "party",
+    "texture": "velvet",
+    "print_category": "plain"
+  },
+  "1.jpg": {
+    "category": "tops",
+    "item_type": "dress",
+    "primary_color": "dark blue",
+    "usage": "party",
+    "texture": "velvet",
+    "print_category": "plain"
+  },
+  "2.jpg": {
+    "category": "others",
+    "item_type": "lipstick",
+    "primary_color": "null",
+    "usage": "null",
+    "texture": "null",
+    "print_category": "null"
+  },
+  "3.jpg": {
+    "category": "others",
+    "item_type": "eyeliner",
+    "primary_color": "null",
+    "usage": "null",
+    "texture": "null",
+    "print_category": "null"
+  },
+  "4.jpg": {
+    "category": "others",
+    "item_type": "false eyelashes",
+    "primary_color": "null",
+    "usage": "null",
+    "texture": "null",
+    "print_category": "null"
+  },
+  "5.jpg": {
+    "category": "others",
+    "item_type": "nail polish and lipstick",
+    "primary_color": "null",
+    "usage": "null",
+    "texture": "null",
+    "print_category": "null"
+  },
+  "6.jpg": {
+    "category": "shoes",
+    "item_type": "high heels",
+    "primary_color": "black",
+    "usage": "formal",
+    "texture": "satin",
+    "print_category": "plain"
+  },
+  "7.jpg": {
+    "category": "others",
+    "item_type": "bottle of alcohol",
+    "primary_color": "null",
+    "usage": "null",
+    "texture": "null",
+    "print_category": "null"
+  },
+  "8.jpg": {
+    "category": "others",
+    "item_type": "newspaper",
+    "primary_color": "null",
+    "usage": "null",
+    "texture": "null",
+    "print_category": "null"
+  },
+  "9.jpg": {
+    "category": "others",
+    "item_type": "lip gloss",
+    "primary_color": "null",
+    "usage": "null",
+    "texture": "null",
+    "print_category": "null"
+  },
+  "10.jpg": {
+    "category": "others",
+    "item_type": "paperclips",
+    "primary_color": "null",
+    "usage": "null",
+    "texture": "null",
+    "print_category": "null"
+  },
+  "11.jpg": {
+    "category": "others",
+    "item_type": "null",
+    "primary_color": "null",
+    "usage": "null",
+    "texture": "null",
+    "print_category": "null"
+  },
+  "12.jpg": {
+    "category": "others",
+    "item_type": "text",
+    "primary_color": "null",
+    "usage": "null",
+    "texture": "null",
+    "print_category": "null"
+  },
+  "13.jpg": {
+    "category": "others",
+    "item_type": "text",
+    "primary_color": "null",
+    "usage": "null",
+    "texture": "null",
+    "print_category": "null"
+  },
+  "14.jpg": {
+    "category": "others",
+    "item_type": "person",
+    "primary_color": "null",
+    "usage": "null",
+    "texture": "null",
+    "print_category": "null"
+  },
+  "15.jpg": {
+    "category": "others",
+    "item_type": "building",
+    "primary_color": "null",
+    "usage": "null",
+    "texture": "null",
+    "print_category": "null"
+  },
+  "16.jpg": {
+    "category": "others",
+    "item_type": "makeup brushes",
+    "primary_color": "null",
+    "usage": "null",
+    "texture": "null",
+    "print_category": "null"
+  },
+  "17.jpg": {
+    "category": "others",
+    "item_type": "vinyl record",
+    "primary_color": "null",
+    "usage": "null",
+    "texture": "null",
+    "print_category": "null"
+  },
+  "18.jpg": {
+    "category": "others",
+    "item_type": "paper heart",
+    "primary_color": "null",
+    "usage": "null",
+    "texture": "null",
+    "print_category": "null"
+  },
+  "19.jpg": {
+    "category": "others",
+    "item_type": "tickets",
+    "primary_color": "null",
+    "usage": "null",
+    "texture": "null",
+    "print_category": "null"
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "0.jpg": {
+    "category": "others",
+    "item_type": "multiple items",
+    "primary_color": "black",
+    "usage": null,
+    "texture": null,
+    "print_category": null
+  },
+  "1.jpg": {
+    "category": "others",
+    "item_type": "coffee table",
+    "primary_color": "black",
+    "usage": null,
+    "texture": "leather",
+    "print_category": "plain"
+  },
+  "2.jpg": {
+    "category": "others",
+    "item_type": "lamp",
+    "primary_color": "silver",
+    "usage": null,
+    "texture": "metal",
+    "print_category": "plain"
+  },
+  "3.jpg": {
+    "category": "others",
+    "item_type": "throw blanket",
+    "primary_color": "beige",
+    "usage": null,
+    "texture": "knit",
+    "print_category": "plaid"
+  },
+  "4.jpg": {
+    "category": "others",
+    "item_type": "tabletop",
+    "primary_color": "brown",
+    "usage": null,
+    "texture": "wood",
+    "print_category": "plain"
+  },
+  "5.jpg": {
+    "category": "others",
+    "item_type": "coaster",
+    "primary_color": "black",
+    "usage": null,
+    "texture": "wood",
+    "print_category": "plain"
+  },
+  "6.jpg": {
+    "category": "others",
+    "item_type": "cushion",
+    "primary_color": "black",
+    "usage": null,
+    "texture": "others",
+    "print_category": "abstract"
+  },
+  "7.jpg": {
+    "category": "others",
+    "item_type": "vase",
+    "primary_color": "silver",
+    "usage": null,
+    "texture": "others",
+    "print_category": "plain"
+  },
+  "8.jpg": {
+    "category": "others",
+    "item_type": "candle holder",
+    "primary_color": "grey",
+    "usage": null,
+    "texture": "glass",
+    "print_category": "plain"
+  },
+  "9.jpg": {
+    "category": "others",
+    "item_type": "hide",
+    "primary_color": "black",
+    "usage": null,
+    "texture": "leather",
+    "print_category": "plain"
+  },
+  "10.jpg": {
+    "category": "others",
+    "item_type": "text",
+    "primary_color": "black",
+    "usage": null,
+    "texture": null,
+    "print_category": null
+  },
+  "11.jpg": {
+    "category": "others",
+    "item_type": "blank",
+    "primary_color": "white",
+    "usage": null,
+    "texture": null,
+    "print_category": null
+  },
+  "12.jpg": {
+    "category": "others",
+    "item_type": "multiple items",
+    "primary_color": "black",
+    "usage": null,
+    "texture": null,
+    "print_category": null
+  },
+  "13.jpg": {
+    "category": "others",
+    "item_type": "multiple items",
+    "primary_color": "brown",
+    "usage": null,
+    "texture": null,
+    "print_category": null
+  },
+  "14.jpg": {
+    "category": "others",
+    "item_type": "poufs",
+    "primary_color": "multicolor",
+    "usage": null,
+    "texture": "leather",
+    "print_category": "plain"
+  }
+}

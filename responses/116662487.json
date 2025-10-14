@@ -1,0 +1,58 @@
+{
+  "0.jpg": {
+    "category": "others",
+    "description": "The image contains multiple clothing items and other elements, making it difficult to classify individual pieces."
+  },
+  "1.jpg": {
+    "category": "tops",
+    "item_type": "crop top",
+    "primary_color": "rose gold",
+    "usage": "party",
+    "texture": "others",
+    "print_category": "plain"
+  },
+  "2.jpg": {
+    "category": "bottoms",
+    "item_type": "tutu skirt",
+    "primary_color": "purple",
+    "usage": "party",
+    "texture": "mesh",
+    "print_category": "plain"
+  },
+  "3.jpg": {
+    "category": "shoes",
+    "item_type": "flats",
+    "primary_color": "multicolored",
+    "usage": "casual",
+    "texture": "others",
+    "print_category": "abstract"
+  },
+  "4.jpg": {
+    "category": "others",
+    "description": "The image contains a handbag, which does not fall into the predefined categories."
+  },
+  "5.jpg": {
+    "category": "tops",
+    "item_type": "tshirt",
+    "primary_color": "grey",
+    "usage": "casual",
+    "texture": "cotton",
+    "print_category": "logo"
+  },
+  "6.jpg": {
+    "category": "others",
+    "description": "The image contains a model wearing a large flower headdress, which is not a clothing item."
+  },
+  "7.jpg": {
+    "category": "others",
+    "description": "The image contains a woman in a dress underwater; the dress is difficult to classify in detail due to the image quality and context."
+  },
+  "8.jpg": {
+    "category": "others",
+    "description": "The image contains a magazine page with text, not a clothing item."
+  },
+  "9.jpg": {
+    "category": "others",
+    "description": "The image contains a magazine page with text and a logo, not a clothing item."
+  }
+}

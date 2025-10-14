@@ -1,0 +1,62 @@
+{
+  "0.jpg": {
+    "category": "others",
+    "description": "This image contains multiple items and a hairstyle, making it difficult to classify individual clothing pieces."
+  },
+  "1.jpg": {
+    "category": "tops",
+    "item_type": "tube top",
+    "primary_color": "black",
+    "usage": "casual",
+    "texture": "knit",
+    "print_category": "plain"
+  },
+  "2.jpg": {
+    "category": "tops",
+    "item_type": "leather jacket",
+    "primary_color": "black",
+    "usage": "casual",
+    "texture": "leather",
+    "print_category": "plain"
+  },
+  "3.jpg": {
+    "category": "bottoms",
+    "item_type": "plaid skirt",
+    "primary_color": "blue",
+    "usage": "casual",
+    "texture": "cotton",
+    "print_category": "plaid"
+  },
+  "4.jpg": {
+    "category": "shoes",
+    "item_type": "combat boots",
+    "primary_color": "black",
+    "usage": "casual",
+    "texture": "leather",
+    "print_category": "plain"
+  },
+  "5.jpg": {
+    "category": "others",
+    "description": "This image contains a necklace which is not a clothing item."
+  },
+  "6.jpg": {
+    "category": "others",
+    "description": "This image contains a close-up of lips with lipstick; not a clothing item."
+  },
+  "7.jpg": {
+    "category": "bottoms",
+    "item_type": "fishnet tights",
+    "primary_color": "black",
+    "usage": "casual",
+    "texture": "mesh",
+    "print_category": "plain"
+  },
+  "8.jpg": {
+    "category": "others",
+    "description": "This image contains a close-up of a face with makeup; not a clothing item."
+  },
+  "9.jpg": {
+    "category": "others",
+    "description": "This image contains a hairstyle and a part of a top; not enough information to classify clothing pieces."
+  }
+}

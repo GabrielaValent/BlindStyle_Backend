@@ -1,0 +1,70 @@
+{
+  "0.jpg": {
+    "category": "others",
+    "note": "The image contains multiple clothing items and other objects, making a single classification impossible."
+  },
+  "1.jpg": {
+    "category": "tops",
+    "item_type": "blouse",
+    "primary_color": "white",
+    "usage": "casual",
+    "texture": "polyester",
+    "print_category": "polka dot"
+  },
+  "2.jpg": {
+    "category": "tops",
+    "item_type": "blazer",
+    "primary_color": "red",
+    "usage": "formal",
+    "texture": "polyester",
+    "print_category": "plain"
+  },
+  "3.jpg": {
+    "category": "bottoms",
+    "item_type": "jeans",
+    "primary_color": "dark blue",
+    "usage": "casual",
+    "texture": "denim",
+    "print_category": "plain"
+  },
+  "4.jpg": {
+    "category": "shoes",
+    "item_type": "flats",
+    "primary_color": "silver",
+    "usage": "casual",
+    "texture": "leather",
+    "print_category": "plain"
+  },
+  "5.jpg": {
+    "category": "others",
+    "note": "The image contains a handbag, which does not fit into the predefined categories."
+  },
+  "6.jpg": {
+    "category": "others",
+    "note": "The image contains a necklace, which does not fit into the predefined categories."
+  },
+  "7.jpg": {
+    "category": "others",
+    "note": "The image contains makeup items, which does not fit into the predefined categories."
+  },
+  "8.jpg": {
+    "category": "others",
+    "note": "The image contains a notebook/organizer, which does not fit into the predefined categories."
+  },
+  "9.jpg": {
+    "category": "others",
+    "note": "The image is blank/unidentifiable."
+  },
+  "10.jpg": {
+    "category": "others",
+    "note": "The image contains food, which does not fit into the predefined categories."
+  },
+  "11.jpg": {
+    "category": "others",
+    "note": "The image contains multiple clothing items and a background, making a single classification impossible."
+  },
+  "12.jpg": {
+    "category": "others",
+    "note": "The image contains a logo, which does not fit into the predefined categories."
+  }
+}

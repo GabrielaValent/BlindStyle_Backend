@@ -1,0 +1,42 @@
+{
+  "0.jpg": {
+    "category": "others",
+    "item_type": "dress and accessories",
+    "primary_color": "blue",
+    "usage": "party",
+    "texture": "satin",
+    "print_category": "plain"
+  },
+  "1.jpg": {
+    "category": "others",
+    "item_type": "earrings",
+    "primary_color": "silver",
+    "usage": "party",
+    "texture": "metal",
+    "print_category": "plain"
+  },
+  "2.jpg": {
+    "category": "others",
+    "item_type": "necklace",
+    "primary_color": "silver",
+    "usage": "party",
+    "texture": "metal",
+    "print_category": "plain"
+  },
+  "3.jpg": {
+    "category": "tops",
+    "item_type": "dress",
+    "primary_color": "blue",
+    "usage": "party",
+    "texture": "satin",
+    "print_category": "plain"
+  },
+  "4.jpg": {
+    "category": "others",
+    "item_type": "hair",
+    "primary_color": "blonde",
+    "usage": "null",
+    "texture": "null",
+    "print_category": "null"
+  }
+}

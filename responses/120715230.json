@@ -1,0 +1,46 @@
+{
+  "0.jpg": {
+    "category": "others",
+    "note": "The image contains multiple clothing items and other objects."
+  },
+  "1.jpg": {
+    "category": "tops",
+    "item_type": "dress",
+    "primary_color": "black",
+    "usage": "party",
+    "texture": "cotton",
+    "print_category": "floral"
+  },
+  "2.jpg": {
+    "category": "tops",
+    "item_type": "denim vest",
+    "primary_color": "blue",
+    "usage": "casual",
+    "texture": "denim",
+    "print_category": "plain"
+  },
+  "3.jpg": {
+    "category": "shoes",
+    "item_type": "high heels",
+    "primary_color": "black",
+    "usage": "party",
+    "texture": "suede",
+    "print_category": "plain"
+  },
+  "4.jpg": {
+    "category": "others",
+    "note": "The image contains a bracelet, which is not a clothing item."
+  },
+  "5.jpg": {
+    "category": "others",
+    "note": "The image contains a bottle of Starbucks Frappuccino, which is not a clothing item."
+  },
+  "6.jpg": {
+    "category": "others",
+    "note": "The image contains a person, not a clothing item."
+  },
+  "7.jpg": {
+    "category": "others",
+    "note": "The image contains a mobile phone, which is not a clothing item."
+  }
+}

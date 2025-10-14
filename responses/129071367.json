@@ -1,0 +1,54 @@
+{
+  "0.jpg": {
+    "category": "others",
+    "description": "This image contains multiple items and a collage, making it difficult to extract individual clothing attributes."
+  },
+  "1.jpg": {
+    "category": "tops",
+    "item_type": "dress",
+    "primary_color": "multicolor",
+    "usage": "casual",
+    "texture": "others",
+    "print_category": "abstract"
+  },
+  "2.jpg": {
+    "category": "shoes",
+    "item_type": "high heels",
+    "primary_color": "purple",
+    "usage": "party",
+    "texture": "leather",
+    "print_category": "plain"
+  },
+  "3.jpg": {
+    "category": "others",
+    "description": "This image contains a handbag; it is not a clothing item."
+  },
+  "4.jpg": {
+    "category": "others",
+    "description": "This image contains earrings; they are not a clothing item."
+  },
+  "5.jpg": {
+    "category": "others",
+    "description": "This image contains a hat; it is not a clothing item."
+  },
+  "6.jpg": {
+    "category": "others",
+    "description": "This image contains flowers; it is not a clothing item."
+  },
+  "7.jpg": {
+    "category": "others",
+    "description": "This image contains a portrait; it is not a clothing item."
+  },
+  "8.jpg": {
+    "category": "others",
+    "description": "This image contains text; it is not a clothing item."
+  },
+  "9.jpg": {
+    "category": "others",
+    "description": "This image contains a logo; it is not a clothing item."
+  },
+  "10.jpg": {
+    "category": "others",
+    "description": "This image contains text; it is not a clothing item."
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "0.jpg": {
+    "category": "others",
+    "description": "This image contains multiple clothing items and accessories, making it difficult to provide individual descriptions."
+  },
+  "1.jpg": {
+    "category": "tops",
+    "item_type": "lace top",
+    "primary_color": "black",
+    "usage": "formal",
+    "texture": "lace",
+    "print_category": "plain"
+  },
+  "2.jpg": {
+    "category": "tops",
+    "item_type": "coat",
+    "primary_color": "dark gray",
+    "usage": "outerwear",
+    "texture": "wool",
+    "print_category": "plain"
+  },
+  "3.jpg": {
+    "category": "bottoms",
+    "item_type": "tutu skirt",
+    "primary_color": "beige",
+    "usage": "party",
+    "texture": "mesh",
+    "print_category": "plain"
+  },
+  "4.jpg": {
+    "category": "shoes",
+    "item_type": "high heels",
+    "primary_color": "black",
+    "usage": "party",
+    "texture": "suede",
+    "print_category": "plain"
+  },
+  "5.jpg": {
+    "category": "others",
+    "description": "This is a clutch; it's not clothing."
+  },
+  "6.jpg": {
+    "category": "others",
+    "description": "This is a necklace; it's not clothing."
+  },
+  "7.jpg": {
+    "category": "others",
+    "description": "This is a hair accessory; it's not clothing."
+  },
+  "8.jpg": {
+    "category": "others",
+    "description": "This is a makeup detail; it's not clothing."
+  },
+  "9.jpg": {
+    "category": "others",
+    "description": "This is a makeup detail; it's not clothing."
+  },
+  "10.jpg": {
+    "category": "others",
+    "description": "This image contains multiple clothing items, making it difficult to provide individual descriptions."
+  }
+}
